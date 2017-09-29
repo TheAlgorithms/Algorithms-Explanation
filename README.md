@@ -8,18 +8,18 @@ Write a short algorithm description like :-
 
 ## Steps
 
-Describe the algorithm in clear and unerstandable steps.
+Describe the algorithm in clear and understandable steps.
 
 ## Example
 
-Trace the algorithm with an sample input data.
+Trace the algorithm with a sample input data.
 
 ## Implementation
 
-Links to their implementation in programmuing languages.
+Links to their implementation in programming languages.
 NOTE : The link should be within the other repos of this organization only.
 
-## VIdeo URL
+## Video URL
 
 URL to a video that explains the algorithm. 
 
