@@ -22,3 +22,7 @@ NOTE : The link should be within the other repos of this organization only.
 ## VIdeo URL
 
 URL to a video that explains the algorithm. 
+
+## Others
+
+Any other information should be included in this section.
