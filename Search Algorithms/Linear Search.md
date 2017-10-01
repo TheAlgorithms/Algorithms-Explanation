@@ -23,14 +23,11 @@ O(1)
 
 #### Example
 
-`arr = [1, 3, 9, 5, 0, 2]     
-
- target = 5             
- Linear Search should return index 3 as 5 is on index 3       
- 
- target = 6            
- Linear Search should return -1 as 6 is not present in the array
- `
+`arr = [1, 3, 9, 5, 0, 2]`          
+ `target = 5 `               
+ `Linear Search should return index 3 as 5 is on index 3   `    
+ `target = 6  `          
+ `Linear Search should return -1 as 6 is not present in the array `
 
 #### Code Implementation Links
 
