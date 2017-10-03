@@ -11,11 +11,14 @@ Given an unsorted array of n elements, write a function to sort the array
 - quicksort right partition recursively
 #### Time Complexity
 
-O(n^2) Worse Case     
+O(n^2) Worst case performance
 
+O(n log n) Best-case performance
+
+O(n log n) Average performance
 #### Space Complexity
 
-O(1)
+O(log(n)) Worst case
 
 #### Founder's Name
 
