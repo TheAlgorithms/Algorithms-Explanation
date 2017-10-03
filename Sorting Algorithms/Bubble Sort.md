@@ -98,3 +98,7 @@ Indexes: 0   1   2   3
 #### Video Explanation
 
 [A video explaining the Bubble Sort Algorithm](https://www.youtube.com/watch?v=Jdtq5uKz-w4)
+
+#### Others
+
+Bubble sort is also known as Sinking sort.
