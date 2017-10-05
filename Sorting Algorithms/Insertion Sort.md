@@ -78,3 +78,6 @@ Thus, the sequence is completely sorted.
 - [Go](https://github.com/TheAlgorithms/Go/blob/master/sorts/Insertion_Sort.go)
 - [C](https://github.com/TheAlgorithms/C/blob/master/sorting/InsertionSort.c)
 
+
+[A video explaining Insertion Sort](https://www.youtube.com/watch?v=i-SKeOcBwko)
+
