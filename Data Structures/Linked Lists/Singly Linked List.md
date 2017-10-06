@@ -36,7 +36,6 @@ the list
 - [Java](https://github.com/TheAlgorithms/Java/blob/master/data_structures/Lists/SinglyLinkedList.java)
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Linked%20List.cpp)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/data_structures/LinkedList/singly_LinkedList.py)
-- [C-Sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/searches/binary_search.cs)
 
 #### Video Explanation
 
