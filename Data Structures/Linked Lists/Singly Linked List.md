@@ -8,7 +8,7 @@ A linear & connected data structure
 
 - Size of a linked list is not fixed 
 - Deleting and adding an element in the middle is not expensive compared to an array
-- Elements can be accessed sequentially not dynamically
+- Elements can be accessed sequentially not dynamically compared to an array
 - Extra memory allocation needs to be done for pointers which connects elements in a linked list
 
 
@@ -27,7 +27,8 @@ class LinkedList
     }
 }
 
-Here every node has a value and a pointer to the next node. The head node signifies the first element in the list
+Here every node has a value and a pointer to the next node. The head node signifies the first element in 
+the list
  ```
 
 #### Code Implementation Links
