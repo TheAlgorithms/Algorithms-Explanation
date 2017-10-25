@@ -14,7 +14,7 @@ Given an array of n elements, write a function to sort the array in increasing o
 
 #### Time Complexity
 
-О(n*n) comparisons, О(n*n) swaps -- Worst Case
+О(n^2) comparisons, О(n^2) swaps -- Worst Case,
 O(n) comparisons, O(1) swaps -- Best Case
 
 #### Space Complexity
@@ -59,4 +59,4 @@ and elements from 11 to 13 will move one position ahead of their current positio
 
 #### Video Explanation
 
-[A CS50 video explaining the Linear Search Algorithm](https://www.youtube.com/watch?v=DFG-XuyPYUQ)
+[A CS50 video explaining the Insertion Search Algorithm](https://www.youtube.com/watch?v=DFG-XuyPYUQ)
