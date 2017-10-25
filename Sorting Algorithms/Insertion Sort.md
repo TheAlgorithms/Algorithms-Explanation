@@ -6,7 +6,7 @@ Given an array of n elements, write a function to sort the array in increasing o
 
 #### Approach
 
-- Define a "key" index, the part of array to the left of which is sorted.
+- Define a "key" index, the subarray to the left of which is sorted.
 - Initiate "key" as 1, ie. the second element of array(as there is only one element to left of the second element, which can be considered as sorted array with one element).
 
 - If value of element at (key - 1) position is less than value of element at (key) position; increament "key".
@@ -14,7 +14,8 @@ Given an array of n elements, write a function to sort the array in increasing o
 
 #### Time Complexity
 
-О(n^2) comparisons, О(n^2) swaps -- Worst Case,
+О(n^2) comparisons, О(n^2) swaps -- Worst Case
+
 O(n) comparisons, O(1) swaps -- Best Case
 
 #### Space Complexity
