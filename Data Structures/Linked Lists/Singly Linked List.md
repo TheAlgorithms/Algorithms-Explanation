@@ -1,42 +1,51 @@
 # Singly Linked List
 
-#### Description
+Singly Linked List is a linear and connected data structure made of Nodes. Each node is composed of a variable ```data``` where its content is stored and a pointer to the next Node on the list. The Linked List has a pointer to the first element of this Node sequence and may also have another pointer to the last Node to make operations at the far end less time-consuming. You can also store a ```length``` variable to store the total length.
 
-A linear & connected data structure
+### Advantages over Arrays
 
-#### How is it different from a typical array?
+- Size of a linked list is not fixed (dynamic size)
+- Deleting and adding an element is not expensive compared to an array
 
-- Size of a linked list is not fixed 
-- Deleting and adding an element in the middle is not expensive compared to an array
+### Drawbacks
+
 - Elements can be accessed sequentially not dynamically compared to an array
 - Extra memory allocation needs to be done for pointers which connects elements in a linked list
 
+### Time Complexity
 
-#### Example
+| Operation | Average | Worst |
+|:---------:|:-------:|:-----:|
+| Access    |   O(n)  |  O(n) |
+| Search    |   O(n)  |  O(n) |
+| Insertion |   O(1)  |  O(1) |
+| Deletion  |   O(1)  |  O(1) |
 
-```
-class LinkedList
-{
-    Node head;
+## Example
 
-    class Node
-    {
-        int data;
-        Node next;
-        Node(int d) {data = d;}
+```.java
+class LinkedList {
+    
+    Node head;      // Pointer to the first element
+	Node tail;      // Optional. Points to the last element
+
+	int length;     // Optional
+
+    class Node {
+        
+        int data;   // Node data. Can be int, string, float, templates, etc
+        Node next;  // Pointer to the next node on the list
+
     }
 }
-
-Here every node has a value and a pointer to the next node. The head node signifies the first element in 
-the list
  ```
 
-#### Code Implementation Links
+## Code Implementation Links
 
 - [Java](https://github.com/TheAlgorithms/Java/blob/master/data_structures/Lists/SinglyLinkedList.java)
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Linked%20List.cpp)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/data_structures/LinkedList/singly_LinkedList.py)
 
-#### Video Explanation
+## Video Explanation
 
 [A CS50 video explaining the Linked List Data Structure](https://www.youtube.com/watch?v=5nsKtQuT6E8)
