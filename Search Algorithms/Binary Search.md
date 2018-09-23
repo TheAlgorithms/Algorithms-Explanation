@@ -40,11 +40,11 @@ Binary Search should return -1 as 9 is not present in the array
 
 #### Code Implementation Links
 
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/Searches/BinarySearch.java)
+- [Java](https://github.com/TheAlgorithms/Java/blob/master/Searches/src/search/BinarySearch.java)
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Binary%20Search.cpp)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/searches/binary_search.py)
 - [C-Sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/searches/binary_search.cs)
-- [C](https://github.com/TheAlgorithms/C/blob/master/Searches/BinarySearch.c)
+- [C](https://github.com/TheAlgorithms/C/blob/master/Searches/Binary_Search.c)
 
 #### Video Explanation
 
