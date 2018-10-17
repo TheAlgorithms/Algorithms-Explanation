@@ -84,14 +84,14 @@ Indexes: 0   1   2   3
 
 #### Code Implementation Links
 
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/Sorts/BubbleSort.java)
+- [Java](https://github.com/TheAlgorithms/Java/blob/master/Sorts/src/sort/BubbleSort.java)
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Sorting/Bubble%20Sort.cpp)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/bubble_sort.py)
 - [C-Sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/sorts/bubble_sort.cs)
-- [Go](https://github.com/TheAlgorithms/Go/blob/master/sorts/BubbleSort.go)
-- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/BubbleSort.rb)
-- [C](https://github.com/TheAlgorithms/C/blob/master/Sorts/BubbleSort.c)
-- [Scala](https://github.com/TheAlgorithms/Scala/blob/master/Bubble%20Sort.scala)
+- [Go](https://github.com/TheAlgorithms/Go/blob/master/sorts/bubble_sort.go)
+- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/Sorting/bubble_sort.rb)
+- [C](https://github.com/TheAlgorithms/C/blob/master/sorting/BubbleSort.c)
+- [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/BubbleSort.scala)
 - [Javascript](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/bubblesort.js)
 
 
