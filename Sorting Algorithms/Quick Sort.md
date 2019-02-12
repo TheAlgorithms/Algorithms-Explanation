@@ -68,7 +68,7 @@ it.
 
 #### Code Implementation Links
 
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/Sorts/src/sort/QuickSort.java)
+- [Java](https://github.com/TheAlgorithms/Java/blob/master/Sorts/QuickSort.java)
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Sorting/Quick%20Sort.cpp)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/quick_sort.py)
 
