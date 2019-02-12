@@ -84,7 +84,7 @@ Indexes: 0   1   2   3
 
 #### Code Implementation Links
 
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/Sorts/src/sort/BubbleSort.java)
+- [Java](https://github.com/TheAlgorithms/Java/blob/master/Sorts/BubbleSort.java)
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Sorting/Bubble%20Sort.cpp)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/bubble_sort.py)
 - [C-Sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/sorts/bubble_sort.cs)
