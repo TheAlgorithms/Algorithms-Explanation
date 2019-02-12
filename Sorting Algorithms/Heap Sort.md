@@ -53,19 +53,17 @@ The heapify procedure calls itself recursively to build heap
  in top down manner.
   ```
   
-![alt text][heap-image]
-
-[heap-image]: https://en.wikipedia.org/wiki/Heapsort#/media/File:Heapsort-example.gif "Heap Sort"
+![heap-image](https://upload.wikimedia.org/wikipedia/commons/1/1b/Sorting_heapsort_anim.gif "Heap Sort")
 
 #### Code Implementation Links
 
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/Sorts/src/sort/HeapSort.java)
+- [Java](https://github.com/TheAlgorithms/Java/blob/master/Sorts/HeapSort.java)
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Sorting/Heap%20Sort%20.cpp)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/heap_sort.py)
 - [Go](https://github.com/TheAlgorithms/Go/blob/master/sorts/Heapsort.go)
 - [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/Sorting/heap_sort.rb)
 - [C-sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/sorts/heap_sort.cs)
-- [C](https://github.com/TheAlgorithms/C/blob/master/Sorts/HeapSort.c)
+- [C](https://github.com/TheAlgorithms/C/blob/master/sorting/HeapSort.c)
 - [Javascript](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/heapSort.js)
 
 
