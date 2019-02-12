@@ -55,7 +55,7 @@ and elements from 11 to 13 will move one position ahead of their current positio
 - [C](https://github.com/TheAlgorithms/C/blob/master/Sorts/InsertionSort.c)
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Sorting/Insertion%20Sort.cpp)
 - [C#](https://github.com/TheAlgorithms/C-Sharp/blob/master/sorts/insertion_sort.cs)
-- [Scala](https://github.com/TheAlgorithms/Scala/blob/master/sorts/InsertionSort.scala)
+- [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/InsertionSort.scala)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/insertion_sort.py)
 
 #### Video Explanation
