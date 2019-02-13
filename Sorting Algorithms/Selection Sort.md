@@ -56,10 +56,10 @@ Indexes: 0   1   2   3
 - [Java](https://github.com/TheAlgorithms/Java/blob/master/Sorts/SelectionSort.java)
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Sorting/Selection%20Sort.cpp)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/selection_sort.py)
-- [Go](https://github.com/TheAlgorithms/Go/blob/master/sorts/selection_Sort.go)
-- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/Selection_Sort.rb)
+- [Go](https://github.com/TheAlgorithms/Go/blob/master/sorts/selection_sort.go)
+- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/Sorting/selection_sort.rb)
 - [C](https://github.com/TheAlgorithms/C/blob/master/sorting/SelectionSort.c)
-- [Scala](https://github.com/TheAlgorithms/Scala/blob/master/Selection%20Sort.scala)
+- [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/SelectionSort.scala)
 - [Javascript](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/selectionSort.js)
 
 

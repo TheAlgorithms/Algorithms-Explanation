@@ -25,24 +25,21 @@ Singly Linked List is a linear and connected data structure made of Nodes. Each 
 
 ```.java
 class LinkedList {
-    
     Node head;      // Pointer to the first element
-	Node tail;      // Optional. Points to the last element
+    Node tail;      // Optional. Points to the last element
 
-	int length;     // Optional
+    int length;     // Optional
 
     class Node {
-        
         int data;   // Node data. Can be int, string, float, templates, etc
         Node next;  // Pointer to the next node on the list
-
     }
 }
  ```
 
 ## Code Implementation Links
 
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/data_structures/Lists/SinglyLinkedList.java)
+- [Java](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Lists/SinglyLinkedList.java)
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Linked%20List.cpp)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/data_structures/LinkedList/singly_LinkedList.py)
 
