@@ -72,8 +72,8 @@ So the length of LCS is `dp[4][4] = 3`.
 #### Code Implementation Links
 
 - [Java](https://github.com/TheAlgorithms/Java/blob/master/Dynamic%20Programming/LongestCommonSubsequence.java)
-- [Python](https://raw.githubusercontent.com/TheAlgorithms/Python/master/dynamic_programming/longest_common_subsequence.py)
-- [C++](https://raw.githubusercontent.com/TheAlgorithms/C-Plus-Plus/master/Dynamic%20Programming/Longest%20Common%20Subsequence.cpp)
+- [Python](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/longest_common_subsequence.py)
+- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Dynamic%20Programming/Longest%20Common%20Subsequence.cpp)
 
 #### Video Explanation
 
