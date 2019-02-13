@@ -93,7 +93,7 @@ O(V^2)
 
 - [Java](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Graphs/BellmanFord.java)
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Dynamic%20Programming/Bellman-Ford.cpp)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/data_structures/Graph/BellmanFord.py)
+- [Python](https://github.com/TheAlgorithms/Python/blob/master/data_structures/graph/bellman_ford.py)
 - [C](https://github.com/TheAlgorithms/C/blob/master/data_structures/graphs/Bellman-Ford.c)
 
 #### Video Explanation
