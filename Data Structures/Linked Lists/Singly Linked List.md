@@ -9,7 +9,7 @@ Singly Linked List is a linear and connected data structure made of Nodes. Each 
 
 ### Drawbacks
 
-- Elements can be accessed sequentially not dynamically compared to an array
+- Elements can be accessed sequentially not randomly compared to an array
 - Extra memory allocation needs to be done for pointers which connects elements in a linked list
 
 ### Time Complexity
