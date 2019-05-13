@@ -3,8 +3,9 @@
 Write a short algorithm description like :-
 1. Time Complexity 
 2. Space Complexity
-3. Founder's Name
-4. etc...
+3. Applications
+4. Founder's Name
+5. etc...
 
 ## Steps
 
