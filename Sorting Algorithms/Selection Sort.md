@@ -66,3 +66,8 @@ Indexes: 0   1   2   3
 #### Video Explanation
 
 [A video explaining the Selection Sort Algorithm](https://www.youtube.com/watch?v=f8hXR_Hvybo)
+
+
+#### Animation Explanation
+
+- [Tute Board](https://boardhub.github.io/tute/?wd=selectSortAlgo2)
