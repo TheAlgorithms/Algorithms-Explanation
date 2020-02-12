@@ -42,3 +42,7 @@ Linear Search should return -1 as 6 is not present in the array
 #### Video Explanation
 
 [A CS50 video explaining the Linear Search Algorithm](https://www.youtube.com/watch?v=CX2CYIJLwfg)
+
+
+#### Animation Explanation
+- [Tute Board](https://boardhub.github.io/tute/?wd=linearSearchAlgo)
