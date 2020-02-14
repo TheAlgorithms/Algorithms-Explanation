@@ -102,3 +102,8 @@ Indexes: 0   1   2   3
 #### Others
 
 Bubble sort is also known as Sinking sort.
+
+#### Animation Explanation
+
+- [Tute Board](https://boardhub.github.io/tute/?wd=bubbleSortAlgo2)
+

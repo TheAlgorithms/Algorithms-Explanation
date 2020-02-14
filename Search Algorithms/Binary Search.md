@@ -49,3 +49,7 @@ Binary Search should return -1 as 9 is not present in the array
 #### Video Explanation
 
 [A CS50 video explaining the Binary Search Algorithm](https://www.youtube.com/watch?v=5xlIPT1FRcA)
+
+#### Animation Explanation
+
+- [Tute Board](https://boardhub.github.io/tute/?wd=binarySearchAlgo2)
