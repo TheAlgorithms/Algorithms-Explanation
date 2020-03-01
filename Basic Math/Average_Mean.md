@@ -59,7 +59,7 @@ Return the value of 22.<u>857142</u> or `23`.
 
 ## Implementation
 
--   [Python](https://github.com/TheAlgorithms/Python/blob/master/maths/average.py)
+-   [Python](https://github.com/TheAlgorithms/Python/blob/master/maths/average_mean.py)
 
 ## Video URL
 
