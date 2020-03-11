@@ -9,7 +9,7 @@ Write a short description of algorithm like:
 
 ## Steps
 
-Describe the algorithm in a clear, simple and understandable steps.
+Describe the algorithm in clear, simple and understandable steps.
 
 ## Example
 
