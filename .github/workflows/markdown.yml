@@ -11,11 +11,13 @@ on:
     branches: [ master ]
 
 jobs:
-  spellcheck:
+  markdown:
     runs-on: ubuntu-latest
 
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
-    - name: Spellcheck
-      uses: rojopolis/spellcheck-github-actions@0.2.0
+      
+    - name: Markdown Linting Action
+      uses: avto-dev/markdown-lint@v1.1.0
+
