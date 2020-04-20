@@ -35,5 +35,5 @@ excluded_files:
 excluded_words:
   - typoci
 
-# Would you like filenames to also be spellchecked?
+# Would you like filenames tog also be spellchecked?
 spellcheck_filenames: true
