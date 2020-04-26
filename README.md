@@ -8,7 +8,7 @@ A collection of classic algoritms described in english accompaned by explanation
 
 ## Contribute
 
-If you feel like helping dig the folders and read the texts, if you find some missing algoritm or resource [follow the contribute manual](.github/CONTRIBUTING.md).
+If you feel like helping dig the folders and read the texts, if you find some missing algorithm or resource [follow the contribute manual](.github/CONTRIBUTING.md).
 
 ## License
 
