@@ -2,10 +2,6 @@
 
 All Algorithms explained in simple English
 
-Index - inline <3 (Uma linha apenas)
-
----
-
 ## About
 
 A collection of classic algoritms described in english accompaned by explanations and links to other resources.
