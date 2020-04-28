@@ -1,6 +1,6 @@
 # Contributing
 
-You can help thi9s project in many ways:
+You can help this project in many ways:
 
 1. Text revision
 
