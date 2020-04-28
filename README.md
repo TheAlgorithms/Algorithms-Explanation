@@ -2,6 +2,8 @@
 
 All Algorithms explained in simple English
 
+![GitHub](https://img.shields.io/github/license/edumco/Algorithms-Explanation)
+
 ## About
 
 A collection of classic algoritms described in english accompaned by explanations and links to other resources.
