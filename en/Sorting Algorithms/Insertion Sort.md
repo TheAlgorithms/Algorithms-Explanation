@@ -52,9 +52,9 @@ and elements from 11 to 13 will move one position ahead of their current positio
 #### Code Implementation Links
 
 - [Java](https://github.com/TheAlgorithms/Java/blob/master/Sorts/InsertionSort.java)
-- [C](https://github.com/TheAlgorithms/C/blob/master/sorting/InsertionSort.c)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Sorting/Insertion%20Sort.cpp)
-- [C#](https://github.com/TheAlgorithms/C-Sharp/blob/master/sorts/insertion_sort.cs)
+- [C](https://github.com/TheAlgorithms/C/blob/master/sorting/insertion_sort.c)
+- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/insertion_sort.cpp)
+- [C#](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/InsertionSorter.cs)
 - [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/InsertionSort.scala)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/insertion_sort.py)
 
