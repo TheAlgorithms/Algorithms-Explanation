@@ -38,6 +38,7 @@ Now merge both these halves to get the sorted array [0, 1, 2, 3, 5, 9]
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/merge_sort.py)
 - [C-Sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/MergeSorter.cs)
 - [C](https://github.com/TheAlgorithms/C/blob/master/sorting/merge_sort.c)
+- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/merge_sort.rb)
 
 #### Video Explanation
 
