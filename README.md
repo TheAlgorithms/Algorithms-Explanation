@@ -1,5 +1,5 @@
 # Algorithms-Explanation
-All Algorithms explained in simple language with examples and links to their implementation in various programming languages and other required resources. 
+All Algorithms explained in simple language with examples and links to their implementation in various programming languages and other required resources.
 
 ## Languages
 - [English](./en)
