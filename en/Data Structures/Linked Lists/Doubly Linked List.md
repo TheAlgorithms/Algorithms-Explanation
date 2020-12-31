@@ -90,7 +90,7 @@ class LinkedList {
             new_node.next.prev = new_node;
     }
 }
- ```
+```
 
 ### Adding node at front
 
@@ -106,6 +106,7 @@ class LinkedList {
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Data%20Structure/Doubly%20Linked%20List.cpp)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/data_structures/linked_list/doubly_linked_list.py)
 - [Go](https://github.com/TheAlgorithms/Go/blob/master/data-structures/linked-list/double-linkedlist.go)
+- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/data_structures/linked_lists/double_list.rb)
 
 ## Video Explanation
 

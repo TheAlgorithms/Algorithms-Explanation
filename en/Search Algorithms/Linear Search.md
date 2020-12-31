@@ -7,7 +7,7 @@ Given an array of n elements, write a function to search for the index of a give
 #### Approach
 
 - Start iterating with the first element in the array.
-- Compare it with the target element 
+- Compare it with the target element
 - If it is equal to the target element then return the index
 - Else continue iterating
 - Return -1 if target element is not found in the array
@@ -26,11 +26,11 @@ O(1)
 ```
 arr = [1, 3, 9, 5, 0, 2]  
 
-target = 5 
+target = 5
 Linear Search should return index 3 as 5 is on index 3     
 
 target = 6           
-Linear Search should return -1 as 6 is not present in the array 
+Linear Search should return -1 as 6 is not present in the array
  ```
 
 #### Code Implementation Links
@@ -43,6 +43,6 @@ Linear Search should return -1 as 6 is not present in the array
 
 [A CS50 video explaining the Linear Search Algorithm](https://www.youtube.com/watch?v=CX2CYIJLwfg)
 
-
 #### Animation Explanation
+
 - [Tute Board](https://boardhub.github.io/tute/?wd=linearSearchAlgo)
