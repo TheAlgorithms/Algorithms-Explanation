@@ -16,7 +16,7 @@ Dado um grafo direcionado ponderado G (V, E) e um vértice fonte s ∈ V, determ
 
 #### Complexidade de tempo
 
-`O(VE)``
+`O(VE)`
 
 #### Complexidade do Espaço
 
