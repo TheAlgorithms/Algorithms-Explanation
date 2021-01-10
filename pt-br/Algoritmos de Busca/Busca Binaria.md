@@ -38,7 +38,7 @@ arr = [1,2,3,4,5,6,7]
 
 alvo = 9
 # A pesquisa binária deve retornar -1, pois 9 não está presente na matriz
- ```
+```
 
 #### Links de implementação de código
 
@@ -50,8 +50,8 @@ alvo = 9
 
 #### Explicação em vídeo
 
-[Um vídeo CS50 explicando o algoritmo de pesquisa binária] (https://www.youtube.com/watch?v=5xlIPT1FRcA)
+[Um vídeo CS50 explicando o algoritmo de pesquisa binária](https://www.youtube.com/watch?v=5xlIPT1FRcA)
 
 #### Explicação em formato de animação
 
-- [Tute Board] (https://boardhub.github.io/tute/?wd=binarySearchAlgo2)
+- [Tute Board](https://boardhub.github.io/tute/?wd=binarySearchAlgo2)
