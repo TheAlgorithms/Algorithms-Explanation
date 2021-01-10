@@ -14,8 +14,8 @@ Dada uma matriz de `n` elementos, escreva uma função para pesquisar o índice 
 
 #### Complexidade de tempo
 
-O(n) pior caso
-O(1) Melhor Caso (Se o primeiro elemento da matriz for o elemento de destino)
+- `O(n)` pior caso
+- `O(1)` Melhor Caso (Se o primeiro elemento da matriz for o elemento de destino)
 
 #### Complexidade de espaço
 
@@ -36,7 +36,7 @@ alvo = 6
 #### Links de implementação de código
 
 - [Java](https://github.com/TheAlgorithms/Java/blob/master/Searches/LinearSearch.java)
-- [C ++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Search/Linear%20Search.cpp)
+- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Search/Linear%20Search.cpp)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/searches/linear_search.py)
 
 #### Explicação em vídeo
