@@ -1,4 +1,4 @@
-# Busca binária (algoritmo de divisão e conquista)
+# Busca Binária (algoritmo de divisão e conquista)
 
 #### Declaração do problema
 
@@ -16,27 +16,29 @@ Dada uma matriz classificada de n elementos, escreva uma função para pesquisar
 
 #### Complexidade de tempo
 
-O (log n) Pior Caso
-O (1) Melhor Caso (se o elemento do meio da matriz inicial for o elemento de destino)
+O(log n) Pior Caso
+O(1) Melhor Caso (se o elemento do meio da matriz inicial for o elemento de destino)
 
 #### Complexidade de espaço
 
-O (1) Para abordagem iterativa
-O (log n) Para abordagem recursiva devido à pilha de chamadas de recursão
+O(1) Para abordagem iterativa
+O(log n) Para abordagem recursiva devido à pilha de chamadas de recursão
 
 #### Exemplo
 
-`` `
+```python
 arr = [1,2,3,4,5,6,7]
 
-alvo = 2
-Inicialmente, o elemento no índice do meio é 4, que é maior do que 2. Portanto, procuramos a metade esquerda do
-matriz, ou seja, [1,2,3].
-Aqui encontramos o elemento do meio igual ao elemento de destino, portanto, retornamos seu índice, ou seja, 1
+# alvo = 2
+# Inicialmente, o elemento no índice do meio é 4, que é maior do que 2.
+# Portanto, procuramos a metade esquerda do
+# matriz, ou seja, [1,2,3].
+# Aqui encontramos o elemento do meio igual ao elemento de destino,
+# portanto, retornamos seu índice, ou seja, 1.
 
 alvo = 9
-A pesquisa binária deve retornar -1, pois 9 não está presente na matriz
- `` `
+# A pesquisa binária deve retornar -1, pois 9 não está presente na matriz
+ ```
 
 #### Links de implementação de código
 
