@@ -19,7 +19,7 @@ Dada uma matriz de `n` elementos, escreva uma função para pesquisar o índice 
 
 #### Complexidade de espaço
 
-O(1)
+`O(1)`
 
 #### Exemplo
 
