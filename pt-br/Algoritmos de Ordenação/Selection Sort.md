@@ -1,57 +1,55 @@
-# Selection Sort
+# Classificação de Seleção
 
-#### Problem Statement
+#### Declaração do problema
 
-Given an unsorted array of n elements, write a function to sort the array
+Dada uma matriz não classificada de n elementos, escreva uma função para classificar a matriz
 
-#### Approach
+#### Abordagem
 
-- select the smallest element from the array
-- put it at the beginning of the array
-- then select the smallest array from the remaining unsorted list
-- append it to the sorted array at the beginning
-- keep doing this for every element of the array
-- repeat the above process n times
+- selecione o menor elemento da matriz
+- coloque-o no início da matriz
+- em seguida, selecione a menor matriz da lista não classificada restante
+- acrescente-o à matriz classificada no início
+- continue fazendo isso para cada elemento da matriz
+- repita o processo acima n vezes
 
-#### Time Complexity
+#### Complexidade de tempo
 
-O(n^2) Worst case performance
+`O(n^2)` Desempenho de pior caso
 
-O(n^2) Best-case performance
+`O(n^2)` Desempenho de melhor caso
 
-O(n^2) Average performance
+`O(n^2)` Desempenho médio
 
-#### Space Complexity
+#### Complexidade do Espaço
 
-O(1) Worst case
+`O(1)` Pior caso
 
-
-#### Example
+#### Exemplo
 
 ```
 arr[] = {80, 10, 40, 30}
-Indexes: 0   1   2   3    
+Índices: 0 1 2 3
 
-1. Index = 0 
-	Select the minimum number from the array (between index 0-3), ie, 10
-2. Swap 10  and 80 (arr[0])
-3. The array now is {10, 80, 40, 30}
+1. Índice = 0
+Selecione o número mínimo da matriz (entre o índice 0-3), ou seja, 10
+2. Troque 10 e 80 (arr[0])
+3. A matriz agora é {10, 80, 40, 30}
 
-4. Index = 1
-	Select the minimum number from the array (between index 1-3), ie, 30
-5. Swap 30 and 80 (arr[1])
-6. The array now is {10, 30, 40, 80}
+4. Índice = 1
+Selecione o número mínimo da matriz (entre os índices 1-3), ou seja, 30
+5. Troque 30 e 80 (arr[1])
+6. A matriz agora é {10, 30, 40, 80}
 
-7. Index = 2
-	Select the minimum number from the array (between index 2-3), ie, 40
-8. Swap 40 and 40 (arr[2])
-9. The array now is {10, 30, 40, 80}
+7. Índice = 2
+Selecione o número mínimo da matriz (entre o índice 2-3), ou seja, 40
+8. Troque 40 e 40 (arr[2])
+9. A matriz agora é {10, 30, 40, 80}
 
-	The array is now sorted.
- ```
+A matriz agora está classificada.
+```
 
-
-#### Code Implementation Links
+#### Links de implementação de código
 
 - [Java](https://github.com/TheAlgorithms/Java/blob/master/Sorts/SelectionSort.java)
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Sorting/Selection%20Sort.cpp)
@@ -62,12 +60,10 @@ Indexes: 0   1   2   3
 - [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/SelectionSort.scala)
 - [Javascript](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/selectionSort.js)
 
+#### Explicação em vídeo
 
-#### Video Explanation
+[Um vídeo explicando o algoritmo de classificação por seleção](https://www.youtube.com/watch?v=f8hXR_Hvybo)
 
-[A video explaining the Selection Sort Algorithm](https://www.youtube.com/watch?v=f8hXR_Hvybo)
-
-
-#### Animation Explanation
+#### Explicação em formato de animação
 
 - [Tute Board](https://boardhub.github.io/tute/?wd=selectSortAlgo2)
