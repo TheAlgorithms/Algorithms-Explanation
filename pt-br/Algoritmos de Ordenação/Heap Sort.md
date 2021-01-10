@@ -21,7 +21,7 @@ ou `O(n)` (teclas iguais) Melhor caso de desempenho
 
 #### Complexidade de Espaço
 
-`O(1)`` Pior caso auxiliar
+`O(1)` Pior caso auxiliar
 
 
 #### Exemplo
@@ -57,7 +57,7 @@ Aplicando procedimento heapify ao índice 0:
 O procedimento heapify chama a si mesmo recursivamente para construir heap de cima para baixo.
 ```
 
-! [heap-image](https://upload.wikimedia.org/wikipedia/commons/1/1b/Sorting_heapsort_anim.gif "Heap Sort")
+![heap-image](https://upload.wikimedia.org/wikipedia/commons/1/1b/Sorting_heapsort_anim.gif "Heap Sort")
 
 #### Links de implementação de código
 
