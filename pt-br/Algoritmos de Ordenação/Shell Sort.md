@@ -65,7 +65,6 @@ Lacuna inicial: 4
 - [C](https://github.com/TheAlgorithms/C/blob/master/sorting/shellSort.c)
 - [Javascript](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/shellSort.js)
 
-
 #### Explicação em vídeo
 
 [Um vídeo explicando o algoritmo de classificação Shell](https://www.youtube.com/watch?v=H8NiFkGu2PY)
