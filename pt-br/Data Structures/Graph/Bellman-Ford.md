@@ -8,10 +8,10 @@ Dado um grafo direcionado ponderado G (V, E) e um vértice fonte s ∈ V, determ
 
 - Inicialize a distância da fonte a todos os vértices como infinita.
 - Inicialize a distância para si mesmo como 0.
-- Crie um array dist [] de tamanho | V | com todos os valores infinitos, exceto dist [s].
+- Crie um array dist[] de tamanho | V | com todos os valores infinitos, exceto dist[s].
 - Repita o seguinte | V | - 1 vezes. Onde | V | é o número de vértices.
 - Crie outro loop para passar por cada aresta (u, v) em E e faça o seguinte:
-1. dist [v] = mínimo (dist [v], dist [u] + peso da aresta).
+1. dist[v] = mínimo (dist[v], dist[u] + peso da aresta).
 - Por último, itere por todas as arestas da última vez para garantir que não haja ciclos com peso negativo.
 
 #### Complexidade de tempo
