@@ -16,13 +16,13 @@ Dada uma matriz classificada de n elementos, escreva uma função para pesquisar
 
 #### Complexidade de tempo
 
-O(log n) Pior Caso
-O(1) Melhor Caso (se o elemento do meio da matriz inicial for o elemento de destino)
+`O(log n)` Pior Caso
+`O(1)` Melhor Caso (se o elemento do meio da matriz inicial for o elemento de destino)
 
 #### Complexidade de espaço
 
-O(1) Para abordagem iterativa
-O(log n) Para abordagem recursiva devido à pilha de chamadas de recursão
+`O(1)` Para abordagem iterativa
+`O(log n)` Para abordagem recursiva devido à pilha de chamadas de recursão
 
 #### Exemplo
 
