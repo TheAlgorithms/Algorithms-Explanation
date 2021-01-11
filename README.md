@@ -1,4 +1,4 @@
-# Algorithms-Explanation
+# Algorithms explanation
 
 [![Gitter chat](https://img.shields.io/badge/Chat-Gitter-ff69b4.svg?label=Chat&logo=gitter&style=flat-square)](https://gitter.im/TheAlgorithms)&nbsp;
 [![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://github.com/TheAlgorithms/Ruby/blob/master/CONTRIBUTING.md)&nbsp;
