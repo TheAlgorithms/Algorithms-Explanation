@@ -1,4 +1,4 @@
-# Média (média)
+# Média
 
 Calcule a média de uma lista de números usando a média.
 
@@ -50,13 +50,13 @@ soma = 160
 contagem = 7
 ```
 
-Se ignorarmos os dígitos significativos: `soma / contagem = 22`. <u> 857142 </u>
+Se ignorarmos os dígitos significativos: `soma / contagem = 22`.
 
 Se considerarmos corretamente os dígitos significativos: `soma / contagem = 23`.
 
 ### Etapa 5
 
-Retorne o valor de 22. <u> 857142 </u> ou `23`.
+Retorne o valor de 22 ou `23`.
 
 ## Implementação
 
