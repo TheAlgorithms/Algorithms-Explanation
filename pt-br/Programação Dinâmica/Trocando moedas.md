@@ -15,7 +15,7 @@ Estes são os códigos para o algoritmo de troca de moeda:
 ```
 para coin_val em S:
   para i no intervalo (coin_val, n + 1):
-    dp [i] + = dp [i - coin_val]
+    dp[i] + = dp[i - coin_val]
 ```
 
 Na segunda iteração, para cada centavo que pode ser trocado, nós o pegamos subtraindo a i-ésima coluna pelo valor da moeda que pegamos e adicionando-o à coluna atual. Portanto, `dp[i]` armazenará o subproblema atual.
@@ -55,7 +55,7 @@ Digamos que temos 3 tipos de moeda `[1,2,3]` e queremos mudar para `7` centavos.
 [1, 1, 2, 3, 4, 5, 7, 8]
 ```
 
-Portanto, a resposta final é ** 8 **. 8 maneiras de fazer troco de 7 centavos usando todos os tipos de moedas. `{{1,1,1,1,1,1,1}, {1,1,1,1,1,2}, {1,1,1,2,2}, {1,2,2,2}, {1,1,1,1,3}, {1,3,3}, {2,2,3}, {1,1,2,3}}`
+Portanto, a resposta final é **8**. 8 maneiras de fazer troco de 7 centavos usando todos os tipos de moedas. `{{1,1,1,1,1,1,1}, {1,1,1,1,1,2}, {1,1,1,2,2}, {1,2,2,2}, {1,1,1,1,3}, {1,3,3}, {2,2,3}, {1,1,2,3}}`
 
 #### Link de implementação de código
 
