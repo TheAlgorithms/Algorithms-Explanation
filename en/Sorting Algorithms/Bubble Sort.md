@@ -27,7 +27,7 @@ O(1) Worst case
 
 #### Founder's Name
 
--
+- The term “Bubble Sort” was first used by Iverson, K in 1962.
 
 #### Example
 
