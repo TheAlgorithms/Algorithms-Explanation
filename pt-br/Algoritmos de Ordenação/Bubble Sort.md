@@ -27,7 +27,7 @@ Dada uma matriz não classificada de n elementos, escreva uma função para clas
 
 #### Nome do fundador
 
--
+- O termo “Bubble Sort” foi a primeira vez usado por Iverson, K em 1962.
 
 #### Exemplo
 
