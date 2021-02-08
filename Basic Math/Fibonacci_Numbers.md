@@ -18,7 +18,7 @@ science including high energy physics, quantum mechanics, Cryptography and Codin
 
 1.  Prepare Base Matrice
 2.  Calculate the power of this Matrice
-3.  Take Corresponding value from Matrixe
+3.  Take Corresponding value from Matrix
 
 ## Example
 
