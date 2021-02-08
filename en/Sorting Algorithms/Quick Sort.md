@@ -9,16 +9,16 @@ Given an unsorted array of n elements, write a function to sort the array
 - partition the array using pivot value
 - quicksort left partition recursively
 - quicksort right partition recursively
+
 #### Time Complexity
 
-O(n^2) Worst case performance
+- `O(n^2)` Worst case performance
+- `O(n log n)` Best-case performance
+- `O(n log n)` Average performance
 
-O(n log n) Best-case performance
-
-O(n log n) Average performance
 #### Space Complexity
 
-O(log(n)) Worst case
+`O(log n)` Worst case
 
 #### Founder's Name
 
@@ -64,7 +64,7 @@ arr[] = {10, 30, 40, 50, 70, 90, 80} // 80 and 70 Swapped
 Now 70 is at its correct place. All elements smaller than
 70 are before it and all elements greater than 70 are after
 it.
- ```
+```
 
 #### Code Implementation Links
 

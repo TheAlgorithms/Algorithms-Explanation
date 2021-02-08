@@ -2,7 +2,7 @@
 
 #### Problem Statement
 
-Given two strings `S` and `T`, find the length of the longest common subsequence (<b>LCS</b>). 
+Given two strings `S` and `T`, find the length of the longest common subsequence (<b>LCS</b>).
 
 #### Approach
 
@@ -19,14 +19,14 @@ We could see that we can fill our `dp` table row by row, column by column. So ou
 - Let's say that we have strings `S` of the length N and `T` of the length M (numbered from 1). Let's create the table `dp` of size `(N + 1) x (M + 1)` numbered from 0.
 - Let's fill the 0th row and the 0th column of `dp` with 0.
 - Then, we follow the algorithm:
-    ```
-        for i in range(1..N):
-            for j in range(1..M):
-                if(S[i] == T[j])
-                    dp[i][j] = dp[i - 1][j - 1] + 1
-                else
-                    dp[i][j] = max(dp[i - 1][j], dp[i][j - 1])
-    ```
+```
+for i in range(1..N):
+    for j in range(1..M):
+        if(S[i] == T[j])
+            dp[i][j] = dp[i - 1][j - 1] + 1
+        else
+            dp[i][j] = max(dp[i - 1][j], dp[i][j - 1])
+```
 
 
 #### Time Complexity
@@ -35,8 +35,8 @@ We could see that we can fill our `dp` table row by row, column by column. So ou
 
 #### Space Complexity
 
-`O(N * M)` - simple implementation 
-`O(min {N, M})` - two-layers implementation (as `dp[i][j]` depends on only i-th and i-th layers, we coudld store only two layers). 
+`O(N * M)` - simple implementation
+`O(min {N, M})` - two-layers implementation (as `dp[i][j]` depends on only i-th and i-th layers, we coudld store only two layers).
 
 #### Example
 

@@ -15,15 +15,15 @@ Dado un arreglo desordenado de n elementos, escribir una función que ordene el 
 
 #### Complejidad en Orden de Tiempo
 
-O(n^2) Rendimiento en el peor de los casos
+`O(n^2)` Rendimiento en el peor de los casos
 
-O(n) Rendimiento en el mejor de los casos
+`O(n)` Rendimiento en el mejor de los casos
 
-O(n^2) Rendimiento promedio
+`O(n^2)` Rendimiento promedio
 
 #### Complejidad en Orden de Espacio
 
-O(1) Peor caso
+`O(1)` Peor caso
 
 #### Nombre del creador del algoritmo
 
@@ -46,7 +46,7 @@ Indices: 0   1   2   3
 7. 80 > 30, intercambiar 80 y 30
 8. El arreglo ahora es {10, 40, 30, 80}
 
-	Repetir los pasos de arriba.
+Repetir los pasos de arriba.
 
 arreglo[] = {10, 40, 30, 80}
 Indices: 0   1   2   3   
@@ -62,7 +62,7 @@ Indices: 0   1   2   3
 7. 40 < 80, No se hace nada. Continuar
 8. El arreglo ahora es {10, 30, 40, 80}
 
-	Repetir los pasos de arriba.
+Repetir los pasos de arriba.
 
 arreglo[] = {10, 30, 40, 80}
 Indices: 0   1   2   3   
@@ -76,11 +76,8 @@ Indices: 0   1   2   3
 5. Indice = 2, Numero = 40
 6. 40 < 80, No se hace nada
 
-	Como no hay intercambios en los pasos de arriba, el arreglo ya se ha ordenado y nos podemos detener.
-
-
- ```
-
+Como no hay intercambios en los pasos de arriba, el arreglo ya se ha ordenado y nos podemos detener.
+```
 
 #### Enlaces a implementaciones de código
 
@@ -94,7 +91,6 @@ Indices: 0   1   2   3
 - [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/BubbleSort.scala)
 - [Javascript](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/bubblesort.js)
 
-
 #### Explicación en video
 
 [Un video explicando el Algoritmo de Ordenamiento Burbuja](https://www.youtube.com/watch?v=EQMGabLO_M0)
@@ -106,4 +102,3 @@ El Ordenamiento Burbuja también es conocido como Sinking sort.
 #### Explicación animada
 
 - [Tablero Tute](https://boardhub.github.io/tute/?wd=bubbleSortAlgo2)
-

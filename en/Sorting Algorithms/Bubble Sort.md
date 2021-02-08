@@ -15,15 +15,15 @@ Given an unsorted array of n elements, write a function to sort the array
 
 #### Time Complexity
 
-O(n^2) Worst case performance
+`O(n^2)` Worst case performance
 
-O(n) Best-case performance
+`O(n)` Best-case performance
 
-O(n^2) Average performance
+`O(n^2)` Average performance
 
 #### Space Complexity
 
-O(1) Worst case
+`O(1)` Worst case
 
 #### Founder's Name
 
@@ -46,7 +46,7 @@ Indexes: 0   1   2   3
 7. 80 > 30, swap 80 and 30
 8. The array now is {10, 40, 30, 80}
 
-	Repeat the Above Steps again
+Repeat the Above Steps again
 
 arr[] = {10, 40, 30, 80}
 Indexes: 0   1   2   3   
@@ -62,7 +62,7 @@ Indexes: 0   1   2   3
 7. 40 < 80, do nothing
 8. The array now is {10, 30, 40, 80}
 
-	Repeat the Above Steps again
+Repeat the Above Steps again
 
 arr[] = {10, 30, 40, 80}
 Indexes: 0   1   2   3   
@@ -76,11 +76,8 @@ Indexes: 0   1   2   3
 5. Index = 2, Number = 40
 6. 40 < 80, do nothing
 
-	Since there are no swaps in above steps, it means the array is sorted and we can stop here.
-
-
- ```
-
+Since there are no swaps in above steps, it means the array is sorted and we can stop here.
+```
 
 #### Code Implementation Links
 
@@ -94,7 +91,6 @@ Indexes: 0   1   2   3
 - [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/BubbleSort.scala)
 - [Javascript](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/BubbleSort.js)
 
-
 #### Video Explanation
 
 [A video explaining the Bubble Sort Algorithm](https://www.youtube.com/watch?v=Jdtq5uKz-w4)
@@ -106,4 +102,3 @@ Bubble sort is also known as Sinking sort.
 #### Animation Explanation
 
 - [Tute Board](https://boardhub.github.io/tute/?wd=bubbleSortAlgo2)
-

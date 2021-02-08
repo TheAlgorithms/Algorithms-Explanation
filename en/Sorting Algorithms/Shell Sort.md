@@ -13,18 +13,18 @@ Given an unsorted array of n elements, write a function to sort the array
 - decrease the gap and repeat until gap = 1
 
 #### Time Complexity
-Time complexity is dependent on the gap sequences. 
+Time complexity is dependent on the gap sequences.
 Below time complexities are based on the gap sequences of n/2^k.
 
-O(n^2) Worst case performance
+`O(n^2)` Worst case performance
 
-O(n) Best-case performance
+`O(n)` Best-case performance
 
-O(n^2) Average performance
+`O(n^2)` Average performance
 
 #### Space Complexity
 
-O(1) Worst case
+`O(1)` Worst case
 
 #### Founder's Name
 
@@ -52,9 +52,7 @@ Initial Gap: 4
 11. 111 < 119, do nothing and continue
 
 12. Divide the gap by 2 and repeat until gap = 1
-
- ```
-
+```
 
 #### Code Implementation Links
 
@@ -66,7 +64,6 @@ Initial Gap: 4
 - [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/Sorting/shell_sort.rb)
 - [C](https://github.com/TheAlgorithms/C/blob/master/sorting/shellSort.c)
 - [Javascript](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/shellSort.js)
-
 
 #### Video Explanation
 

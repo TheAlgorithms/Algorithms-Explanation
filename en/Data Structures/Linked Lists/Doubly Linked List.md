@@ -17,7 +17,7 @@ In singly linked list, to delete a node, pointer to the previous node is needed.
 ### Time Complexity
 
 | Operation | Average | Worst |
-|:---------:|:-------:|:-----:|
+|-----------|---------|-------|
 | Access    |   Θ(n)  |  O(n) |
 | Search    |   Θ(n)  |  O(n) |
 | Insertion |   Θ(1)  |  O(1) |

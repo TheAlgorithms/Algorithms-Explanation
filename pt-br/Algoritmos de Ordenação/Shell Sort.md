@@ -16,11 +16,9 @@ Dada uma matriz não classificada de n elementos, escreva uma função para clas
 A complexidade do tempo depende das sequências de lacunas.
 As complexidades de tempo abaixo são baseadas nas sequências de lacunas de n / 2 ^ k.
 
-`O(n^2)` Desempenho de pior caso
-
-`O(n)` Melhor caso de desempenho
-
-`O(n^2)` Desempenho médio
+- `O(n^2)` Desempenho de pior caso
+- `O(n)` Melhor caso de desempenho
+- `O(n^2)` Desempenho médio
 
 #### Complexidade do Espaço
 

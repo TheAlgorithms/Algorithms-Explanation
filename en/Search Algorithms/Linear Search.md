@@ -31,7 +31,7 @@ Linear Search should return index 3 as 5 is on index 3
 
 target = 6           
 Linear Search should return -1 as 6 is not present in the array
- ```
+```
 
 #### Code Implementation Links
 

@@ -22,7 +22,7 @@ O(1) Best Case (If middle element of initial array is the target element)
 #### Space Complexity
 
 O(1) For iterative approach          
-O(log n) For recursive approach due to recursion call stack 
+O(log n) For recursive approach due to recursion call stack
 
 #### Example
 
@@ -36,7 +36,7 @@ Here we find the middle element equal to target element so we return its index i
 
 target = 9          
 Binary Search should return -1 as 9 is not present in the array
- ```
+```
 
 #### Code Implementation Links
 

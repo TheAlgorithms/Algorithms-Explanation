@@ -12,17 +12,13 @@ Dada uma matriz não classificada de n elementos, escreva uma função para clas
 
 #### Complexidade de tempo
 
-`O(n log n)` Pior caso de desempenho
-
-`O(n log n)` (chaves distintas)
-ou `O(n)` (teclas iguais) Melhor caso de desempenho
-
-`O(n log n)` Desempenho médio
+- `O(n log n)` Pior caso de desempenho
+- `O(n log n)` (chaves distintas) ou `O(n)` (teclas iguais) Melhor caso de desempenho
+- `O(n log n)` Desempenho médio
 
 #### Complexidade de Espaço
 
 `O(1)` Pior caso auxiliar
-
 
 #### Exemplo
 
@@ -69,7 +65,6 @@ O procedimento heapify chama a si mesmo recursivamente para construir heap de ci
 - [C-sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/HeapSorter.cs)
 - [C](https://github.com/TheAlgorithms/C/blob/master/sorting/heap_sort.c)
 - [Javascript](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/HeapSort.js)
-
 
 #### Explicação em vídeo
 

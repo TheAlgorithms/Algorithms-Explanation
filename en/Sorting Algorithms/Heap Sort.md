@@ -12,16 +12,16 @@ Given an unsorted array of n elements, write a function to sort the array
 
 #### Time Complexity
 
-O(n log n) Worst case performance
+`O(n log n)` Worst case performance
 
-O(n log n) (distinct keys)
-or O(n) (equal keys) Best-case performance 
+`O(n log n)` (distinct keys)
+or O(n) (equal keys) Best-case performance
 
-O(n log n)  Average performance
+`O(n log n)` Average performance
 
 #### Space Complexity
 
-O(1) Worst case auxiliary
+`O(1)` Worst case auxiliary
 
 
 #### Example
@@ -33,7 +33,7 @@ Input data: 4, 10, 3, 5, 1
     /   \
  5(3)    1(4)
 
-The numbers in bracket represent the indices in the array 
+The numbers in bracket represent the indices in the array
 representation of data.
 
 Applying heapify procedure to index 1:
@@ -52,7 +52,7 @@ Applying heapify procedure to index 0:
 The heapify procedure calls itself recursively to build heap
  in top down manner.
   ```
-  
+
 ![heap-image](https://upload.wikimedia.org/wikipedia/commons/1/1b/Sorting_heapsort_anim.gif "Heap Sort")
 
 #### Code Implementation Links
@@ -65,7 +65,6 @@ The heapify procedure calls itself recursively to build heap
 - [C-sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/HeapSorter.cs)
 - [C](https://github.com/TheAlgorithms/C/blob/master/sorting/heap_sort.c)
 - [Javascript](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/HeapSort.js)
-
 
 #### Video Explanation
 

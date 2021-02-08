@@ -15,7 +15,7 @@ Singly Linked List is a linear and connected data structure made of Nodes. Each 
 ### Time Complexity
 
 | Operation | Average | Worst |
-|:---------:|:-------:|:-----:|
+|-----------|---------|-------|
 | Access    |   O(n)  |  O(n) |
 | Search    |   O(n)  |  O(n) |
 | Insertion |   O(1)  |  O(1) |

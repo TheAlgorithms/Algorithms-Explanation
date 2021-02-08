@@ -15,11 +15,9 @@ Dada uma matriz não classificada de n elementos, escreva uma função para clas
 
 #### Complexidade de tempo
 
-`O(n^2)` Desempenho de pior caso
-
-`O(n^2)` Desempenho de melhor caso
-
-`O(n^2)` Desempenho médio
+- `O(n^2)` Desempenho de pior caso
+- `O(n^2)` Desempenho de melhor caso
+- `O(n^2)` Desempenho médio
 
 #### Complexidade do Espaço
 

@@ -8,19 +8,18 @@ Given an array of n elements, write a function to sort the array in increasing o
 
 - Define a "key" index, the subarray to the left of which is sorted.
 - Initiate "key" as 1, ie. the second element of array(as there is only one element to left of the second element, which can be considered as sorted array with one element).
-
 - If value of element at (key - 1) position is less than value of element at (key) position; increment "key".
 - Else move elements of sorted subarray that are greater than value of element at "key" to one position ahead of their current position. Put the value of element at "key" in the newly created void.
 
 #### Time Complexity
 
-О(n^2) comparisons, О(n^2) swaps -- Worst Case
+- `О(n^2)` comparisons, `О(n^2)` swaps -- Worst Case
 
-O(n) comparisons, O(1) swaps -- Best Case
+- `O(n)` comparisons, `O(1)` swaps -- Best Case
 
 #### Space Complexity
 
-O(1) -- (No extra space needed, sorting done in place)
+`O(1)` -- (No extra space needed, sorting done in place)
 
 #### Example
 
@@ -47,7 +46,7 @@ i = 4.
 6 will move to position after 5,
 and elements from 11 to 13 will move one position ahead of their current position.
 5, 6, 11, 12, 13  -- sorted array
- ```
+```
 
 #### Code Implementation Links
 

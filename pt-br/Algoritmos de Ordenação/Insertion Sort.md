@@ -8,15 +8,13 @@ Dado um array de n elementos, escreva uma função para classificar o array em o
 
 - Defina um índice de "chave", o subarray à esquerda do qual é classificado.
 - Inicie a "chave" como 1, ou seja. o segundo elemento da matriz (como há apenas um elemento à esquerda do segundo elemento, que pode ser considerado como uma matriz classificada com um elemento).
-
 - Se o valor do elemento na posição (chave - 1) for menor que o valor do elemento na posição (chave); incremento "chave".
 - Caso contrário, mova os elementos do subarray classificado que são maiores que o valor do elemento na "chave" para uma posição à frente de sua posição atual. Coloque o valor do elemento em "chave" no vazio recém-criado.
 
 #### Complexidade de tempo
 
-`О(n^2)` comparações, `О(n^2)` swaps - Pior caso
-
-Comparações `O(n)`, swaps `O(1)` - Melhor Caso
+- `О(n^2)` comparações, `О(n^2)` swaps - Pior caso
+- Comparações `O(n)`, swaps `O(1)` - Melhor Caso
 
 #### Complexidade de espaço
 

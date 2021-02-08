@@ -12,11 +12,11 @@ Given an array of n elements, write a function to sort the array
 
 #### Time Complexity
 
-O(nLogn)
+`O(n log n)`
 
 #### Space Complexity
 
-O(n)
+`O(n)`
 
 #### Example
 
@@ -29,7 +29,7 @@ Recursively call merge sort function for both these halves which will provide so
 => [1, 3, 9] & [0, 2, 5]
 
 Now merge both these halves to get the sorted array [0, 1, 2, 3, 5, 9]
- ```
+```
 
 #### Code Implementation Links
 
