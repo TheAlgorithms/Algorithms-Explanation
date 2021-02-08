@@ -10,7 +10,7 @@ In mathematics, the Fibonacci numbers commonly denoted F(n), form a sequence, ca
 Finding 
 ```N-th``` member of this sequence would be useful in many Applications:
 
--   Recently Fibonacci sequence and golden ratio are of great interest to the researchers in many fields of
+-   Recently Fibonacci sequence and the golden ratio are of great interest to researchers in many fields of
 science including high energy physics, quantum mechanics, Cryptography and Coding. 
  
 
