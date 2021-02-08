@@ -4,7 +4,6 @@ In mathematics, the Fibonacci numbers commonly denoted F(n), form a sequence, ca
 
 `[0, 1, 1, 2, 3, 5, 8, 13, 21, 34,  ...]`
 
-
 ## Applications
 
 Finding 
@@ -12,7 +11,6 @@ Finding
 
 -   Recently Fibonacci sequence and the golden ratio are of great interest to researchers in many fields of
 science including high energy physics, quantum mechanics, Cryptography and Coding. 
- 
 
 ## Steps
 
@@ -23,6 +21,7 @@ science including high energy physics, quantum mechanics, Cryptography and Codin
 ## Example
 
 Find ```8-th``` member of Fibonacci
+
 ### Step 0
  ```
 | F(n+1)  F(n)  |
@@ -58,12 +57,13 @@ F(8)=21
 
 ## Implementation
 
--   [C++](https://www.tutorialspoint.com/cplusplus-program-to-find-fibonacci-numbers-using-matrix-exponentiation)
+- [C++](https://www.tutorialspoint.com/cplusplus-program-to-find-fibonacci-numbers-using-matrix-exponentiation)
+- [Javascript](https://github.com/TheAlgorithms/Javascript/blob/80c2dc85d714f73783f133964d6acd9b5625ddd9/Maths/Fibonacci.js)
 
 ## Video URL
 
--   [Youtube](https://www.youtube.com/watch?v=EEb6JP3NXBI)
+- [Youtube](https://www.youtube.com/watch?v=EEb6JP3NXBI)
 
 ## Others
 
--   [Proof](https://brilliant.org/wiki/fast-fibonacci-transform/)
+- [Proof](https://brilliant.org/wiki/fast-fibonacci-transform/)
