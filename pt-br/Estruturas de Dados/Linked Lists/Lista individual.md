@@ -15,7 +15,7 @@ Singly Linked List é uma estrutura de dados linear e conectada feita de nós. C
 ### Complexidade de tempo
 
 | Operação | Média | Pior |
-|: ---------: |: -------: |: -----: |
+| --------- | ------- | ----- |
 | Acesso O (n) | O (n) |
 | Pesquisa | O (n) | O (n) |
 | Inserção | O (1) | O (1) |

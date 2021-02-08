@@ -27,7 +27,7 @@ Dada uma matriz classificada de n elementos, escreva uma função para pesquisar
 #### Exemplo
 
 ```python
-arr = [1,2,3,4,5,6,7]
+arr = [1, 2, 3, 4, 5, 6, 7]
 
 # alvo = 2
 # Inicialmente, o elemento no índice do meio é 4, que é maior do que 2.

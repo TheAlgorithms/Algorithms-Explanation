@@ -19,7 +19,7 @@ Na lista vinculada individualmente, para excluir um nó, é necessário um ponte
 ### Complexidade de tempo
 
 | Operação | Média | Pior |
-|: ---------: |: -------: |: -----: |
+| --------- | ------- | ----- |
 | Acesso Θ (n) | O (n) |
 | Pesquisa | Θ (n) | O (n) |
 | Inserção | Θ (1) | O (1) |
