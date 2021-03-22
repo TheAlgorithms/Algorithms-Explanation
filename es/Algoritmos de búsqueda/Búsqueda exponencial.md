@@ -6,7 +6,7 @@
 
 #### Declaración de problema
 
-Dada una matriz ordenada de elementos `*n*`, escriba una función para buscar el índice de un elemento determinado (destino)
+Dada una matriz ordenada de *`n`* elementos, escriba una función para buscar el índice de un elemento determinado (destino)
 
 #### Enfoque
 
