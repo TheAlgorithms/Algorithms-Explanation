@@ -16,13 +16,13 @@ Dada una matriz ordenada de `n` elementos, escriba una función para buscar el �
 
 #### Complejidad horaria
 
-`O(log n)` Peor caso
-`O(1)` Mejor caso (Si el elemento central de la matriz inicial es el elemento de destino)
+`O(log n)`- Peor caso
+`O(1)`- Mejor caso (Si el elemento central de la matriz inicial es el elemento de destino)
 
 #### Complejidad espacial
 
-O(1) Para enfoque iterativo
-O(log n) Para el enfoque recursivo debido a la pila de llamadas de recursividad
+`O(1)`- Para enfoque iterativo
+`O(log n)`- Para el enfoque recursivo debido a la pila de llamadas de recursividad
 
 #### Ejemplo
 
@@ -30,12 +30,12 @@ O(log n) Para el enfoque recursivo debido a la pila de llamadas de recursividad
 arr = [1,2,3,4,5,6,7]  
 
 target = 2
-Initially the element at middle index is 4 which is greater than 2. Therefore we search the left half of the
-array i.e. [1,2,3].
-Here we find the middle element equal to target element so we return its index i.e. 1
+Inicialmente, el elemento en el índice medio es 4 que es mayor que 2. Por lo tanto, buscamos la mitad izquierda de la
+matriz, es decir, [1,2,3].
+Aquí encontramos el elemento central igual al elemento objetivo por lo que devolvemos su índice, es decir, 1
 
 target = 9          
-Binary Search should return -1 as 9 is not present in the array
+Búsqueda binaria debe devolver -1 como 9 no está presente en la matriz
 ```
 
 #### Enlaces de implementación de código
