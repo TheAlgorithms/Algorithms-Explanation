@@ -26,7 +26,7 @@ index = 1, 2, 4, 8, 16, 32, 64, ..., 512, ..., 1_024
 after 10 iteration we have the index at 1_024 and outside of the array 
 2. BINARY SEARCH
 Now we can apply the binary search on the subarray from 512 and 1_000.
-````
+```m
 
 ***Note***: we apply the Binary Search from 512 to 1_000 because at `i = 2^10 = 1_024` the array is finisced and the target number is less than the latest index of the array ( 1_000 ).
 
