@@ -16,7 +16,7 @@ Given a sorted array of *n* elements, write a function to search for the index o
 
 #### Example
 
-````markdown
+```markdown
 arr = [1, 2, 3, 4, 5, 6, 7, ... 998, 999, 1_000]
 
 target = 998
@@ -59,4 +59,3 @@ let's take a look at this comparison with a less theoretical example. Immagine w
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/search/exponential_search.cpp)
 
 - [JavaScript](https://github.com/TheAlgorithms/Javascript/blob/master/Search/ExponentialSearch.js)
-
