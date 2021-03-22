@@ -49,7 +49,7 @@ O(log i) + O(log i) = 2O(log i) = O(log i)
 
 #### Binary Search vs Exponential Search
 
-let's take a look at this comparison with a less theoretical example. Immagine we have an array with`1_000_000` elements and we wanto to search an element that is in `4th` position. It's easy to see that:
+Let's take a look at this comparison with a less theoretical example. Imagine we have an array with`1_000_000` elements and we want to search an element that is in the `4th` position. It's easy to see that:
 
 - The Binary Search start from the middle of the array and arrive to the 4th position after many iterations
 - The Exponential Search arrive at the 4th index after only 2 iterations
