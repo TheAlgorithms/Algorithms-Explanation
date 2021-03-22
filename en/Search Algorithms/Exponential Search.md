@@ -32,9 +32,9 @@ Now we can apply the binary search on the subarray from 512 and 1_000.
 
 #### Time Complexity
 
-**worst case:** `O(log *i*)` where `*i* = *index*` (position) of the target
+**worst case:** `O(log i)` where `i = index` (position) of the target
 
-**best case:** `O(*1*)`
+**best case:** `O(1)`
 
 #### Complexity Explanation
 
