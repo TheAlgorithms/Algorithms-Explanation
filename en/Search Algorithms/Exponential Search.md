@@ -6,7 +6,7 @@
 
 #### Problem Statement
 
-Given a sorted array of *n* elements, write a function to search for the index of a given element ( target )
+Given a sorted array of *n* elements, write a function to search for the index of a given element (target)
 
 #### Approach
 
