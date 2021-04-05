@@ -53,7 +53,7 @@ Calcular matriz^4
 | 3 2 |
 ```
 
-### Paso 3
+### Paso 4
 
 ```
 Calcular matriz^8
@@ -61,7 +61,7 @@ Calcular matriz^8
 | 21 13 |
 ```
 
-### Paso 3
+### Paso 5
 
 F(8)=21
 
