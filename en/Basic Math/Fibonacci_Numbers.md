@@ -46,13 +46,13 @@ Calculate matrix^4
 | 5 3 |
 | 3 2 |
 ```
-### Step 3
+### Step 4
 ```
 Calculate matrix^8
 | 34 21 |
 | 21 13 |
 ```
-### Step 3
+### Step 5
 F(8)=21
 
 ## Implementation
