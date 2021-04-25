@@ -1,6 +1,6 @@
 # Recursive Bubble Sort
 
-Bubble Sort is one of the simplest sorting algorithms that compares two elements at a time, and swaps them if they are in the wrong order. This process is repeated until the entire sequence is in order.
+Bubble Sort is one of the simplest sorting algorithms that compares two elements at a time and swaps them if they are in the wrong order. This process is repeated until the entire sequence is in order.
 
 - Time Complexity: `O(n ^ 2)` for average case; `O(n)` for best case
 - Space Complexity: `O(n)`; note that iterative bubble sort has space complexity as `O(1)`
@@ -17,33 +17,33 @@ Base case: If the size of the array is 1, return.
 
 Let the given array be: `{5, 3, 2, 1, 4}`
 
-__First Pass:__
+__First Iteration:__
 
 - {`5`, `3`, 2, 1, 4} -> {`3`, `5`, 2, 1, 4} Swap since `5 > 3`
 - {3, `5`, `2`, 1, 4} -> {3, `2`, `5`, 1, 4} Swap since `5 > 2`
 - {3, 2, `5`, `1`, 4} -> {3, 2, `1`, `5`, 4} Swap since `5 > 1`
 - {3, 2, 1, `5`, `4`} -> {3, 2, 1, `4`, `5`} Swap since `5 > 4`
 
-This interation has fixed the position of 5. Now will we consider the array upto index 3.
+This iteration has fixed the position of 5. Now, we will consider the array up to index 3.
 
-__Second Pass:__
+__Second Iteration:__
 
 - {`3`, `2`, 1, 4, 5} -> {`2`, `3`, 1, 4, 5} Swap since `3 > 2`
 - {2, `3`, `1`, 4, 5} -> {2, `1`, `3`, 4, 5} Swap since `3 > 1`
 - {2, 1, `3`, `4`, 5}; As `3 < 4`, do not swap
 
-Note: As we check one less element with every pass, we do not need to elements at index 3 and 4 i.e., `4` and `5`, as 5 is already in order. Formally, for an array with `n` integers, we consider elements only upto index `n - i`, where `i` is the pass/iteration number.
+Note: As we check one less element with every iteration, we do not need elements at index 3 and 4 i.e., `4` and `5`, as 5 is already in order. Formally, for an array with `n` integers, we consider elements only up to index `n - i`, where `i` is the iteration number.
 
-__Third Pass:__
+__Third Iteration:__
 
 - {`2`, `1`, 3, 4, 5} -> {`1`, `2`, 3, 4, 5} Swap since `1 > 2`
 - {1, `2`, `3`, 4, 5}; As `2 < 3`, do not swap
 
-__Fourth Pass:__
+__Fourth Iteration:__
 
 - {`1`, `2`, 3, 4, 5}; As `1 < 2`, do not swap
 
-__Fifth Pass:__
+__Fifth Iteration:__
 
 - {`1`, 2, 3, 4, 5}; As the size of the array is 1, return.
 
