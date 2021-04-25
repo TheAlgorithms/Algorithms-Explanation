@@ -13,7 +13,7 @@ Base case: If the size of the array is 1, return.
 - Next, call the function on the entire array excluding the last element(which was fixed by the iteration in the above step)
 - Repeat until Base Case is reached.
 
-## Example:
+## Example
 
 Let the given array be: `{5, 3, 2, 1, 4}`
 
@@ -49,7 +49,8 @@ __Fifth Iteration:__
 
 Note: This is the base case.
 
-## Pseudo Code:
+## Pseudo Code
+
 ```
 void bubbleSort(arr[], n)
     if(n==1)
@@ -62,10 +63,11 @@ void bubbleSort(arr[], n)
     bubbleSort(arr, n-1)
 ```
 
-## Implementations:
+## Implementations
+
 - [Java](https://github.com/TheAlgorithms/Java/blob/master/Sorts/BubbleSortRecursion.java)
 - [C](https://github.com/TheAlgorithms/C/blob/master/sorting/bubble_sort_recursion.c)
 
-## Video Explanation:
+## Video Explanation
 
 [A video explaining iterative as well as recursive bubble sort](https://www.youtube.com/watch?v=gDMDVLBfCI0)
