@@ -63,7 +63,8 @@ void bubbleSort(arr[], n)
 ```
 
 ## Implementations:
--[Python](https://github.com/TheAlgorithms/Python/blob/master/searches/binary_search.py)
+-[Java](https://github.com/TheAlgorithms/Java/blob/master/Sorts/BubbleSortRecursion.java)
+-[C](https://github.com/TheAlgorithms/C/blob/master/sorting/bubble_sort_recursion.c)
 
 ## Video Explanation:
 
