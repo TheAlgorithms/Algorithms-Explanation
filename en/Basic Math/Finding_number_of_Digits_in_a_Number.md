@@ -1,6 +1,8 @@
 # Finding number of Digits in a Number
 
-Given an integral number N. The task is to find the count of digits present in this number.
+# Finding the number of digits in a number
+
+Given an integral number N., the task is to find the count of digits present in this number.
 
 Let's say:
 ```
