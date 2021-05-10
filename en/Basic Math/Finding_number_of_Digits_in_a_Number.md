@@ -1,3 +1,5 @@
+# Finding number of Digits in a Number
+
 Given an integral number N. The task is to find the count of digits present in this number.
 
 Let's say:
@@ -20,10 +22,10 @@ N = 58964
 Number of digits = 5
 ```
 <div align="center">
-  <h2 align="center"> Solution 1 </h2>
+  <h2 align="center"> 1st Solution </h2>
 </div>
 
-**Simple Solution:** A Simple Solution that comes in mind is:
+**Simple Solution:** 
 
     1. Check whether the number N is equal to zero.
     2. Increase the count of digits by 1 if N is not zero.
@@ -31,7 +33,8 @@ Number of digits = 5
     4. Repeat the above steps until the number is reduced to zero.
 
 
-**Dry-run of above algorithm:** Consider an example, N = 58964. Initialize a variable **digitsCount** to zero which will store the count of digits. Keep incrementing digitsCount until N is not zero, and reduce it by dividing by 10 at each step.
+**Dry-run of above algorithm:** 
+Consider an example, `N = 58964`. Initialize a variable `digitsCount` set to zero which will store the count of digits. Keep incrementing the `digitsCount` variable until `N` is not zero, and reduce it by dividing by 10 at each step.
 ```
 **Iteration 1:** N **not equals** to 0
 Increment digitsCount, digitsCount = digitsCount + 1.
@@ -65,13 +68,14 @@ Return value of digitsCount.
 Therefore, number of digits = 5.
 ```
 
-**Analysis of above algorithm:** You can clearly see that the number of operations performed in the above solution is equal to the count of digits present in the number. So, the time complexity of the solution is **O(digitsCount)**.
+**Analysis of the above algorithm:** You can clearly see that the number of operations performed in the above solution is equal to the count of digits present in the number. So, the time complexity of the solution is `O(digitsCount)`.
 
 <div align="center">
-  <h2 align="center"> Solution 2 </h2>
+  <h2 align="center"> 2nd Solution </h2>
 </div>
 
-**Better Solution:** A better solution is to use mathematics to solve this problem. The number of digits in a number say N can be easily obtained by using the formula:
+**Better Solution:** 
+A better solution is to use mathematics to solve this problem. The number of digits in a number (say N) can be easily obtained by using the following formula:
 ```
 number of digits in N = log10(N) + 1.
 ```
@@ -94,4 +98,13 @@ Therefore,
 K = floor(log10(N) + 1)
 ```
 
-**Analysis of above algorithm:** Since the above algorithm works in a single operation by using two mathematical operations i.e., finding logarithmic and floor value. Therefore, the time complexity of the solution is **O(1)**.
+**Analysis of above algorithm:** Since the above algorithm works in a single operation by using two mathematical operations i.e., finding logarithmic and floor value. Therefore, the time complexity of the solution, in this case is **O(1)**.
+
+
+# Implementation
+
+- <a href="https://github.com/TheAlgorithms/C-Plus-Plus/tree/master/math/finding_number_of_Digits_in_a_Number.cpp">C++</a>
+
+# Source
+
+- <a href="https://www.geeksforgeeks.org/program-count-digits-integer-3-different-methods/"> Proof </a>
