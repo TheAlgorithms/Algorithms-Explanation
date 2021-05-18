@@ -51,4 +51,4 @@ So we will get the encrypted text as **POH**.
 [**Python**](https://github.com/TheAlgorithms/Python/blob/master/ciphers/hill_cipher.py)
 
 ## Video Explanation
-[A video explanation of hill cipher](https://www.youtube.com/watch?v=6T46sgty4Mk)
+[A video explanation of the Hill Cipher](https://www.youtube.com/watch?v=6T46sgty4Mk)
