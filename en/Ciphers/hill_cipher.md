@@ -27,7 +27,8 @@ key:`GYBNQKURP`
     [2]
     [19]
 ```
-3. Now, we need to encipher the vector by just multiplying these two matrices 
+3. Now, we need to encipher the vector by just multiplying these two matrices
+
 ```
     [6 24 1]        [0]         [67]        [15]
     [13 16 10]  *   [2]     =   [222]   ≈   [4]   (mod 26)
