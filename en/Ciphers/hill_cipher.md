@@ -9,6 +9,7 @@ Hill cipher is a polygraphic substitution cipher based on linear algebra. Each l
 Suppose we take an example as:
 Plain Text (PT):ACT
 key:`GYBNQKURP`
+
 ## Steps
 
 ### Encryption
