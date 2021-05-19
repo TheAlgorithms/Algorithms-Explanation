@@ -13,7 +13,8 @@ key:`GYBNQKURP`
 
 ### Encryption
 
-1. We have to write key as an `n × n` matrix as 
+1. We have to write key as an `n × n` matrix as
+
  ```
     [6 24 1]
     [13 16 10]
