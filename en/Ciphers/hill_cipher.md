@@ -37,6 +37,7 @@ key:`GYBNQKURP`
 So we will get the encrypted text as **POH**.
 
 ### Decryption
+
 1. We need to first inverse our key matrix 
  ```
             -1 
