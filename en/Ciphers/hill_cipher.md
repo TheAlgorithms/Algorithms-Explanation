@@ -21,6 +21,7 @@ key:`GYBNQKURP`
     [20 17 15]
 ```
 2. Same way convert PT into a vector as
+
 ``` 
     [0]
     [2]
