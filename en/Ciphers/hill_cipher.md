@@ -45,7 +45,8 @@ So we will get the encrypted text as **POH**.
     [13 16 10]   ≈  [21 8 21]  (mod 26) 
     [20 17 15]      [21 12 8]
  ```
-2. For the prevoius Cipher Text **POH**
+2. For the previous Cipher Text **POH**
+
 ```
     [8 5 10]      [15]      [260]     [0]
     [21 8 21]  *  [14]  ≈   [574]  ≈  [2]    (mod 26)  ≈ ACT
