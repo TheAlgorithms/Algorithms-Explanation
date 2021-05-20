@@ -13,5 +13,6 @@ All Algorithms explained in simple language with examples and links to their imp
 - [Spanish](./es)
 - [Nepali](./ne)
 - [Hebrew](./he)
+- [Indonesian](./id)
 
 To add a new language, create a new folder using 2 character `ISO 639-1` Code of that language. For example use `hi` for `Hindi` explanations.
