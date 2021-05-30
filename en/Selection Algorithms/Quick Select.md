@@ -15,11 +15,11 @@ Given an array, find the kth largest / smallest element in linear time complexit
 
 ### Time Complexity
 
-`O(n^2)` Worst Case Performance
+- `O(n^2)` Worst-Case Performance
 
-`O(n)` Best-case Performance
+- `O(n)` Best-case Performance
 
-`O(n)` Average Performance
+- `O(n)` Average Performance
 
 
 ### Founder's Name
