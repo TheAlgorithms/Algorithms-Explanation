@@ -15,7 +15,7 @@ Given image $I$, $n\times n$ size Gaussian Kernel $G_{n\times n}$,
 
 ## Code Implementation Links
 
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/digital_image_processing/feature_detectors/harris.py)
+- [Python](https://github.com/TheAlgorithms/Python/blob/master/computer_vision/harriscorner.py)
 
 ## Reference
 
