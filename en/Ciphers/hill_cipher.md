@@ -1,6 +1,6 @@
 # Hill Cipher
 
-As it was invented by Lester.S.Hill, this algorithm was named Hill Cipher.
+The Hill cipher was invented by [Lester S. Hill](https://en.wikipedia.org/wiki/Lester_S._Hill).
 
 Hill cipher is a polygraphic substitution cipher based on linear algebra. Each letter is represented by a number modulo 26. Often the simple scheme `A = 0, B = 1, …, Z = 25` is used, but this is not an essential feature of the cipher. To encrypt a message, each block of `n` letters (considered as an n-component vector) is multiplied by an invertible `n × n` matrix, against modulus 26. To decrypt the message, each block is multiplied by the inverse of the matrix used for encryption.
 
@@ -54,10 +54,10 @@ So we will get the encrypted text as **POH**.
     [21 12 8]     [7]       [539]     [19]
 ```
 
-## Implementation
+## Implementations
 
 [**Python**](https://github.com/TheAlgorithms/Python/blob/master/ciphers/hill_cipher.py)
 
 ## Video Explanation
 
-[A video explanation of the Hill Cipher](https://www.youtube.com/watch?v=6T46sgty4Mk)
+[Video explanation of the Hill Cipher](https://www.youtube.com/watch?v=6T46sgty4Mk)
