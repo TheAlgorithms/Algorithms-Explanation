@@ -6,4 +6,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: python3 -m pip install codespell
-      - run: codespell  # --ignore-words-list="" --skip=""
+      - run: codespell ./en/  # --ignore-words-list="" --skip=""
