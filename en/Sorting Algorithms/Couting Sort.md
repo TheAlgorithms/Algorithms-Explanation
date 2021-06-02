@@ -32,20 +32,17 @@ Given an unsorted array of n elements, write a function to sort the array
 #### Example
 
 ```
-count = array of k+1 zeros
-for x in input do
-  count[key(x)] += 1
-
-total = 0
-for i in 0, 1, ... k do
-  count[i], total = total, count[i] + total
-
-output = array of the same length as input
-for x in input do
-  output[count[key(x)]] = x
-  count[key(x)] += 1
-
-return output
+countingSort(array, size)
+  max <- find largest element in array
+  initialize count array with all zeros
+  for j <- 0 to size
+    find the total count of each unique element and
+    store the count at jth index in count array
+  for i <- 1 to max
+    find the cumulative sum and store it in count array itself
+  for j <- size down to 1
+    restore the elements to array
+    decrease count of each element restored by 1
 ```
 
 #### Code Implementation Links
