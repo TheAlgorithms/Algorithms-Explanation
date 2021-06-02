@@ -50,7 +50,12 @@ return output
 
 #### Code Implementation Links
 
-TBD
+- [C](https://github.com/TheAlgorithms/C/blob/master/sorting/counting_sort.c)
+- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/counting_sort.cpp)
+- [Javascript](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/CountingSort.js)
+- [Matlab](https://github.com/TheAlgorithms/MATLAB-Octave/blob/master/algorithms/sorting/counting_sort.m)
+- [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/counting_sort.py)
+- [Rust](https://github.com/TheAlgorithms/Rust/blob/master/src/sorting/counting_sort.rs)
 
 #### Video Explanation
 
