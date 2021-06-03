@@ -8,7 +8,7 @@ Given an unsorted array of `n` elements, write a function to sort the array.
 
 - Find out the maximum element (let's call it `max`) from the given array.
 - Initialize an array of length `max+1` with all elements set to 0 to store the array's count.
-- Store the count of each element at their respective index in count array.
+- Store the count of each element at their respective index in the array's count.
 - Store cumulative sum of the elements of the count array. It helps in placing the elements into the correct index of the sorted array.
 - Find the index of each element of the original array in the array's count. This gives the cumulative count.
 - Place the element at the index calculated and decrease its count by one.
