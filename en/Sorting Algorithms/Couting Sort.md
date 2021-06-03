@@ -6,7 +6,7 @@ Given an unsorted array of `n` elements, write a function to sort the array.
 
 #### Approach
 
-- Find out the maximum element (let it be max) from the given array.
+- Find out the maximum element (let's call it `max`) from the given array.
 - Initialize an array of length `max+1` with all elements 0 to store the count of the elements in the array.
 - Store the count of each element at their respective index in count array.
 - Store cumulative sum of the elements of the count array. It helps in placing the elements into the correct index of the sorted array.
