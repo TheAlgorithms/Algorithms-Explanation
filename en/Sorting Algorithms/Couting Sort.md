@@ -15,7 +15,7 @@ Given an unsorted array of `n` elements, write a function to sort the array.
 
 #### Time Complexity
 
-- `O(n+k)`, best-case performance
+- `O(n+k)`: best-case performance
 
 - `O(n+k)`: average-case performance
 
