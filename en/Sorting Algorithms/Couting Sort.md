@@ -27,7 +27,7 @@ Given an unsorted array of `n` elements, write a function to sort the array.
 
 #### Founder's Name
 
-- Harold H. Seward
+- Harold H. Seward.
 
 #### Example
 
