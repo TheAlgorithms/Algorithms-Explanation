@@ -15,15 +15,15 @@ Given an unsorted array of `n` elements, write a function to sort the array.
 
 #### Time Complexity
 
-- `O(n+k)`: best-case performance
+- `O(n+k)`: best-case performance - where `k` is the range of the non-negative key values.
 
-- `O(n+k)`: average-case performance
+- `O(n+k)`: average-case performance - where `k` is the range of the non-negative key values.
 
 - `O(n+k)`: worst-case performance - where `k` is the range of the non-negative key values.
 
 #### Space Complexity
 
-`O(n+k)`: worst-case performance
+`O(n+k)`: worst-case performance - where `k` is the range of the non-negative key values.
 
 #### Founder's Name
 
