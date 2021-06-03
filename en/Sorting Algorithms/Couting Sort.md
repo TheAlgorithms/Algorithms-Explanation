@@ -23,7 +23,7 @@ Given an unsorted array of `n` elements, write a function to sort the array.
 
 #### Space Complexity
 
-`O(n+k)`, worst-case performance
+`O(n+k)`: worst-case performance
 
 #### Founder's Name
 
