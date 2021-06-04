@@ -91,7 +91,7 @@ Therefore,
 K = floor(log10(N) + 1)
 ```
 
-**Analysis of above algorithm:** The above algorithm uses two mathematical functions: the `logarithm of a number` and the `floor function`. Therefore, it's time complexity depends on the complexity of those two functions. Practically, the `floor function` is always, or can at least easily be made, constant time - all it has to do is; drop the digits behind the decimal point. For practical purposes, one can `assume that the logarithm is constant time` as well, as one will usually be working with fixed width floating point values. If one use `arbitrary precision "big number" libraries` however, logarithm will not be constant anymore: performance will depend on the logarithm algorithms used.
+**Analysis of the above algorithm:** The above algorithm uses two mathematical functions: the `logarithm of a number` and the `floor function`. Therefore, its time complexity depends on the complexity of those two functions. Practically, the `floor function` is always, or can at least easily be made, constant time - all it has to do is: drop the digits behind the decimal point. For practical purposes, one can `assume that the logarithm is constant time` as well, as one will usually be working with fixed-width floating-point values. If one uses `arbitrary-precision "big number" libraries` however, logarithm will not be constant anymore: performance will depend on the logarithm algorithms used.
 
 
 # Source
