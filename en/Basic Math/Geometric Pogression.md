@@ -47,10 +47,10 @@ nth term of a GP = `a*rn-1`.
 
 # Source
 
-- <a href="https://www.geeksforgeeks.org/geometric-progression/"> Geometric Progression </a>
+- [Geometric Progression](https://www.geeksforgeeks.org/geometric-progression/)
 
 # YouTube
 
-- <a href="https://youtu.be/gua96ju_FBk"> Video URL for concept </a>
+- [Video URL for concept](https://youtu.be/gua96ju_FBk)
 
-- <a href="https://youtu.be/92ZldzuGUHs"> Video for undertanding GP [Dynamic Programming] in C++ </a>
+- [Video for understanding GP Dynamic Programming in C++](https://youtu.be/92ZldzuGUHs)
