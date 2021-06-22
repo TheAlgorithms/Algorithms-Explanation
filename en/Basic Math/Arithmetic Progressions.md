@@ -35,10 +35,10 @@ For example, 2, 4, 6, 8, 10 is an AP because the difference between any two cons
 
 # Source
 
-- <a href="https://www.geeksforgeeks.org/arithmetic-progression/"> Arithmetic Progression </a>
+- [Arithmetic Progression](https://www.geeksforgeeks.org/arithmetic-progression)
 
 # YouTube
 
-- <a href="https://youtu.be/gua96ju_FBk"> Video URL for concept </a>
+- [Video URL for concept](https://youtu.be/gua96ju_FBk)
 
-- <a href="https://youtu.be/U_qtSRQYoPs"> Video for undertanding AP [Dynamic Programming] in C++ </a>
+- [Video for understanding AP Dynamic Programming in C++](https://youtu.be/U_qtSRQYoPs)
