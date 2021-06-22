@@ -1,5 +1,4 @@
 # Geometric Progression
-
 A sequence of numbers is said to be in a `Geometric progression` if the ratio of any two consecutive terms is always the same. In simple terms, it means that the next number in the series is calculated by multiplying a fixed number to the previous number in the series. 
 
 For example, 2, 4, 8, 16 is a GP because ratio of any two consecutive terms in the series (common ratio) is the same (4 / 2 = 8 / 4 = 16 / 8 = 2).
@@ -25,13 +24,11 @@ For example, 2, 4, 8, 16 is a GP because ratio of any two consecutive terms in t
 **Formula of the nth term of a G.P:** 
 
 `a` is the initial term, and `d` is a common difference. Thus, the explicit formula is:
-
 <p align="center">
     <img width="60%" src="https://user-images.githubusercontent.com/75872316/122635586-6fc12200-d102-11eb-9a87-333c9a578cc8.png">
 </p>
 
 **Formula of the sum of first nth term of G.P:**
-
 <p align="center">
     <img width="60%" src="https://user-images.githubusercontent.com/75872316/122635613-9717ef00-d102-11eb-89db-5182e966b1db.png">
 </p>
@@ -46,11 +43,9 @@ nth term of a GP = `a*rn-1`.
 - Sum of infinite terms of a GP (r < 1) = `(a) / (1 – r)`.
 
 # Source
-
 - [Geometric Progression](https://www.geeksforgeeks.org/geometric-progression/)
 
 # YouTube
-
 - [Video URL for concept](https://youtu.be/gua96ju_FBk)
 
 - [Video for understanding GP Dynamic Programming in C++](https://youtu.be/92ZldzuGUHs)
