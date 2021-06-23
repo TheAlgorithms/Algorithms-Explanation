@@ -29,6 +29,7 @@ For example, 2, 4, 8, 16 is a GP because ratio of any two consecutive terms in t
 </p>
 
 **Formula of the sum of the first nth term of G.P:**
+
 <p align="center">
     <img width="60%" src="https://user-images.githubusercontent.com/75872316/122635613-9717ef00-d102-11eb-89db-5182e966b1db.png">
 </p>
@@ -37,14 +38,17 @@ For example, 2, 4, 8, 16 is a GP because ratio of any two consecutive terms in t
 
 If `a` is the first term and `r` is the common ratio:
 nth term of a GP = `a*rn-1`.
+
 - Geometric Mean = `nth root of the product of n terms in the GP`.
 - Sum of `n` terms of a GP (r < 1) = `[a (1 – rn)] / [1 – r]`.
 - Sum of `n` terms of a GP (r > 1) = `[a (rn – 1)] / [r – 1]`.
 - Sum of infinite terms of a GP (r < 1) = `(a) / (1 – r)`.
 
 # Source
+
 - [Geometric Progression](https://www.geeksforgeeks.org/geometric-progression/)
 
 # YouTube
+
 - [Video URL for concept](https://youtu.be/gua96ju_FBk)
 - [Video for understanding GP Dynamic Programming in C++](https://youtu.be/92ZldzuGUHs)
