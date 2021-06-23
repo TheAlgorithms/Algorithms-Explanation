@@ -20,6 +20,7 @@ For example, 2, 4, 6, 8, 10 is an AP because the difference between any two cons
 </p>
 
 **Formula of the sum of first nth term of A.P:**
+
 <p align="center">
     <img width="60%" src="https://user-images.githubusercontent.com/75872316/122635260-7a7ab780-d100-11eb-82a5-8ceeba3aff03.png">
 </p>
@@ -32,8 +33,10 @@ For example, 2, 4, 6, 8, 10 is an AP because the difference between any two cons
 - **Sum of ‘n’ terms** of an AP = 0.5 n (first term + last term) = `0.5 n [ 2a + (n-1) d ]`.
 
 # Source
+
 - [Arithmetic Progression](https://www.geeksforgeeks.org/arithmetic-progression)
 
 # YouTube
+
 - [Video URL for concept](https://youtu.be/gua96ju_FBk)
 - [Video for understanding AP Dynamic Programming in C++](https://youtu.be/U_qtSRQYoPs)
