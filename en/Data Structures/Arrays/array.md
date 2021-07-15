@@ -1,7 +1,8 @@
 # Arrays
 
 Arrays are the most basic data structures used in programming. Arrays are data structures that contain a group of elements. Typically these elements are all of the same data type, such as `char` or `int`.\
-All arrays consist of contiguous memory locations. We can access the elements with their index. The lowest address corresponds to the first element and the highest address to the last element.
+All arrays consist of contiguous memory locations. We can access the elements with their index. The lowest address corresponds to the first element, and the highest address to the last element.
+
 <p align="center">
     <img width="60%" src="https://www.tutorialspoint.com/cprogramming/images/arrays.jpg">
 </p>
