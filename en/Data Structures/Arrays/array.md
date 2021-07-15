@@ -18,7 +18,7 @@ All arrays consist of contiguous memory locations. We can access the elements wi
 
 # Source
 
-- [Arrays introduction](https://www.geeksforgeeks.org/introduction-to-arrays/)
+- [Introduction to arrays](https://www.geeksforgeeks.org/introduction-to-arrays/)
 
 # YouTube
 
