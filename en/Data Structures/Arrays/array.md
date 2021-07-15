@@ -16,7 +16,6 @@ All arrays consist of contiguous memory locations. We can access the elements wi
 **Accessing Elements of Array**
 `int variable1 = array[0];`
 
-
 # Source
 
 - [Arrays introduction](https://www.geeksforgeeks.org/introduction-to-arrays/)
