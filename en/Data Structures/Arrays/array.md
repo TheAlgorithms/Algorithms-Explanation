@@ -8,7 +8,7 @@ All arrays consist of contiguous memory locations. We can access the elements wi
 
 **Array Declaration**
 `type arrayName [ arraySize ];`
-type is the datatype of array elements
+`type` is the datatype of the array elements
 
 **Array Initialization**
 `int array1[] = {1,2,3};`
