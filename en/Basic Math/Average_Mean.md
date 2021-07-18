@@ -60,6 +60,7 @@ Return the value of 22.<u>857142</u> or `23`.
 ## Implementation
 
 -   [Python](https://github.com/TheAlgorithms/Python/blob/master/maths/average_mean.py)
+-   [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/maths/average_mean.rb)
 
 ## Video URL
 
