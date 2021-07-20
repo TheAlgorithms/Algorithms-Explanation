@@ -1,13 +1,13 @@
 # Find (Maximum) 
 
-Find the maximum number from a list of given numbers
+Find the maximum number from a list of given numbers.
 
 ## Applications
 
-By finding the maximum number in a list we can perform many 
-operations based on this.
+By finding the maximum number in a list, we can perform many operations based on this.
 
 Uses:
+
 - Sort our records based on the largest value.
 - Makes our process of finding a particular item easy.
 - If we are able to find out and sort our records based on 
@@ -100,12 +100,12 @@ Return the value 70.
 
 ## Implementation
 
--  [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/maths/find_max.rb)
+- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/maths/find_max.rb)
 
 # Source
 
--  [GeeksForGeeks](https://www.geeksforgeeks.org/c-program-find-largest-element-array/)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/c-program-find-largest-element-array/)
 
 # YouTube
 
--  [YouTube URL video](https://youtu.be/En68ipRaFOU)
+- [YouTube URL video](https://youtu.be/En68ipRaFOU)
