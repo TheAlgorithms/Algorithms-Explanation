@@ -7,10 +7,6 @@ All arrays consist of contiguous memory locations. We can access the elements wi
     <img width="60%" src="https://www.tutorialspoint.com/cprogramming/images/arrays.jpg">
 </p>
 
-**Array Declaration**
-`type arrayName [ arraySize ];`
-`type` is the datatype of the array elements
-
 **Array Initialization**
 `int array1[] = {1,2,3};`
 
