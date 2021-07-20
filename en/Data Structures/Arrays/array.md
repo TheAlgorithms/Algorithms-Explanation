@@ -10,4 +10,4 @@ All arrays consist of contiguous memory locations. We can access the elements wi
 # YouTube
 
 - [YouTube URL tutorial video](https://youtu.be/NptnmWvkbTw)
-- [Video for understanding Arrays in C++](https://youtu.be/ibeGtDEQGz0)
+- [YouTube video for understanding Arrays in C++](https://youtu.be/ibeGtDEQGz0)
