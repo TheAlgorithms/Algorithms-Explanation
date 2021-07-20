@@ -19,6 +19,7 @@ Uses:
 The maximum number from an array can be found by various ways. 
 Here, we will see three different ways of finding the largest 
 number.
+
 1. By comparing all the elements of an array.
 2. By using predefined methods.
 3. By sorting.
@@ -31,12 +32,12 @@ Given the list `[6, 4, 50, 8, 70, 2, 20]`, let's find the maximum number.
 
 ### Step 1
 
-Provide `[6, 4, 50, 8, 70, 2, 20]` as input for a method/ function.
+Provide `[6, 4, 50, 8, 70, 2, 20]` as input for a method or function.
 
 ### Step 2
 
 By using the comparsion process, we are going to find the largest number.
-Set the the index element of an array as maximum numbe.
+Set the the index element of an array as maximum number.
 max = array[0]
 `max = 6` 
 
@@ -99,12 +100,12 @@ Return the value 70.
 
 ## Implementation
 
--   [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/maths/find_max.rb)
+-  [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/maths/find_max.rb)
 
 # Source
 
--   [GeeksForGeeks](https://www.geeksforgeeks.org/c-program-find-largest-element-array/)
+-  [GeeksForGeeks](https://www.geeksforgeeks.org/c-program-find-largest-element-array/)
 
 # YouTube
 
--   [Video URL](https://youtu.be/En68ipRaFOU)
+-  [YouTube URL video](https://youtu.be/En68ipRaFOU)
