@@ -26,4 +26,4 @@ Attach a URL of a video that explains the algorithm.
 
 ## Others
 
-Any other information is always welcome and should be included in this section.
+Any other information is always welcomed and should be included in this section.
