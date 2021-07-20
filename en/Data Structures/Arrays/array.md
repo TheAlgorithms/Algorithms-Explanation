@@ -9,5 +9,5 @@ All arrays consist of contiguous memory locations. We can access the elements wi
 
 # YouTube
 
-- [Video Tutorial](https://youtu.be/NptnmWvkbTw)
+- [YouTube URL tutorial video](https://youtu.be/NptnmWvkbTw)
 - [Video for understanding Arrays in C++](https://youtu.be/ibeGtDEQGz0)
