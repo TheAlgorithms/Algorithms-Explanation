@@ -7,9 +7,6 @@ All arrays consist of contiguous memory locations. We can access the elements wi
     <img width="60%" src="https://www.tutorialspoint.com/cprogramming/images/arrays.jpg">
 </p>
 
-**Array Initialization**
-`int array1[] = {1,2,3};`
-
 **Accessing Elements of Array**
 `int variable1 = array[0];`
 
