@@ -5,7 +5,7 @@ All arrays consist of contiguous memory locations. We can access the elements wi
 
 # Source
 
-- [Introduction to arrays](https://www.geeksforgeeks.org/introduction-to-arrays/)
+- [Introduction to arrays - GeeksForGeeks](https://www.geeksforgeeks.org/introduction-to-arrays/)
 
 # YouTube
 
