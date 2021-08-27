@@ -31,7 +31,7 @@ How do we decide when to replace and when to continue with the old element in th
 We add a new number `A[i]` to the sequence if `A[i]` > `E`, `E` is the last element in subsequence
 and replace an number with `A[i]`, if there exists a number `A[j]` such that if `E` > `A[i]` < `A[j]`, it means, the new number falls somewhere between `A[j]` and `E`.
 
-What if A[i] is smaller than all elements in the present list of subsequences? In this case, we have to create a new list and add A[i] into it. The invariant is to maintain lists of increasing sequences and update them based on the next number.
+What if `A[i]` is smaller than all elements in the present list of subsequences? In this case, we have to create a new list and add `A[i]` into it. The invariant is to maintain lists of increasing sequences and update them based on the next number.
 Each time a new element is to be added, scan all the lists of subsequences in decreasing order of their length. The following algorithm shows how to add/replace the new elements in the existing lists or to create a new list with it.
 
 ```
