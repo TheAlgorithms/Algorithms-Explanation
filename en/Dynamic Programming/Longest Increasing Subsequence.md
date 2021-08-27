@@ -51,7 +51,7 @@ Each time a new element is to be added, scan all the lists of subsequences in de
 
 `O(N)` for each element in the array
 
-#### Example
+## Example
 
 Let’s take an example and see how it works with an array `A = [ 0, 8, 4, 12, 2, 10, 6, 14]`.
 
