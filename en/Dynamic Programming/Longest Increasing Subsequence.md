@@ -28,7 +28,7 @@ The decision to take for each element being considered is whether we create new 
 
 How do we decide when to replace and when to continue with the old element in the list of subsequences?
 
-We add a new number A[i] to the sequence if A[i] > E, E is the last element in subsequence
+We add a new number `A[i]` to the sequence if `A[i]` > `E`, `E` is the last element in subsequence
 and replace an number with A[i], if there exists a number A[j] such that if E > A[i] < A[j], it means, the new number falls somewhere between A[j] and E.
 
 What if A[i] is smaller than all elements in the present list of subsequences? In this case, we have to create a new list and add A[i] into it. The invariant is to maintain lists of increasing sequences and update them based on the next number.
