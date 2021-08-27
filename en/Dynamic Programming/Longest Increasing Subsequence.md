@@ -79,7 +79,7 @@ For `A[3]` with value 12, it is the same case as `A[1]` since it is greater than
 [0,8,4,12,2,10,6,14]
 [[0],[0,4],[0,4,12]]
 ```
-`A[4]` with value 2, it has the same case as `A[2]`, Clone the one with largest end which is less than `A[4]`, append `A[4]` to it and discard all same length lists.
+`A[4]` with value 2, it has the same case as `A[2]`, clone the one with the largest end which is less than `A[4]`, append `A[4]` to it, and discard all same length lists.
 
 ```
 [0,8,4,12,2,10,6,14]
