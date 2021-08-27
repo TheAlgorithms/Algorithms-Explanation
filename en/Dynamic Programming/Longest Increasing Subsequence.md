@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Given an Array of Integers `A` , find the length of the longest increasing subsequence (<b>LIS</b>) such that all elements of the subsequence are sorted in increasing order. An increasing subsequence contains elements `A[i]` and `A[j]` only if `i < j` and `A[i] <  A[j]`.
+Given an Array of Integers `A`, find the length of the longest increasing subsequence (**LIS**) such that all elements of the subsequence are sorted in increasing order. An increasing subsequence contains elements `A[i]` and `A[j]` only if `i < j` and `A[i] <  A[j]`.
 
 ## Approach
 
