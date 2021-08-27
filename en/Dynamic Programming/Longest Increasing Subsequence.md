@@ -35,7 +35,6 @@ What if `A[i]` is smaller than all elements in the present list of subsequences?
 Each time a new element is to be added, scan all the lists of subsequences in decreasing order of their length. The following algorithm shows how to add/replace the new elements in the existing lists or to create a new list with it.
 
 ```
-
 1. If A[i] is the smallest among all end candidates of active lists, start a new active list with A[i] of length 1.
 2. If A[i] is largest among all end candidates of active lists, clone the largest active list, and append A[i] to it.
 3. If A[i] is in between, find the list with the largest end number that is smaller than A[i]. Clone and append A[i] to this list.
