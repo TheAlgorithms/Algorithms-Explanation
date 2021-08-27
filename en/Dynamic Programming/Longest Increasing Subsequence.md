@@ -53,9 +53,8 @@ Each time a new element is to be added, scan all the lists of subsequences in de
 
 ## Example
 
-Let’s take an example and see how it works with an array `A = [ 0, 8, 4, 12, 2, 10, 6, 14]`.
-
-For `A[0]`, there are no active lists of subsequences, we will create a new one.
+Let’s take an example and see how it works with an array `A = [ 0, 8, 4, 12, 2, 10, 6, 14]`.</br>
+For `A[0]`, there are no active lists of subsequences. We will create a new one.
 
 ```
 [0,8,4,12,2,10,6,14]
