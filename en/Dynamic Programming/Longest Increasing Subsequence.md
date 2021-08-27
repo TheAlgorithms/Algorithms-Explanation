@@ -97,7 +97,7 @@ Following the same approach, we will go through all the numbers in the given arr
 [0,8,4,12,2,10,6,14]
 [[0],[0,2],[0,2,6],[0,2,6,14]]
 ```
-It seems like a lot of things need to be done just for maintaining the lists and there is significant space complexity required to store all of these lists. We can optimize on this, observe that we use only ends of the list and their sizes. We do not care what was prior to them in list. So, can we store the ends of all the lists of an auxiliary array and do operations on them? Size of this array in worst case will be n.
+It seems like a lot of things need to be done just for maintaining the lists and there is significant space complexity required to store all of these lists. We can optimize on this, observe that we use only ends of the list and their sizes. We do not care what was before them on the list. So, can we store the ends of all the lists of an auxiliary array and do operations on them? The size of this array in the worst case will be n.
 
 To append to the list, add another element in the auxiliary array. To replace just overwrite the smallest number which is greater than the current number. To find the smallest number which is greater than the current number, we can use binary search algorithm.
 
