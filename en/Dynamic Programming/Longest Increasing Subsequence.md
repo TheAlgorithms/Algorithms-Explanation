@@ -104,7 +104,7 @@ To append to the list, add another element in the auxiliary array. To replace ju
 To find the length of the longest subsequence, keep track of the length of the auxiliary array because this will be the length of LIS.
 
 
-#### Code Implementation Links
+## Code Implementation Links
 
 - [Code Implementation](https://www.geeksforgeeks.org/longest-monotonically-increasing-subsequence-size-n-log-n/)
 
