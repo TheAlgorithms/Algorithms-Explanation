@@ -85,7 +85,7 @@ For `A[3]` with value 12, it is the same case as `A[1]` since it is greater than
 [0,8,4,12,2,10,6,14]
 [[0],[0,2],[0,4,12]]
 ```
-`A[5]` with value 10. Same as `A[4]`. Clone, extend, and discard all the same length subsequences.
+`A[5]` with value 10. Same as `A[4]`. Clone, extend and discard all the same length subsequences.
 Lists = [ [0], [0, 2], [0,2,10] ] and [0, 4, 12] is discarded.
 
 `A[6]` is 6. Same as `A[5]` We will clone the list which has an end smaller than `A[6]`, extend it, and discard all other lists which have the same length.
