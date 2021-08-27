@@ -88,7 +88,7 @@ For `A[3]` with value 12, it is the same case as `A[1]` since it is greater than
 `A[5]` with value 10. Same as `A[4]`. Clone, extend, and discard all the same length subsequences.
 Lists = [ [0], [0, 2], [0,2,10] ] and [0, 4, 12] is discarded.
 
-`A[6]` is 6. Same as `A[5]` We will clone the list which has end smaller than `A[6]`, extend it, and discard all other lists which have the same length.
+`A[6]` is 6. Same as `A[5]` We will clone the list which has an end smaller than `A[6]`, extend it, and discard all other lists which have the same length.
 Lists = [ [0], [0, 2], [0,2,6] ] and [0, 2, 10] is discarded.
 
 Following the same approach, we will go through all the numbers in the given array. The longest increasing subsequence in the given array is [ 0,2,6,14] with a length of 4.
