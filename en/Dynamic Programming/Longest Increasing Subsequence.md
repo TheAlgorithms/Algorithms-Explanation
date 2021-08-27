@@ -4,7 +4,7 @@
 
 Given an Array of Integers `A` , find the length of the longest increasing subsequence (<b>LIS</b>) such that all elements of the subsequence are sorted in increasing order. An increasing subsequence contains elements `A[i]` and `A[j]` only if `i < j` and `A[i] <  A[j]`.
 
-#### Approach
+## Approach
 
 The basic idea behind the solution is to keep track of all active subsequences at a given point in time. Based on the current number being considered, update these active lists. To understand this process, let’s work out an example.
 
