@@ -42,7 +42,7 @@ Each time a new element is to be added, scan all the lists of subsequences in de
 4. Discard all other lists of the same length as that of this modified list.
 ```
 
-#### Time Complexity
+## Time Complexity
 
 `O(N * LogN)` In any case     
 `O(logn)` time to find the ceiling of it and put it at the correct position
