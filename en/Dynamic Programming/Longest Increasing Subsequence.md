@@ -66,7 +66,7 @@ Next, we go to `A[1]` which is 8. `A[i]` is greater than the ends of all the cur
 [0,8,4,12,2,10,6,14]
 [[0],[0,8]]
 ```
-For `A[2]` with value 4, `A[i]` is less than the end of one of the list and greater than the end of other. We will find the list which has end less than `A[i]`, in this case, the first list containing [0]. Clone it and append `A[2]` to it and discard all other lists of the same length.
+For `A[2]` with value 4, `A[i]` is less than the end of one of the lists and greater than the end of the other. We will find the list which has an end less than `A[i]`. In this case, it is the first list containing [0]. Clone it and append `A[2]` to it and discard all other lists of the same length.
 
 ```
 [0,8,4,12,2,10,6,14]
