@@ -18,7 +18,7 @@ What if we add another element, 11 in this?
 A = {2,8,7,11}
 Monotonically increasing subsequences are {2,8,11} and {2,7,11}
 ```
-What if new element 9 is added to array? What happens now? If we add it t0 subsequences, the length of the longest subsequence remains 3.
+What if a new element 9 is added to the array? What happens now? If we add t0 subsequences, the length of the longest subsequence remains 3.
 
 ```
 A = {2,8,7,11,9}
