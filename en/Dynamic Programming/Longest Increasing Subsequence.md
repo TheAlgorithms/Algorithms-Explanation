@@ -47,7 +47,7 @@ Each time a new element is to be added, scan all the lists of subsequences in de
 `O(N * LogN)` In any case     
 `O(logn)` time to find the ceiling of it and put it at the correct position
 
-#### Space Complexity
+## Space Complexity
 
 `O(N)` for each element in the array
 
