@@ -105,7 +105,7 @@ To find the length of the longest subsequence, keep track of the length of the a
 
 ## Code Implementation Links
 
-- [Code Implementation](https://www.geeksforgeeks.org/longest-monotonically-increasing-subsequence-size-n-log-n/)
+[Code Implementation](https://www.geeksforgeeks.org/longest-monotonically-increasing-subsequence-size-n-log-n/)
 
 ## Video Explanation
 
