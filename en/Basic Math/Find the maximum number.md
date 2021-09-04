@@ -36,7 +36,7 @@ Provide `[6, 4, 50, 8, 70, 2, 20]` as input for a method or function.
 
 ### Step 2
 
-By using the comparsion process, we are going to find the largest number.
+By using the comparison process, we are going to find the largest number.
 Set the the index element of an array as maximum number.
 max = array[0]
 `max = 6` 
