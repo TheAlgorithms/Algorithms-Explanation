@@ -16,7 +16,7 @@ Given an array of integers containing `n + 1` integers, where each integer is in
 
 O(n^2) Worse Case
 
-#### Space Complexity
+## Space Complexity
 
 O(1) 
 
