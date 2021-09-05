@@ -36,5 +36,5 @@ return value = 4
 
 #### Video Explanation
 
-[Click here](https://www.youtube.com/watch?v=B6smdk7pZ14)
+[YouTube video explaining the Floyd Cycle Detection algorithm](https://www.youtube.com/watch?v=B6smdk7pZ14)
 
