@@ -12,7 +12,7 @@ Given an array of integers containing `n + 1` integers, where each integer is in
 - Starting from `x = arr[0]`, it will produce a linked list with a cycle.
 - The cycle appears because `arr[]` contains duplicate elements(at least one). The duplicate value is an entrance to the cycle. 
 
-#### Time Complexity
+## Time Complexity
 
 O(n^2) Worse Case
 
