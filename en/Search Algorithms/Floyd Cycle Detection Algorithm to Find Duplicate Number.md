@@ -29,7 +29,7 @@ return value = 4
 
 ```
 
-#### Code Implementation Links
+## Code Implementation Links
 
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/search/floyd_cycle_detection_algo.cpp)
 - [C](https://github.com/TheAlgorithms/C/blob/master/searching/floyd_cycle_detection_algorithm.c)
