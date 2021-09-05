@@ -4,7 +4,7 @@
 
 Given an array of integers containing `n + 1` integers, where each integer is in the range [1, n] inclusive. If there is only one duplicate number in the input array, this algorithm returns the duplicate number without modifying the original array, otherwise, it returns -1.
 
-#### Approach
+## Approach
 
 - Use the function f(x) = arr[x] to construct the sequence: 
 arr[0], arr[arr[0]], arr[arr[arr[0]]], arr[arr[arr[arr[0]]]] ……. 
