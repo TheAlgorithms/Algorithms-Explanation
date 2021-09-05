@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Given an array of integers containing `n + 1` integers, where each integer is in the range [1, n] inclusive. If there is only one duplicate number in the input array, this algorithm returns the duplicate number without modifying the original array, otherwise, it returns -1.
+Given an array of integers containing `n + 1` integers, where each integer is in the range `[1, n]` inclusive. If there is only one duplicate number in the input array, this algorithm returns the duplicate number without modifying the original array, otherwise, it returns -1.
 
 ## Approach
 
@@ -26,7 +26,6 @@ O(1)
 arr = [3, 4, 8, 5, 9, 1, 2, 6, 7, 4]  
 
 return value = 4
-
 ```
 
 ## Code Implementation Links
