@@ -14,7 +14,7 @@ Given an array of integers containing `n + 1` integers, where each integer is in
 
 ## Time Complexity
 
-O(n^2) Worse Case
+O(n)
 
 ## Space Complexity
 
