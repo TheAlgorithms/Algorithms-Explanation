@@ -1,6 +1,6 @@
 # Floyd Cycle Detection Algorithm to find duplicate number in an array
 
-#### Problem Statement
+## Problem Statement
 
 Given an array of integers containing 'n + 1' integers, where each integer is in the range [1, n] inclusive. If there is only one duplicate number in the input array, this algorithm returns the duplicate number without modifying the original array, otherwise, it returns -1.
 
