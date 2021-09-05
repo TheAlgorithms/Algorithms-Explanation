@@ -20,7 +20,7 @@ O(n^2) Worse Case
 
 O(1) 
 
-#### Example
+## Example
 
 ```
 arr = [3, 4, 8, 5, 9, 1, 2, 6, 7, 4]  
