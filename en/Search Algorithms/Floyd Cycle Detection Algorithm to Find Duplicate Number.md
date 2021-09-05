@@ -6,11 +6,11 @@ Given an array of integers containing `n + 1` integers, where each integer is in
 
 ## Approach
 
-- Use the function f(x) = arr[x] to construct the sequence: 
-arr[0], arr[arr[0]], arr[arr[arr[0]]], arr[arr[arr[arr[0]]]] ……. 
-- Each new element in the sequence is an element in arr[] at the index of the previous element.
-- Starting from x = arr[0], it will produce a linked list with a cycle.
-- The cycle appears because arr[] contains duplicate elements(at least one). The duplicate value is an entrance to the cycle. 
+- Use the function `f(x) = arr[x]` to construct the sequence: 
+`arr[0]`, `arr[arr[0]]`, `arr[arr[arr[0]]]`, `arr[arr[arr[arr[0]]]]`, etc....
+- Each new element in the sequence is an element in `arr[]` at the index of the previous element.
+- Starting from `x = arr[0]`, it will produce a linked list with a cycle.
+- The cycle appears because `arr[]` contains duplicate elements(at least one). The duplicate value is an entrance to the cycle. 
 
 #### Time Complexity
 
