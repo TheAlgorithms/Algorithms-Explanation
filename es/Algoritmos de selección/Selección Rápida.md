@@ -40,7 +40,7 @@ Digamos que k = 4 y tenemos que encontrar el cuarto elemento menor:
 
 ```
 
-### Enlaces de implementaciones de código 
+## Enlaces de implementaciones de código 
 
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/selecting/quickSelect.cpp)
 - [Python](https://programmerclick.com/article/92711720579/)
