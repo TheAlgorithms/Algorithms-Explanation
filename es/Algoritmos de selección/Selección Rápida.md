@@ -25,7 +25,7 @@ Dada una matriz, encontrar el k-ésimo elemento mayor y menor con un una complej
 
 - Este algoritmo fue desarrollado por Tony Hoare. También es conocido como el 'Algoritmo de Selección de Hoare'.
 
-### Ejemplo
+## Ejemplo
 
 ```
 Matriz[] = {8,2,11,7,9,1,3}
