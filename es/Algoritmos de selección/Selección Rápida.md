@@ -21,7 +21,7 @@ Dada una matriz, encontrar el k-ésimo elemento mayor y menor con un una complej
 
 - `O(n)` Rendimiento promedio
 
-### Nombre de su fundador
+## Nombre de su fundador
 
 - Este algoritmo fue desarrollado por Tony Hoare. También es conocido como el 'Algoritmo de Selección de Hoare'.
 
