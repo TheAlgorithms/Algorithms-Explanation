@@ -4,7 +4,7 @@
 
 Dada una matriz, encontrar el k-ésimo elemento mayor y menor con un una complejidad lineal de Tiempo
 
-### Enfoque
+## Enfoque
 
 - Selecciona un elemento que sirva de pivote aleatoriamente.
 - Aplica particiones como las utilizadas en el algoritmo de ordenamiento rápido o quick sort.
