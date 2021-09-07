@@ -1,6 +1,6 @@
 # Selección rápida o Quick Select
 
-### Definición del problema
+## Definición del problema
 
 Dada una matriz, encontrar el k-ésimo elemento mayor y menor con un una complejidad lineal de Tiempo
 
