@@ -37,7 +37,6 @@ Digamos que k = 4 y tenemos que encontrar el cuarto elemento menor:
 2. Intercambiamos 7 con el último elemento y aplicamos el algoritmo de particionado.
 3. Después de aplicar la partición, todos los elementos menores que 7 se colocan a la izquierda y los mayores, a la derecha.
 4. Como la posición de '7' es la cuarta, simplemente devolveremos el valor 7.
-
 ```
 
 ## Enlaces de implementaciones de código 
