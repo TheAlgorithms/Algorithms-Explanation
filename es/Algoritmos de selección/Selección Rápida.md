@@ -45,6 +45,6 @@ Digamos que k = 4 y tenemos que encontrar el cuarto elemento menor:
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/selecting/quickSelect.cpp)
 - [Python](https://programmerclick.com/article/92711720579/)
 
-### Enlaces de explicación en vídeo
+## Enlaces de explicación en vídeo
 
 [Programación en C++, Ordenamiento por Selección](https://www.youtube.com/watch?v=HVa2_UtXkCI)
