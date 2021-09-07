@@ -13,7 +13,7 @@ Dada una matriz, encontrar el k-ésimo elemento mayor y menor con un una complej
 - De otro modo, verifica si 'k' es mayor o menor y selecciona un nuevo pivote en el rango.
 - Repite los pasos hasta conseguir el k-ésimo elemento en la k-ésima posición.
 
-### Complejidad de Tiempo
+## Complejidad de Tiempo
 
 - `O(n^2)` En el peor de los casos
 
