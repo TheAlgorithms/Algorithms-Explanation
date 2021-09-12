@@ -13,7 +13,7 @@ Dado un arreglo desordenado de n elementos, escribir una función que ordene el 
 - Realizar las operaciones anteriores para cada elemento del arreglo.
 - Repetir el procedimiento descrito n veces.
 
-#### Complejidad en Orden de Tiempo
+#### Complejidad temporal
 
 `O(n^2)` Rendimiento en el peor de los casos
 
@@ -21,7 +21,7 @@ Dado un arreglo desordenado de n elementos, escribir una función que ordene el 
 
 `O(n^2)` Rendimiento promedio
 
-#### Complejidad en Orden de Espacio
+#### Complejidad espacial
 
 `O(1)` Peor caso
 

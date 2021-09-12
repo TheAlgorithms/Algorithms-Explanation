@@ -13,7 +13,7 @@ Dada una matriz no ordenada de `N` elementos, escriba una función para ordenar 
 - Seguir haciendo esto para cada elemento de la matriz
 - Repetir el proceso anterior n veces
 
-#### Complejidad horaria
+#### Complejidad temporal 
 
 `O(n^2)` Peor rendimiento en el caso
 

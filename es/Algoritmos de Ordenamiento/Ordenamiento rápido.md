@@ -11,7 +11,7 @@ Dada una matriz no ordenada de n elementos, escriba una función para ordenar la
 - quicksort partición izquierda recursivamente
 - quicksort partición derecha recursivamente
 
-#### Complejidad horaria
+#### Complejidad temporal 
 
 - `O(n^2)` Peor rendimiento en el caso
 - `O(n log n)` Mejor rendimiento en el caso

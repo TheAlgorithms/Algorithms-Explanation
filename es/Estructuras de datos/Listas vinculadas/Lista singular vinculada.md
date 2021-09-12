@@ -12,7 +12,7 @@ Singly Linked List es una estructura de datos lineal y conectada formada por nod
 - Se puede acceder a los elementos secuencialmente no al azar en comparación con una matriz.
 - Es necesario realizar una asignación de memoria adicional para los punteros que conecta los elementos de una lista vinculada.
 
-### Complejidad del tiempo
+### Complejidad temporal
 
 | Operación | Promedio | Peor |
 |-----------|---------|-------|

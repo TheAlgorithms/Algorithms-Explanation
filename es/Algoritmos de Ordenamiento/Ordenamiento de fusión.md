@@ -10,7 +10,7 @@ Dada una matriz de n elementos, escriba una función para ordenar la matriz
 - Llamar recursivamente a la función de ordenación de fusión para las dos mitades
 - Combinar las dos mitades ordenadas para obtener la matriz ordenada
 
-#### Complejidad horaria
+#### Complejidad temporal 
 
 `O(n log n)`
 

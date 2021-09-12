@@ -16,7 +16,7 @@ En la lista vinculada individualmente, para eliminar un nodo, se necesita punter
 - Cada nodo de DLL requiere espacio adicional para un puntero anterior. Sin embargo, es posible implementar DLL con un solo puntero (Consulte esto y esto).
 - Todas las operaciones requieren un puntero adicional anterior para ser mantenido. Por ejemplo, en la inserción, necesitamos modificar punteros anteriores junto con punteros siguientes. Por ejemplo, en las siguientes funciones para las inserciones en diferentes posiciones, necesitamos 1 o 2 pasos adicionales para establecer el puntero anterior.
 
-### Complejidad del tiempo
+### Complejidad temporal
 
 | Operación | Promedio | Peor |
 |-----------|---------|-------|

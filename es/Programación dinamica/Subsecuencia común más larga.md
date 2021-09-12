@@ -29,7 +29,7 @@ for i in range(1..N):
             dp[i][j] = max(dp[i - 1][j], dp[i][j - 1])
 ```
 
-#### Complejidad horaria
+#### Complejidad temporal 
 
 `O(N * M)` - En cualquier caso
 
