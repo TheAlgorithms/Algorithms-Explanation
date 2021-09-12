@@ -8,7 +8,7 @@ Dada una matriz ordenada de `n` elementos, escriba una función para buscar el �
 
 - Se busca la matriz dividiendo la matriz por la mitad repetidamente.
 - Inicialmente, se considera la matriz real y se selecciona el elemento en el índice medio.
-- Se mantiene el índice más bajo, el 0, y el más alto, la longitud de la matriz.
+- Se mantiene el índice más bajo, el número 0, y el más alto, la longitud de la matriz.
 - Si es igual al elemento de destino, se devuelve el índice.
 - De lo contrario, si es mayor que el elemento de destino, se condiera únicamente la mitad izquierda de la matriz (índice inferior = 0, superior = medio - 1).
 - De lo contrario, si es menor que el elemento de destino, se considera únicamente la mitad derecha de la matriz (índice inferior = medio + 1, más alto = longitud de la matriz).
