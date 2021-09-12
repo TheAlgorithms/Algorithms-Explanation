@@ -30,7 +30,7 @@ Ahora podemos aplicar la búsqueda binaria en el subarray de 512 y 1_000.
 
 **Nota**: aplicamos la búsqueda binaria de 512 a 1_000 porque en `i = 2^10 = 1_024` la matriz está finisced y el número de destino es menor que el índice más reciente de la matriz ( 1_000 ).
 
-#### Complejidad horaria
+#### Complejidad temporal 
 
 **Peor caso:** `O(log *i*)` donde `*i* = índice` (posición) del objetivo
 

@@ -12,7 +12,7 @@ Dada una matriz de `n` elementos, escriba una función para buscar el índice de
 - De lo contrario, continúe iterando.
 - Devolver -1 si el elemento de destino no se encuentra en la matriz.
 
-#### Complejidad horaria
+#### Complejidad temporal 
 
 `O(n)` Peor caso
 `O(1)` Mejor caso (Si el primer elemento de matriz es el elemento de destino)

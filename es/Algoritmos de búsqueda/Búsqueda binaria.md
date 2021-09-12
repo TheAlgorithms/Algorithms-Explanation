@@ -14,7 +14,7 @@ Dada una matriz ordenada de `n` elementos, escriba una función para buscar el �
 - De lo contrario, si es menor que el elemento de destino, tenga en cuenta sólo la mitad derecha de la matriz (índice inferior = medio + 1, más alto = longitud de la matriz).
 - Devolver -1 si el elemento de destino no se encuentra en la matriz (caso base: si el índice inferior es mayor o igual que el índice superior).
 
-#### Complejidad horaria
+#### Complejidad temporal 
 
 `O(log n)`- Peor caso
 `O(1)`- Mejor caso (Si el elemento central de la matriz inicial es el elemento de destino)

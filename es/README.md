@@ -2,7 +2,7 @@
 
 Escribe una breve descripción del algoritmo como:
 
-1. Complejidad del tiempo
+1. Complejidad temporal
 2. Complejidad espacial
 3. Aplicaciones
 4. Nombre del fundador

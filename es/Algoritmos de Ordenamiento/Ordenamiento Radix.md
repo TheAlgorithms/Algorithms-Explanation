@@ -36,8 +36,8 @@ La clasificación por el dígito más significativo (lugar de los años 100) da:
 ## ¿Cuál es el tiempo de ejecución de Radix Sort?
 
 Deje que haya dígitos `d` en los enteros de entrada. Radix Sort toma `O(d*(n+b))` tiempo donde `b` es la base para representar números, por ejemplo, para el sistema decimal, `b` es 10.
-¿Cuál es el valor de `d`? Si `k` es el valor máximo posible, entonces sería `O(logb(k))`. Así que la complejidad general del tiempo es `O((n+b) * logb(k))`. Lo que parece más que el
-complejidad horaria de algoritmos de ordenación basados en comparación para una `k` grande. Limitemos primero `k`. Deje `k <= nc` donde `c` es una constante. En ese caso, la complejidad se convierte en
+¿Cuál es el valor de `d`? Si `k` es el valor máximo posible, entonces sería `O(logb(k))`. Así que la complejidad general temporal es `O((n+b) * logb(k))`. Lo que parece más que el
+complejidad temporal  de algoritmos de ordenación basados en comparación para una `k` grande. Limitemos primero `k`. Deje `k <= nc` donde `c` es una constante. En ese caso, la complejidad se convierte en
 `O(n logb(n))`. Pero todavía no supera los algoritmos de clasificación basados en comparación.
 
 ## ¿Radix Sort es preferible a algoritmos de ordenación basados en comparación como Quick-Sort?
