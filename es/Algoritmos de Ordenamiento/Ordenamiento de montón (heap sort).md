@@ -10,7 +10,7 @@ Dada una matriz no ordenada de `N` elementos, escriba una función para ordenar 
 - En este punto, el elemento más grande se almacena en la raíz del montón. Reemplácelo por el último elemento del montón seguido de reducir el tamaño del montón en 1. Finalmente, amontonar la raíz del árbol.
 - Repita los pasos anteriores mientras que el tamaño del montón es mayor que 1.
 
-#### Complejidad horaria
+#### Complejidad temporal 
 
 `O(n log n)` Peor rendimiento del caso
 

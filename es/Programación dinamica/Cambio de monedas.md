@@ -19,7 +19,7 @@ Estos son los códigos para el algoritmo coin change:
 
 En la segunda iteración, por cada centavo que se puede intercambiar, lo tomamos restando la columna enésima por el valor de la moneda que tomamos y añadiéndolo a la columna actual. Así que `dp[i]` almacenará el sub problema actual.
 
-#### Complejidad horaria
+#### Complejidad temporal 
 
 `O(N * S)` - en cualquier caso
 

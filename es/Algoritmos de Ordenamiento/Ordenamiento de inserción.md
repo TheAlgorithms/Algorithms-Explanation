@@ -11,7 +11,7 @@ Dada una matriz de `N` elementos, escriba una función para ordenar la matriz en
 - Si el valor del elemento en la posición (clave - 1) es menor que el valor del elemento en la posición (clave); incremento "clave".
 - De lo contrario, mueva elementos de subarray ordenados que sean mayores que el valor del elemento en "clave" a una posición por delante de su posición actual. Coloque el valor del elemento en "clave" en el vacío recién creado.
 
-#### Complejidad horaria
+#### Complejidad temporal 
 
 - Comparaciones `О(n^2)`, intercambia `О(n^2)` -- Peor caso
 - Comparaciones `O(n)`, intercambia `O(1)` -- Mejor caso

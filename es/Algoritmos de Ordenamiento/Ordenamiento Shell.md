@@ -12,9 +12,9 @@ Dada una matriz no ordenada de `n` elementos, escriba una función para ordenar 
 - Intercambiar los dos elementos si el primer elemento es más grande
 - Disminuir la brecha y repetir hasta la brecha = 1
 
-#### Complejidad horaria
+#### Complejidad temporal 
 
-La complejidad del tiempo depende de las secuencias de separación.
+La complejidad temporal depende de las secuencias de separación.
 Las complejidades de tiempo inferior se basan en las secuencias de separación de `n/2^k`.
 
 `O(n^2)` Peor rendimiento en el caso

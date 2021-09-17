@@ -14,7 +14,7 @@ Dado un gráfico dirigido ponderado `G(V,E)` y un vértice de origen s ∈ V, de
   1. `dist[v] = minimum(dist[v], dist[u] + peso de borde`.
 - Por último, iterar a través de todos los bordes en la última vez, para asegurarse de que no hay ciclos ponderados negativamente.
 
-#### Complejidad horaria
+#### Complejidad temporal 
 
 `O(VE)`
 
