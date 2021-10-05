@@ -67,8 +67,8 @@ The above rules are used for Encryption. Vice versa can be applied for Decryptio
 3. Now, we need to follow the rules for encrypting and do as follows:
 
 ```
-    Plain Text: "instrumentsz"
-    key: `monarchy`
+    Plain Text: instrumentsz
+    key: monarchy
     Encryption: 
       i -> g
       n -> a
@@ -105,8 +105,8 @@ So we will get the encrypted text as **gatlmzclrqtx**.
 3. For the previous Cipher Text **gatlmzclrqtx**, by following the rules we get:
 
 ```
-    Plain Text: "gatlmzclrqtx"
-    key: `monarchy`
+    Plain Text: gatlmzclrqtx
+    key: monarchy
     Decryption:
       ga -> in
       tl -> st
