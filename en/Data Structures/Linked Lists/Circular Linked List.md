@@ -8,8 +8,8 @@ The Linked List has a ```pointer``` to the adjacent elements but the last node i
 - Any node can be a starting point
 - Useful for implementation of queue
 - Circular lists are useful in applications to repeatedly go around the list
-- Circular Doubly Linked Lists are used for implementation of advanced data structures like Fibonacci Heap.
-- Size of a linked list is not fixed (dynamic size)
+- Circular Doubly Linked Lists are used for the implementation of advanced data structures like Fibonacci Heap.
+- The size of a linked list is not fixed (dynamic size)
 - Deleting and adding an element is not expensive compared to an array
 
 ### Drawbacks
