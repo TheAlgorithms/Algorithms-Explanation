@@ -12,7 +12,7 @@ Plain Text (PT): instruments, key: `monarchy`
 
 ## Rules
 
-1. If both the letters are in the same column: Take the letter below each one (going back to the top if at the bottom).
+1. If both the letters are in the same column, take the letter below each one (going back to the top if at the bottom).
 
 ```
     Diagraph: "me"
