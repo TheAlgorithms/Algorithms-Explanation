@@ -22,7 +22,7 @@ Plain Text (PT): instruments, key: `monarchy`
       e -> l
 ```
 
-2. If both the letters are in the same row: Take the letter to the right of each one (going back to the leftmost if at the rightmost position).
+2. If both the letters are in the same row, take the letter to the right of each one (going back to the leftmost only if it's at the rightmost position).
 
 ```
     Diagraph: "st"
