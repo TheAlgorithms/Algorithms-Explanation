@@ -119,4 +119,4 @@ So we will get the encrypted text as **instrumentsz**.
 
 ## Implementations
 
-[**Python**](https://github.com/TheAlgorithms/Python/blob/master/ciphers/playfair_cipher.py)
+- [**Python**](https://github.com/TheAlgorithms/Python/blob/master/ciphers/playfair_cipher.py)
