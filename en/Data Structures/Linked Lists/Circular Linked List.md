@@ -37,7 +37,7 @@ The Linked List has a ```pointer``` to the adjacent elements but the last node i
 
 ### SLL v.s. CLL
 
-<img src="https://i0.wp.com/algorithms.tutorialhorizon.com/files/2016/03/Circular-Linked-List.png" />
+![image](https://i0.wp.com/algorithms.tutorialhorizon.com/files/2016/03/Circular-Linked-List.png)
 
 ### Example
 
