@@ -1,6 +1,6 @@
 # Circular Linked List
 
-Circular Linked List is an end-connected data structure made of Nodes. Similar as linear and doubly linked list, each node is composed of a variable ```data``` where its content is stored and a pointer to the next Node on the list. 
+Circular Linked List is an end-connected data structure made of Nodes. Similar to the linear and doubly linked list, each node is composed of a variable ```data``` where its content is stored and a pointer to the next Node on the list. 
 The Linked List has a ```pointer``` to the adjacent elements but the last node is connected towards the head node i.e the first node itself, thus forming a circular shape.
 
 ### Advantages over Arrays & Linear Linked List & Doubly Linked List
@@ -35,7 +35,7 @@ The Linked List has a ```pointer``` to the adjacent elements but the last node i
 - Allocating CPU to resources
 - Multiplayer Board games
 
-### SLL Vs CLL
+### SLL v.s. CLL
 
 <img src="https://i0.wp.com/algorithms.tutorialhorizon.com/files/2016/03/Circular-Linked-List.png" />
 
@@ -66,10 +66,10 @@ public void insertHead(int data)
 
 ## Code Implementation Links
 
-- [Javascript](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/SingleCircularLinkedList.js.js)
+- [JavaScript](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/SingleCircularLinkedList.js.js)
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structures/cll/cll.cpp)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/data_structures/linked_list/circular_linked_list.py)
 
 ## Video Explanation
 
-[Neso Academy Video](https://youtu.be/HMkdlu5sP4A)
+[Video explanation on YouTube](https://youtu.be/HMkdlu5sP4A)
