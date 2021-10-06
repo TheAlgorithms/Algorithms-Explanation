@@ -7,8 +7,8 @@ The Playfair cipher was the first practical digraph substitution cipher. In Play
 ## Example
 
 Suppose we take an example as:
-Plain Text (PT): instruments
-key: `monarchy`
+
+Plain Text (PT): instruments, key: `monarchy`
 
 ## Rules
 
