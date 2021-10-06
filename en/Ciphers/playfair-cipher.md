@@ -42,7 +42,7 @@ Plain Text (PT): instruments, key: `monarchy`
       t -> q
 ```
 
-The above rules are used for Encryption. Vice versa can be applied for Decryption.
+The rules above are used for Encryption. Can be applied vice-versa for Decryption.
 
 ## Steps
 
