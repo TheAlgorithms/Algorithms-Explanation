@@ -32,7 +32,7 @@ Plain Text (PT): instruments, key: `monarchy`
       t -> l
 ```
 
-3. If neither of the above rules is true: Form a rectangle with the two letters and take the letters on the horizontal opposite corner of the rectangle.
+3. If neither of the above rules is true, form a rectangle with the two letters, and take the letters on the horizontal opposite corner of the rectangle.
 
 ```
     Diagraph: "nt"
