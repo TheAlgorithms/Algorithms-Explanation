@@ -123,4 +123,4 @@ So we will get the encrypted text as **instrumentsz**.
 
 ## Video Explanation
 
-- [Video explanation of the Playfair Cipher](https://www.youtube.com/watch?v=UURjVI5cw4g)
+- [**Video explanation of the Playfair Cipher algorithm**](https://www.youtube.com/watch?v=UURjVI5cw4g)
