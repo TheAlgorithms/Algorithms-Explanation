@@ -42,7 +42,7 @@ The Linked List has a ```pointer``` to the adjacent elements but the last node i
 ### Example
 
 <u>Insertion</u>
-```
+```java
 public void insertHead(int data)
 {
 	Node temp = new Node(data);
