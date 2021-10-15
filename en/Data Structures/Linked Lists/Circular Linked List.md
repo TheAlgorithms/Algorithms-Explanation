@@ -14,7 +14,7 @@ The Linked List has a ```pointer``` to the adjacent elements but the last node i
 
 ### Drawbacks
 
-- Circular list are complex as compared to singly linked lists.
+- Circular lists are complex as compared to singly linked lists.
 - Reversing of circular list is a complex as compared to singly or doubly lists.
 - If not traversed carefully, then we could end up in an infinite loop
 - Elements can be accessed sequentially not randomly compared to an array
