@@ -48,7 +48,7 @@ public void insertHead(int data)
 	Node temp = new Node(data);
 	Node cur = head;
 	while(cur.getNext() != head)
-		cur = cur.getNext()
+		cur = cur.getNext();
 	if(head == null)
 	{
 		head = temp;
