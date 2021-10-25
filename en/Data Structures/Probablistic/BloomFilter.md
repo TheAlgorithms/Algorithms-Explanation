@@ -122,3 +122,7 @@ The probability of false positives increases with the probability of hash collis
 Implementations of the Bloom Filter are available for:
 
 * [C#](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures/Probabilistic/BloomFilter.cs)
+
+## Video Explainer
+
+[Video Explainer by Narendra L](https://www.youtube.com/watch?v=Bay3X9PAX5k)
