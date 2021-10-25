@@ -45,7 +45,7 @@ As an example, let us look at a Bloom Filter of Strings, we will initialize the 
 
 ### Insert
 
-Let's try to insert `foo`, we wil run `foo` through our three hash functions
+Let's try to insert `foo`, we will run `foo` through our three hash functions
 
 ```text
 h1(foo) = 2
