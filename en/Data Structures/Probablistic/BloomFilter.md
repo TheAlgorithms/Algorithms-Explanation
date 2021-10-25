@@ -1,6 +1,6 @@
 # Bloom Filter
 
-Bloom Filters are one of a class of probabilistic data structures. The Bloom Filter uses hashes and probability to determine whether a particular item is present in a set. It can do so in constant time: O(1) and sub-linear space, though technically still O(n). An important feature of a Bloom Filter is that it is guaranteed never to provide a false negative, saying an element isn't present when it is. However, it has a probability (based on the tuning of its parameters) of providing a false positive, saying an element is present when it is not. The Bloom Filter uses a multi-hash scheme. On insertion, the inserted object is run through each hash, which produces a slot number. That slot number is flipped to 1 in the bit array. During a presence check, the object is run through the same set of hashes, and if each corresponding slot is 1, the filter reports the object has been added. If any of them are 0, it reports that the object has not been added. The hashes must be deterministic and uniformly distributed over the slots in order for the Bloom filter to operate effectively.
+Bloom Filters are one of a class of probabilistic data structures. The Bloom Filter uses hashes and probability to determine whether a particular item is present in a set. It can do so in constant time: O(1) and sub-linear space, though technically still O(n). An important feature of a Bloom Filter is that it is guaranteed never to provide a false negative, saying an element isn't present when it is. However, it has a probability (based on the tuning of its parameters) of providing a false positive, saying an element is present when it is not. The Bloom Filter uses a multi-hash scheme. On insertion, the inserted object is run through each hash, which produces a slot number. That slot number is flipped to 1 in the bit array. During a presence check, the object is run through the same set of hashes, and if each corresponding slot is 1, the filter reports the object has been added. If any of them are 0, it reports that the object has not been added. The hashes must be deterministic and uniformly distributed over the slots for the Bloom filter to operate effectively.
 
 ## Complexity
 
@@ -108,7 +108,7 @@ Notice that this does not match either the result of `foo` or `bar`, however bec
 * Significantly more space-efficient, Both are technically O(n) space complexity, but since bloom filters will only take up several bits per item, hash sets must hold the entire item.
 * Presence checks are guaranteed to be O(1) for Bloom Filters, for HashSets, the average is O(1), but worst case is O(n)
 
-## Disadvantage vs. Hash Sets
+## Disadvantage v.s. Hash Sets
 
 * Bloom Filters can report false positives. Optimally there should be about a 1% false-positive rate. 
 * Bloom Filters do not store the objects inserted into it, so you cannot recover items inserted.
