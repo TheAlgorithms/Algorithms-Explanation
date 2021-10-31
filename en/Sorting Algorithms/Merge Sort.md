@@ -40,23 +40,23 @@ Now merge both these halves to get the sorted array [0, 1, 2, 3, 5, 9]
 ```
 arr = [1, 9, 2, 5, 7, 3, 6, 4]  
 
-Divide the array in two halves [1, 9, 2, 5] and [7, 3, 6, 4]
+Divide the array into two halves [1, 9, 2, 5] and [7, 3, 6, 4]
 
 As you can see that the above two halves are not yet sorted, so divide both of them into two halves again.
 
 This time we get four arrays as [1, 9], [2, 5], [7, 3] and [6, 4].
 
-We see that last two arrays are again not sorted, so we divide them again in two halves and we will get [7], [3], [6] and [4].
+We see that the last two arrays are again not sorted, so we divide them again into two halves and we will get [7], [3], [6], and [4].
 
-Since an array of single element is sorted, we now have all the arrays sorted, now we only need to merge them appropriately.
+Since an array of a single element is sorted, we now have all the arrays sorted, now we only need to merge them appropriately.
 
-First the arrays of one elements will be merged as they were divided in last, and are at top of the recursion stack, so we get [3,7] and [4,6].
+First, the arrays of one element will be merged as they were divided in last, and are at top of the recursion stack, so we get [3,7] and [4,6].
 
-Now the merge will occur accordingly to the recurion stack, [1, 9] and [2, 5] will be merged and will make [1, 2, 5, 9].
+Now the merge will occur accordingly to the recursion stack, [1, 9] and [2, 5] will be merged and will make [1, 2, 5, 9].
 
-Similarly [3, 7] and [4, 6] will be merged and make [3, 4, 6, 7].
+Similarly [3, 7] and [4, 6] will be merged and made [3, 4, 6, 7].
 
-At next stack level [1, 2, 5, 9] and [3, 4, 6, 7] will be merged and we will get the final sorted array as [1, 2, 3, 4, 5, 6, 7, 9].
+At the next stack level [1, 2, 5, 9] and [3, 4, 6, 7] will be merged and we will get the final sorted array as [1, 2, 3, 4, 5, 6, 7, 9].
 ```
 
 #### Code Implementation Links
