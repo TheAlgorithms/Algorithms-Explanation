@@ -1,7 +1,8 @@
 # Algorithm Name
 
 Write a short description of algorithm like:
-1. Time Complexity 
+
+1. Time Complexity
 2. Space Complexity
 3. Applications
 4. Founder's Name
@@ -22,7 +23,7 @@ NOTE: The link should be within the other repos of this organization only.
 
 ## Video URL
 
-Attach a URL of a video that explains the algorithm. 
+Attach a URL of a video that explains the algorithm.
 
 ## Others
 
