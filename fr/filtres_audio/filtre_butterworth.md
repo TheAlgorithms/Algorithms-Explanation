@@ -4,7 +4,7 @@
 
 ### Principe
 
-* Le filtre de Butterworth est originellement un filtre passe-bas, et c'est le filtre le plus utilisé du fait de son gain extrêment plat dans la zone pass-bande.  
+* Le filtre de Butterworth est originellement un filtre passe-bas, et c'est le filtre le plus utilisé du fait de son gain extrêment plat dans la zone passe-bande.  
 * L'avantage d'un tel filtre est d'amplifier toute les fréquences voulues de façon uniforme, au lieu d'amplifier certaines fréquences plus que d'autre comme le faisaient les filtres en usage avant sa découverte (les filtres [elliptiques](https://fr.wikipedia.org/wiki/Filtre_elliptique) et [de Tchebychev](https://fr.wikipedia.org/wiki/Filtre_de_Tchebychev)).
 * De plus, Butterworth a prouvé que le filtre passe-bas pouvait être modifié facilement afin de donner des filtres passe-haut, passe-bande ou coupe-bande.
 * La fonction de transfert d'un filtre de Butterworth passe-bas d'ordre $n$ dans le domaine fréquentielle est:

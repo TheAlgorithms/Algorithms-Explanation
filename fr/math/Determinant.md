@@ -4,7 +4,7 @@
 
 ### Principe
 
-* Calculer le déterminant d'un matrice permet de savoir s'il elle est inversible ou non.  
+* Calculer le déterminant d'un matrice permet de savoir si elle est inversible ou non.  
 * Avoir cette information en elle-même ne sert pas à grand chose mais si cette matrice représente (par exemple) un système d'équation, cela permet de savoir si ce système possède une solution.
 
 ### Complexités
