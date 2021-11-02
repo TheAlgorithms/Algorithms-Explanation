@@ -16,8 +16,6 @@
 
 * Trouver le déterminant d'une matrice permet de savoir si on peut utiliser la méthode du pivot de Gauss ou pas.
 
-### L'auteur
-
 ## Étapes
 
 * Puisque le déterminant n'est défini que pour les matrices carrés, il faut d'abord vérifier que la matrice est carré.
@@ -39,6 +37,4 @@ Le déterminant de $\begin{bmatrix}1&2&3\\4&5&6\\7&8&9\end{bmatrix}$ est $0$.
 
 ## Implementation
 
-## Vidéo
-
-## Autres
+* [Python](https://github.com/TheAlgorithms/Python/blob/master/linear_algebra/src/lib.py)

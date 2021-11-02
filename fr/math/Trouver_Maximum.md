@@ -33,9 +33,3 @@ Dans notre exemple, on va prendre la liste $-48,0,8,22,0,31,-38,-15,43,14,22,21,
 ### Exemple en vidéo
 
 ![Trouver Maximum](../Exemples/.gif/FindMax.gif)
-
-## Implementation
-
-## Vidéo
-
-## Autres

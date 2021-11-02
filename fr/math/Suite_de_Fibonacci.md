@@ -23,10 +23,6 @@ De nombreux algorithmes existent pour calculer les nombres de la suite, mais nou
 * L'algorithme possède une complexité temporelle de l'ordre de $n$.  
 * La complexité spatiale est extrêmement faible car nous ne stockons que les 2 derniers termes.
 
-### Applications
-
-### L'auteur
-
 ## Étapes
 
 * La première étape consiste à calculer $F(2)$ à partir de $F(1)$ et F(0)$.
@@ -48,7 +44,3 @@ On a donc $F(6) = 8$
 ## Implementation
 
 * [Python](https://github.com/TheAlgorithms/Python/blob/master/maths/fibonacci.py)
-
-## Vidéo
-
-## Autres

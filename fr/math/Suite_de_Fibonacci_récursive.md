@@ -23,10 +23,6 @@ De nombreux algorithmes existent pour calculer les nombres de la suite, mais nou
 * Cette algorithme n'est pas optimale et prends beaucoup de place et de temps à se terminer.  
 Plus précisement, la complexité temporelle de ce programme est $\phi^n$ ($\phi$ étant le nombre d'or), et sa complexité spatiale est $2^n$.
 
-### Applications
-
-### L'auteur
-
 ## Étapes
 
 * La première étape consiste à appeler $F(n-2)$ et $F(n-1)$.
@@ -49,7 +45,3 @@ On a donc $F(4) = 3$
 ## Implementation
 
 * [Python](https://github.com/TheAlgorithms/Python/blob/master/maths/fibonacci_sequence_recursion.py)
-
-## Vidéo
-
-## Autres

@@ -33,9 +33,3 @@ Dans notre exemple, on va prendre la liste $16,6,2,-14,43,-28,-35,20,-23,25,9,38
 ### Exemple en vidéo
 
 ![Trouver Minimum](../Exemples/.gif/FindMin.gif)
-
-## Implementation
-
-## Vidéo
-
-## Autres
