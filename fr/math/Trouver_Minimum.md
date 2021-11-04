@@ -21,7 +21,7 @@
 
 ## Étapes
 
-* La première étape est  d'initialiser le minimum. Pour cela, on dit qu'il est égale au 1er terme de la liste.
+* La première étape est d'initialiser le minimum. Pour cela, on dit qu'il est égale au 1er terme de la liste.
   * Attention! Il ne faut pas prendre pour 1er minimum 0 car si notre liste est composée uniquement de nombres $> 0$, on ne vas pas avoir un minimum correct.
   * Pour la même raison, il ne faut pas comparer les valeurs absolus des nombres.
 * Ensuite on compare les nombres. Si le 2ème est plus grand que le minimum, il devient le minimum et ainsi de suite, jusqu'à arriver à la fin de la liste.
