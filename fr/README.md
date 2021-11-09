@@ -2,13 +2,13 @@
 
 ## Description
 
-Ecrivez une courte desciption de l'algorithme:
+Écrivez une courte description de l'algorithme :
 
 1. Complexité temporelle
 2. Complexité spatiale
 3. Applications possibles
 4. Nom de l'auteur
-5. etc...
+5. etc,...
 
 ## Étapes
 
@@ -16,7 +16,7 @@ Décrire l'algorithme en étapes concises et compréhensibles.
 
 ## Exemple
 
-Ecrivez le fonctionnement de l'algorithme avec un exemple.
+Écrivez le fonctionnement de l'algorithme avec un exemple.
 
 ## Implementation
 

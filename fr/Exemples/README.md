@@ -1,6 +1,6 @@
 # Explications
 
-Les fichiers [.mp4](./mp4) sont là pour pouvoir regarder les exemples à son rythme, tandis que les [.gif](./gif) sont utilisés dans les fichiers d'explications car markdown ne permet pas d'intégrer des fichiers mp4.
+Les fichiers [.mp4](./mp4) sont là pour pouvoir regarder les exemples à son rythme, tandis que les [.gif](./gif) sont utilisés dans les fichiers d'explications car Markdown ne permet pas d'intégrer des fichiers mp4.
 
 ---
 

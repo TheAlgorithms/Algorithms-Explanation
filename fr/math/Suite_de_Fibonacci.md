@@ -4,7 +4,7 @@
 
 ### Principe
 
-* La suite de Fibonacci est définie mathématiquement de la sorte:
+* La suite de Fibonacci est définie mathématiquement de la sorte :
 $$
 \begin{cases}
 F(0) = 0\\
@@ -13,7 +13,7 @@ F(1) = 1\\
 \end{cases}
 $$
 * Cela signifie que chaque terme est la somme des 2 termes précédents, en ayant pour termes de départ 0 et 1.  
-La suite ressemble à ceci:
+La suite ressemble à ceci :
 $$0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, \ldots$$
 \
 De nombreux algorithmes existent pour calculer les nombres de la suite, mais nous allons ici nous intéresser à l'implémentation la plus directe.
