@@ -7,4 +7,6 @@
   * montrer reponse
 * math
   * Basiquement tout
+* tri
+  * basiquement tout
 * Tout le reste

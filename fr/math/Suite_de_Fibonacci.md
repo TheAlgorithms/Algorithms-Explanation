@@ -41,6 +41,6 @@ Dans notre exemple nous cherchons à calculer F(6), le 7ème terme de la suite.
 
 On a donc $F(6) = 8$
 
-## Implementation
+## Implémentation
 
 * [Python](https://github.com/TheAlgorithms/Python/blob/master/maths/fibonacci.py)

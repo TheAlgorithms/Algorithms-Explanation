@@ -20,7 +20,7 @@
 
 * Puisque le déterminant n'est défini que pour les matrices carrées, il faut d'abord vérifier que la matrice est carré.
 * Ensuite, nous développons la matrice par rapport à la première ligne.
-* On répète ces étapes à la matrice ainsi développer jusqu'à tomber sur une matrice 2x2, où on applique la formule connue $\bigg(\begin{vmatrix}a&b\\c&d\end{vmatrix}=ad-cb\bigg)$.
+* On répète ces étapes à la matrice ainsi développer jusqu'à tomber sur une matrice 2×2, où on applique la formule connue $\bigg(\begin{vmatrix}a&b\\c&d\end{vmatrix}=ad-cb\bigg)$.
 * De là, on remonte la cascade d'appel en effectuant les calculs.
 
 ## Exemple
