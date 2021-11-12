@@ -2,7 +2,7 @@
 
 #### Problem Statement
 
-Given a set of items,each with weight and a value,determine the number of each item to include in a collection so that the total weight is less than or equal to given limit and the total value is as large as possible.
+Given a set of items, each with weight and a value, determine the number of each item included in a collection so that the total weight is less than or equal to the given limit and the total value is as large as possible.
 
 ##### Greedy method will always provide an optimal solution with fractional knapsack problem.
 
