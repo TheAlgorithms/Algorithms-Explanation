@@ -25,7 +25,7 @@ weight = [40, 10, 20, 24]
 
 Ratio(V/W) = 7,10,6,5
 Say those items as A,B,C,D
-next the items should be sorted in descending order on the basis of ratio of value by weight in order to get maximum profit
+next, the items should be sorted in descending order based on the ratio of value by weight to get maximum profit
 First and foremost, B was picked since its weight is smaller than the knapsack's capacity. The next item, A, is chosen since the knapsack's available capacity is more than A's weight. C is now the next item on the list. However, the entire item cannot be chosen because the knapsack's remaining capacity is less than C's weight.
 As a result, the C proportion (60–50)/20)
 The knapsack's capacity is now equal to the specified items.
