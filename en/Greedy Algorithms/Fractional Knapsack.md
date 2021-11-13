@@ -8,13 +8,7 @@ Given a set of items, each with weight and a value, determine the number of each
 
 #### Time Complexity
 
-O(log n) Worst Case     
-O(1) Best Case (If middle element of initial array is the target element)
-
-#### Space Complexity
-
-O(1) For iterative approach          
-O(1) For recursive approach *if tail call optimization is used*, O(log n) due to recursion call stack, otherwise
+O(nlog n) Worst Case     
 
 #### Example
 
