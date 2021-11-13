@@ -19,6 +19,7 @@ Dans un algorithme de tri, le meilleur cas est celui où la liste est déjà tri
   * Dans le meilleur cas, la complexité est seulement de $n$.
   * Finalement, dans le cas général, la complexité est de $n^2/4$.
 * Cet algorithme de tri a pour seuls avantages la très grande facilité d'implémentation, le peu de place mémoire prise et sa rapidité sur les très petites listes ou les listes "presque triées".
+* On préféra utiliser d'autres algorithmes de tri comme le tri par fusion ou le tri rapide dans la grande majorité des cas (cf. leurs explications respectives).
 
 ## Étapes
 
