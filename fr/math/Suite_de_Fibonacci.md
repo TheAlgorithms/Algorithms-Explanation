@@ -12,7 +12,7 @@ F(1) = 1\\
 \forall n \in \natnums / n \ge 2, F(n) = F(n-2) + F(n-1)
 \end{cases}
 $$
-* Cela signifie que chaque terme est la somme des 2 termes précédents, en ayant pour termes de départ 0 et 1.  
+* Cela signifie que chaque terme est la somme des deux termes précédents, en ayant pour termes de départ 0 et 1.  
 La suite ressemble à ceci :
 $$0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, \ldots$$
 \
