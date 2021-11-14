@@ -29,7 +29,7 @@ Calculons le déterminant de la matrice $\begin{bmatrix}1&2&3\\4&5&6\\7&8&9\end{
 
 ### Exemple en vidéo
 
-![Exemple Déterminant](../Exemples/.gif/Determinant.gif)
+* [Déterminant](../Exemples/math/Determinant.mp4)
 
 ### Conclusion
 

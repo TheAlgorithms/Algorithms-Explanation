@@ -35,7 +35,7 @@ Dans notre exemple nous cherchons à calculer F(6), le 7ème terme de la suite.
 
 ### Exemple en vidéo
 
-![Fibonacci normal](../Exemples/.gif/FibonacciNormal.gif)
+* [Fibonacci normal](../Exemples/math/FibonacciNormal.mp4)
 
 ### Conclusion
 

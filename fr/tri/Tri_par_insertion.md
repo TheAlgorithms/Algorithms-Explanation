@@ -38,14 +38,11 @@ Dans notre exemple, on va trier la liste $84, 33, 82, 53, 50, 66, 10, 92, 96, 77
 
 ### Exemple en vidéo
 
-Voici dans le cas général :
-![Tri par insertion dans le cas général](../Exemples/.gif/TriInsertionGeneral.gif)
+Tri par insertion dans le :
 
-Voici dans le meilleur cas :
-![Tri par insertion dans le meilleur cas](../Exemples/.gif/TriInsertionMeilleur.gif)
-
-Et voici dans le pire :
-![Tri par insertion dans le pire cas](../Exemples/.gif/TriInsertionPire.gif)
+* [cas général](../Exemples/tri/TriInsertionGeneral.mp4)
+* [meilleur cas](../Exemples/tri/TriInsertionMeilleur.mp4)
+* [pire cas](../Exemples/tri/TriInsertionPire.mp4)
 
 ## Implémentation
 

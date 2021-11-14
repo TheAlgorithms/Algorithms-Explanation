@@ -36,7 +36,7 @@ Dans notre exemple nous cherchons à calculer $F(4)$, le 5ème terme de la suite
 
 ### Exemple en vidéo
 
-![Fibonacci récursif](../Exemples/.gif/FibonacciRécursif.gif)
+* [Fibonacci récursif](../Exemples/math/FibonacciRécursif.mp4)
 
 ### Conclusion
 
