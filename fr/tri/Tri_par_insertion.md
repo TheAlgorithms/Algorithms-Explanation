@@ -51,4 +51,5 @@ Tri par insertion dans le :
 ## Pour aller plus loin
 
 * Dans le meilleur cas, nous n'effectuons qu'une unique comparaison. En effet, le terme comparé et plus grand que le terme juste avant, donc aucune modification n'est à effectuer. (ce qui correspond bien à $n$ opérations)
-* Dans le pire des cas, on doit au contraire "redescendre" tous les termes un par un. On effectue une opération pour remonter le 2ème terme, deux pour le 3ème, etc. On effectue donc au total $\sum{k=0}{n}{k}$ opération, soit bien un ordre de $N^2/2$ (ou plus précisément $N^2$)
+* Dans le pire des cas, on doit au contraire "redescendre" tous les termes un par un. On effectue une opération pour remonter le 2ème terme, deux pour le 3ème, etc. On effectue au total un nombre d'opérations de l'ordre de $\Theta(n^2)$.
+  * Bien que le cas moyen soit également un $\Theta(n^2)$, le pire cas effectue plus précisément $\Theta(n^2/2)$ opérations, tandis que le cas moyen en effectue $\Theta(n^2/4)$
