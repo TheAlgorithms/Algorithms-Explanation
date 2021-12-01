@@ -11,11 +11,11 @@ Popular algorithms explained in simple language with examples and links to their
 
 - [Brazilian Portuguese](./pt-br)
 - [English](./en)
-- [Spanish](./es)
-- [Nepali](./ne)
+- [French](./fr)
 - [Hebrew](./he)
 - [Indonesian](./id)
 - [Korean](./ko)
-- [French](./fr)
+- [Nepali](./ne)
+- [Spanish](./es)
 
 To add a new language, create a new folder using 2 character `ISO 639-1` code of that language. For example use `hi` for `Hindi` explanations.
