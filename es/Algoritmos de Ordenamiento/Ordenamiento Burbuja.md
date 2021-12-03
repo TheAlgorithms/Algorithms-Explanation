@@ -81,7 +81,7 @@ Como no hay intercambios en los pasos de arriba, el arreglo ya se ha ordenado y 
 
 #### Enlaces a implementaciones de código
 
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/Sorts/BubbleSort.java)
+- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/BubbleSort.java)
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Sorting/Bubble%20Sort.cpp)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/bubble_sort.py)
 - [C-Sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/sorts/bubble_sort.cs)
