@@ -23,35 +23,35 @@ or O(n) (equal keys) Best-case performance
 
 `O(1)` Worst case auxiliary
 
-
 #### Example
- ```
+
+```
 Input data: 4, 10, 3, 5, 1
-         4(0)
-        /   \
-     10(1)   3(2)
-    /   \
- 5(3)    1(4)
+        4(0)
+       /   \
+    10(1)   3(2)
+   /   \
+5(3)    1(4)
 
 The numbers in bracket represent the indices in the array
 representation of data.
 
 Applying heapify procedure to index 1:
-         4(0)
-        /   \
-    10(1)    3(2)
-    /   \
+        4(0)
+       /   \
+   10(1)    3(2)
+   /   \
 5(3)    1(4)
 
 Applying heapify procedure to index 0:
-        10(0)
-        /  \
-     5(1)  3(2)
-    /   \
- 4(3)    1(4)
+       10(0)
+       /  \
+    5(1)  3(2)
+   /   \
+4(3)    1(4)
 The heapify procedure calls itself recursively to build heap
- in top down manner.
-  ```
+in top down manner.
+```
 
 ![heap-image](https://upload.wikimedia.org/wikipedia/commons/1/1b/Sorting_heapsort_anim.gif "Heap Sort")
 
@@ -68,4 +68,4 @@ The heapify procedure calls itself recursively to build heap
 
 #### Video Explanation
 
-[A video explaining the Selection Sort Algorithm](https://www.youtube.com/watch?v=MtQL_ll5KhQ)
+[A video explaining the Heap Sort Algorithm](https://www.youtube.com/watch?v=MtQL_ll5KhQ)
