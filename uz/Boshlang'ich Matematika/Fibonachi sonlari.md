@@ -12,8 +12,6 @@ qatorni bir hayotimizning quyidagi jabhalarida uchratib turishimiz mumkin:
 
 - Daraxt barglarining o'zagida va daraxt shoxlarida uchratib turishimiz mumkin.
 
-<img src="https://uz.wikipedia.org/wiki/Fayl:Helianthus_whorl.jpg" width="200" height="200">
-
 Hozirgi kunda Fibonachi sonlar qatori va Oltin nisbatga fizika, kvant mehanikasi va kriptografiya sohasida izlanish olib
 boruvchilar tomonidan katta qiziqishlar bildirilmoqda.
 
