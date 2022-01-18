@@ -47,7 +47,7 @@ f(8)=21
 
 ## Video bog'ich
 
-- [Youtube](https://youtu.be/FQiRf4jb3PU)
+- [YouTube](https://youtu.be/FQiRf4jb3PU)
 
 ## Boshqa manbalar
 
