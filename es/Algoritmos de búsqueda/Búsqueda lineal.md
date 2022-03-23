@@ -35,7 +35,7 @@ La búsqueda lineal debe devolver -1 ya que 6 no está presente en la matriz
 
 #### Enlaces de implementación de código
 
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/Searches/LinearSearch.java)
+- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/searches/LinearSearch.java)
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Search/Linear%20Search.cpp)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/searches/linear_search.py)
 - [JavaScript](https://github.com/TheAlgorithms/Javascript/blob/master/Search/LinearSearch.js)

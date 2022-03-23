@@ -57,7 +57,7 @@ El procedimiento de amontonar se llama a sí mismo recursivamente para construir
 
 #### Enlaces de implementación de código
 
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/Sorts/HeapSort.java)
+- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/HeapSort.java)
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/heap_sort.cpp)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/heap_sort.py)
 - [Ir](https://github.com/TheAlgorithms/Go/blob/master/sorts/heapsort.go)

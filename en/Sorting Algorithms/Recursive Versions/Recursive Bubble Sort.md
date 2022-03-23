@@ -65,7 +65,7 @@ void bubbleSort(arr[], n)
 
 ## Implementations
 
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/Sorts/BubbleSortRecursion.java)
+- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/BubbleSortRecursion.java)
 - [C](https://github.com/TheAlgorithms/C/blob/master/sorting/bubble_sort_recursion.c)
 
 ## Video Explanation

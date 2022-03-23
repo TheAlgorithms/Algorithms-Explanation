@@ -41,7 +41,7 @@ f(8)=21
 ## Fibonachi algoritmning dasturlash tillaridagi ko'rinishi:
 
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/math/fibonacci.cpp)
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/Maths/FibonacciNumber.java)
+- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/FibonacciNumber.java)
 - [Javascript](https://github.com/TheAlgorithms/Javascript/blob/80c2dc85d714f73783f133964d6acd9b5625ddd9/Maths/Fibonacci.js)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/maths/fibonacci.py)
 

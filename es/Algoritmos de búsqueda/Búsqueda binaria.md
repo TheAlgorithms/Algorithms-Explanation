@@ -40,7 +40,7 @@ Búsqueda binaria debe devolver -1 dado que 9 no está presente en la matriz
 
 #### Enlaces de implementación de código
 
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/Searches/BinarySearch.java)
+- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/searches/BinarySearch.java)
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Search/Binary%20Search.cpp)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/searches/binary_search.py)
 - [C-Sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/searches/binary_search.cs)

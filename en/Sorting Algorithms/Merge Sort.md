@@ -61,7 +61,7 @@ At the next stack level [1, 2, 5, 9] and [3, 4, 6, 7] will be merged and we will
 
 #### Code Implementation Links
 
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/Sorts/MergeSort.java)
+- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/MergeSort.java)
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/merge_sort.cpp)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/merge_sort.py)
 - [C-Sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/MergeSorter.cs)
