@@ -63,7 +63,7 @@ F(8)=21
 - [F#](https://github.com/TheAlgorithms/F-Sharp/blob/main/Algorithms/Math/Fibonacci.fs)
 - [Go](https://github.com/TheAlgorithms/Go/blob/master/dynamic/fibonacci.go)
 - [Haskell](https://github.com/TheAlgorithms/Haskell/blob/master/src/Maths/Fibonacci.hs)
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/Maths/FibonacciNumber.java)
+- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/FibonacciNumber.java)
 - [Javascript](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Fibonacci.js)
 - [PHP](https://github.com/TheAlgorithms/PHP/blob/master/Maths/Fibonacci.php)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/maths/fibonacci.py)
