@@ -51,7 +51,7 @@ The array is now sorted.
 
 #### Code Implementation Links
 
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/Sorts/SelectionSort.java)
+- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/SelectionSort.java)
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Sorting/Selection%20Sort.cpp)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/selection_sort.py)
 - [Go](https://github.com/TheAlgorithms/Go/blob/master/sorts/selection_sort.go)

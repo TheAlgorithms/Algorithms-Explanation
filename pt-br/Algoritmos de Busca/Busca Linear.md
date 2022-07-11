@@ -35,7 +35,7 @@ alvo = 6
 
 #### Links de implementação de código
 
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/Searches/LinearSearch.java)
+- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/searches/LinearSearch.java)
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Search/Linear%20Search.cpp)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/searches/linear_search.py)
 

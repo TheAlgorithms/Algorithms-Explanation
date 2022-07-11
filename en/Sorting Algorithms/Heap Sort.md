@@ -57,7 +57,7 @@ in top down manner.
 
 #### Code Implementation Links
 
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/Sorts/HeapSort.java)
+- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/HeapSort.java)
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/heap_sort.cpp)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/heap_sort.py)
 - [Go](https://github.com/TheAlgorithms/Go/blob/master/sorts/heapsort.go)
