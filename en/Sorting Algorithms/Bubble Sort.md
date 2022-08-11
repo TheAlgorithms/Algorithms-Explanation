@@ -81,7 +81,7 @@ Since there are no swaps in above steps, it means the array is sorted and we can
 
 #### Code Implementation Links
 
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/Sorts/BubbleSort.java)
+- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/BubbleSort.java)
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/bubble_sort.cpp)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/bubble_sort.py)
 - [C-Sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/BubbleSorter.cs)

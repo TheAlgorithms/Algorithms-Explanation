@@ -48,7 +48,7 @@ e os elementos de 11 a 13 se moverão uma posição à frente de sua posição a
 
 #### Links de implementação de código
 
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/Sorts/InsertionSort.java)
+- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/InsertionSort.java)
 - [C](https://github.com/TheAlgorithms/C/blob/master/sorting/insertion_sort.c)
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/insertion_sort.cpp)
 - [C#](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/InsertionSorter.cs)

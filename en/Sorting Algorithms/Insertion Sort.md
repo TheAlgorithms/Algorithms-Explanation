@@ -50,7 +50,7 @@ and elements from 11 to 13 will move one position ahead of their current positio
 
 #### Code Implementation Links
 
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/Sorts/InsertionSort.java)
+- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/InsertionSort.java)
 - [C](https://github.com/TheAlgorithms/C/blob/master/sorting/insertion_sort.c)
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/insertion_sort.cpp)
 - [C#](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/InsertionSorter.cs)
