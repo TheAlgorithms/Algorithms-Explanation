@@ -2,7 +2,7 @@
 
 The Playfair cipher was invented in 1854 by [Charles Wheatstone](https://en.wikipedia.org/wiki/Charles_Wheatstone) but was named after Lord Playfair who promoted the use of the cipher.
 
-The Playfair cipher was the first practical digraph substitution cipher. In Playfair cipher unlike traditional cipher, we encrypt a pair of alphabets(digraphs) instead of a single alphabet. A `5 × 5` grid of alphabets was used as the key-square. Each of the 25 alphabets is unique and one letter of the alphabet (usually J) is omitted from the table. If the plaintext contains J, then it is replaced by I. The initial alphabets in the key square are the unique alphabets of the key in the order in which they appear followed by the remaining letters of the alphabet in order.
+The Playfair cipher was the first practical digraph substitution cipher. In Playfair cipher unlike traditional cipher, we encrypt a pair of alphabets(digraphs) instead of a single alphabet. A `5 × 5` grid of alphabets was used as the key-square. Each of the 25 alphabets is unique and one letter of the alphabet (usually J) is omitted from the table. If the plaintext contains J, then it is replaced by I or vice-versa. The initial alphabets in the key square are the unique alphabets of the key in the order in which they appear followed by the remaining letters of the alphabet in order.
 
 ## Example
 
