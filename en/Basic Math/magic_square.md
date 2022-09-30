@@ -8,7 +8,7 @@ A magic square puzzle of the `n` order is an organization of `n²` numbers, usua
 
 - M = `n(n² + 1)/2`
 
-- This is the formula for a magic square that is used to make magic squares of different orders. If we subtract each number from (`n^2` + 1), we get another magic square, and this is called the complementary magic square. A square containing consecutive numbers beginning with 1 is often called the normal magic square.
+- This is the formula for a magic square that is used to make magic squares of different orders. If we subtract each number from (`n²` + 1), we get another magic square, and this is called the complementary magic square. A square containing consecutive numbers beginning with 1 is often called the normal magic square.
 
 # How to Solve Magic square
 
@@ -63,5 +63,8 @@ Now, subtract each number from (n² + 1), i.e. from 10.
 
 
 # REFERENCE 
+## website:-
 - [Byjus](https://byjus.com/maths/magic-square/)
 - [geeksforgeeks](https://www.geeksforgeeks.org/magic-square/)
+## Youtube:-
+- [video](https://www.bing.com/videos/search?q=magic+square&&view=detail&mid=26BE595B719B8B532E5126BE595B719B8B532E51&&FORM=VRDGAR&ru=%2Fvideos%2Fsearch%3Fq%3Dmagic%2Bsquare%26FORM%3DHDRSC3)
