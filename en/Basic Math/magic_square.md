@@ -4,18 +4,18 @@ A magic square is defined as a square containing several distinct integers arran
 
 # Magic Square Formula
 
-A magic square puzzle of the `n` order is an organization of `n2` numbers, usually unique integers, in a square. The `n` numbers in all rows, columns, and diagonals add up to the same constant. A magic square bears the integers from 1 to `n2`. The fixed sum in every row, column,and diagonal are known as the magic constant or the magic sum. It is represented by the M letter . The magic constant of a typical magic square depends entirely on the value of `n`. Thus, the value of the magic sum is calculated using the following formula:
+A magic square puzzle of the `n` order is an organization of `n²` numbers, usually unique integers, in a square. The `n` numbers in all rows, columns, and diagonals add up to the same constant. A magic square bears the integers from 1 to `n²`. The fixed sum in every row, column,and diagonal are known as the magic constant or the magic sum. It is represented by the M letter . The magic constant of a typical magic square depends entirely on the value of `n`. Thus, the value of the magic sum is calculated using the following formula:
 
-- M = `n(n2 + 1)/2`
+- M = `n(n² + 1)/2`
 
-- This is the formula for a magic square that is used to make magic squares of different orders. If we subtract each number from (`n2` + 1), we get another magic square, and this is called the complementary magic square. A square containing consecutive numbers beginning with 1 is often called the normal magic square.
+- This is the formula for a magic square that is used to make magic squares of different orders. If we subtract each number from (`n^2` + 1), we get another magic square, and this is called the complementary magic square. A square containing consecutive numbers beginning with 1 is often called the normal magic square.
 
 # How to Solve Magic square
 
-As mentioned above, the formula of the magic square sum is n(n2 + 1)/2.\
+As mentioned above, the formula of the magic square sum is n(n² + 1)/2.\
 For a magic square of order 3, we need to substitute n = 3 to know the magic sum so that we can easily form the magic square 3×3.
 
-When `n = 3`, the sum = 3(32 + 1) = 3(9 + 1)/2 = (3 × 10)/2 = 15\
+When `n = 3`, the sum = 3(3*3 + 1) = 3(9 + 1)/2 = (3 × 10)/2 = 15\
 Now, we have to place the numbers in the respective places so that the sum of numbers in each row, column and diagonal is equal to 15.
 
 ## Magic Square Trick for order 3
@@ -38,9 +38,9 @@ The cell above x is taken as y – 1 as given below:
 
 Let us make the complementary magic square of the above square.
 
-`(n2 + 1) = 32 + 1 = 9 + 1 = 10`
+`(n² + 1) = 32 + 1 = 9 + 1 = 10`
 
-Now, subtract each number from (n2 + 1), i.e. from 10.
+Now, subtract each number from (n² + 1), i.e. from 10.
 
 - First row numbers:
   - 10 – 4 = 6 
@@ -62,4 +62,6 @@ Now, subtract each number from (n2 + 1), i.e. from 10.
 
 
 
-REFERENCE FROM :- [REFERENCE](https://byjus.com/maths/magic-square/)
+# REFERENCE 
+- [Byjus](https://byjus.com/maths/magic-square/)
+- [geeksforgeeks](https://www.geeksforgeeks.org/magic-square/)
