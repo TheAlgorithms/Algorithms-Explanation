@@ -41,10 +41,6 @@ Let's say k = 4. ie. We have to find 4th smallest element.
 4. As position of '7' is 4th (ie. k). Thus we will simply return 7
 ```
 
-### Code Implementation Links
-
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/selecting/quickSelect.cpp)
-
 ### Helpful Video Links
 
 [Video explaining how to find the Kth smallest/largest element in varying complexities](https://youtu.be/hGK_5n81drs)
