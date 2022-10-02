@@ -59,7 +59,7 @@ Initial Gap: 4
 - [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/ShellSort.java)
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/shell_sort.cpp)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/shell_sort.py)
-- [C-Sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/sorts/shell_sort.cs)
+- [C-Sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/ShellSorter.cs)
 - [Go](https://github.com/TheAlgorithms/Go/blob/master/sorts/shell_sort.go)
 - [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/Sorting/shell_sort.rb)
 - [C](https://github.com/TheAlgorithms/C/blob/master/sorting/shellSort.c)
