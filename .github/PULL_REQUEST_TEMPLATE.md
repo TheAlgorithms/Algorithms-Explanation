@@ -1,18 +1,13 @@
-<!-- Follow this template for PR's -->
+<!-- Short description of your changes/enhancement/feature -->
 
-<!--Example Template for adding feature of binary search function
- -->
+-Description
 
-<!-- Short description of your changes -->
-
-Adding code snippet of binary search function in algorithms directory
-
-<!-- Add issue no. which corresponds to this PR -->
+<!-- Add issue no. which corresponds to this PR (if applicable) -->
 
 Closes #no.
 
 ## Changes
 
-<!-- Go verbose here & explain in bit detailed way what you have changed -->
+<!-- Go verbose here & explain in brief way what you have changed/added -->
 
--added binary search in algorithms of code snippet
+-Changes
