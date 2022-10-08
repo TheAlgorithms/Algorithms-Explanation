@@ -8,7 +8,7 @@ RSA (Rivest–Shamir–Adleman) is one of the first public-key cryptosystems and
 1. Select 2 Prime Numbers - **p & q**
 2. Calculate `n` as $$n = p * q$$
 3. Calculate Euler's Totient Function of n, $$φ(n) = (p-1) * (q-1)$$
-4. Select PUBLIC KEY - $e$ , such that $e$ and $φ(n)$ are Co-primes, i.e, $$gcd(e , φ(n))=1$$
+4. Select PUBLIC KEY - $e$ , such that $e$ and $φ(n)$ are Co-primes, i.e, $$\gcd(e , φ(n))=1$$
 5. Calculate PRIVATE KEY, $d$ such that $$(d * e) \mod φ(n) = 1$$
 
 ## Public and Private Keys
