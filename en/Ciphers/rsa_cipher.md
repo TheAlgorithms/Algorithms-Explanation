@@ -13,8 +13,8 @@ RSA (Rivest–Shamir–Adleman) is one of the first public-key cryptosystems and
 
 ## Public and Private Keys
 
-1. The **Public  key** is ${ e , n }$, which is known to all in the network.
-2. The **Private key** is ${ d , n }$, which is known ONLY to the User to whom message is to be sent.
+1. The **Public  key** is { e , n }, which is known to all in the network.
+2. The **Private key** is { d , n }, which is known ONLY to the User to whom message is to be sent.
 
 ## Encryption & Decryption
 
@@ -34,18 +34,17 @@ $$M = C^d \mod n$$
 
 ## Encryption & Decryption Mechanism
 
-The Encryption and Decryption mechanishm block diagram is shown below
+The Encryption and Decryption mechanishm block diagram with sample message encryption.
 
 ![RSA-Encryption-Decryption-block-diagram.png](https://github.com/TanmoySG/Cryptography-Algorithm/blob/master/RSA-Algorithm/diagrams/RSA-Encryption-Decryption-block-diagram.jpg)
 
-## Explanation
+### Explanation
 
-The explanation for the above example is shown below
+The explanation for the above example,
 
 ![RSA-Example-maths-only-diagram.png](https://github.com/TanmoySG/Cryptography-Algorithm/blob/master/RSA-Algorithm/diagrams/RSA-Example-maths-only-diagram.png)
 
-## Implementation of RSA using Python
-
+## Simple Implementation of RSA using Python
 
 ```python
 from sympy import *
@@ -130,6 +129,8 @@ ct = int(input('Enter the Cipher Text: '))
 print("PlainText: ", decrypt(ct))
 ```
 
+```shell
+
     Value of P =  7
     Value of Q =  19
     Value of N =  133
@@ -151,3 +152,8 @@ print("PlainText: ", decrypt(ct))
     PlainText:  51
     
 
+```
+
+## Implementations
+- [Python](https://github.com/TheAlgorithms/Python/blob/master/ciphers/rsa_cipher.py)
+- [Golang](https://github.com/TheAlgorithms/Go/blob/master/cipher/rsa/rsa.go)
