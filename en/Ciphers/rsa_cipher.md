@@ -13,8 +13,8 @@ RSA (Rivest–Shamir–Adleman) is one of the first public-key cryptosystems and
 
 ## Public and Private Keys
 
-1. The **Public  key** is { e , n }, which is known to all in the network.
-2. The **Private key** is { d , n }, which is known ONLY to the User to whom message is to be sent.
+1. The **Public  key** is `{ e , n }` which is known to all in the network.
+2. The **Private key** is `{ d , n }` which is known ONLY to the User to whom message is to be sent.
 
 ## Encryption & Decryption
 
