@@ -22,13 +22,13 @@ RSA (Rivest–Shamir–Adleman) is one of the first public-key cryptosystems and
 
 The Cipher Text, C is generated from the plaintext, M using the public key, e as:
 
-$$C = M^e mod n$$
+$$C = M^e \mod n$$
 
 #### Decryption Algorithm
 
 The Plain Text, M is generated from the ciphertext, C using the private key, d as:
 
-**M = C<sup>d</sup> mod n**
+$$M = C^d \mod n$$
 
 ![RSA-block-diagram%20%281%29.png](https://github.com/TanmoySG/Cryptography-Algorithm/blob/master/RSA-Algorithm/diagrams/RSA-block-diagram-image.png)
 
