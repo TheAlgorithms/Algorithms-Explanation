@@ -41,7 +41,7 @@ La búsqueda lineal debe devolver -1 ya que 6 no está presente en la matriz
 - [JavaScript](https://github.com/TheAlgorithms/Javascript/blob/master/Search/LinearSearch.js)
 - [C-Sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Search/LinearSearcher.cs)
 - [C](https://github.com/TheAlgorithms/C/blob/master/searching/linear_search.c)
-- [Go](https://github.com/TheAlgorithms/Go/blob/master/searches/linearsearch.go)
+- [Go](https://github.com/TheAlgorithms/Go/blob/master/search/linear.go)
 - [Rust](https://github.com/TheAlgorithms/Rust/blob/master/src/searching/linear_search.rs)
 - [Dart](https://github.com/TheAlgorithms/Dart/blob/master/search/linear_Search.dart)
 - [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/Searches/linear_search.rb)

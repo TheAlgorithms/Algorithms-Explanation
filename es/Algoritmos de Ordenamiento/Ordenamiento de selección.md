@@ -54,7 +54,7 @@ La matriz ahora está ordenada.
 - [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/SelectionSort.java)
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Sorting/Selection%20Sort.cpp)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/selection_sort.py)
-- [Ir](https://github.com/TheAlgorithms/Go/blob/master/sorts/selection_sort.go)
+- [Ir](https://github.com/TheAlgorithms/Go/blob/master/sort/selectionsort.go)
 - [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/Sorting/selection_sort.rb)
 - [C](https://github.com/TheAlgorithms/C/blob/master/sorting/SelectionSort.c)
 - [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/SelectionSort.scala)
