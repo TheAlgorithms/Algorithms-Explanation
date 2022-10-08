@@ -30,7 +30,19 @@ The Plain Text, M is generated from the ciphertext, C using the private key, d a
 
 $$M = C^d \mod n$$
 
-![RSA-block-diagram%20%281%29.png](https://github.com/TanmoySG/Cryptography-Algorithm/blob/master/RSA-Algorithm/diagrams/RSA-block-diagram-image.png)
+<!-- ![RSA-block-diagram%20%281%29.png](https://github.com/TanmoySG/Cryptography-Algorithm/blob/master/RSA-Algorithm/diagrams/RSA-block-diagram-image.png) -->
+
+## Encryption & Decryption Mechanism
+
+The Encryption and Decryption mechanishm block diagram is shown below
+
+![RSA-Encryption-Decryption-block-diagram.png](https://github.com/TanmoySG/Cryptography-Algorithm/blob/master/RSA-Algorithm/diagrams/RSA-Encryption-Decryption-block-diagram.jpg)
+
+## Explanation
+
+The explanation for the above example is shown below
+
+![RSA-Example-maths-only-diagram.png](https://github.com/TanmoySG/Cryptography-Algorithm/blob/master/RSA-Algorithm/diagrams/RSA-Example-maths-only-diagram.png)
 
 ## Implementation of RSA using Python
 
@@ -139,17 +151,3 @@ print("PlainText: ", decrypt(ct))
     PlainText:  51
     
 
-## Encryption & Decryption Mechanism
-
-The Encryption and Decryption mechanishm block diagram is shown below
-
-![RSA-Encryption-Decryption-block-diagram.png](https://github.com/TanmoySG/Cryptography-Algorithm/blob/master/RSA-Algorithm/diagrams/RSA-Encryption-Decryption-block-diagram.jpg)
-
-## Explanation
-
-The explanation for the above example is shown below
-
-![RSA-Example-maths-only-diagram.png](https://github.com/TanmoySG/Cryptography-Algorithm/blob/master/RSA-Algorithm/diagrams/RSA-Example-maths-only-diagram.png)
-
-#### Tanmoy Sen Gupta
-[tanmoysg.com](http://tanmoysg.com) | +91 9864809029 | tanmoysps@gmail.com
