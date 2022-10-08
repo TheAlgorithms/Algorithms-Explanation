@@ -7,9 +7,7 @@ RSA (Rivest–Shamir–Adleman) is one of the first public-key cryptosystems and
 
 1. Select 2 Prime Numbers - **p & q**
 2. Calculate `n` as 
-```maths
-n = p * q
-```
+$$n = p * q$$
 3. Calculate Euler's Totient Function of n,  
 $$ 
 φ(n) = (p-1) * (q-1) 
