@@ -89,7 +89,7 @@ Como não há trocas nas etapas acima, isso significa que a matriz está classif
 - [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/bubble_sort.rb)
 - [C](https://github.com/TheAlgorithms/C/blob/master/sorting/bubble_sort.c)
 - [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/BubbleSort.scala)
-- [Javascript](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/BubbleSort.js)
+- [Javascript](https://github.com/TheAlgorithms/JavaScript/blob/master/Sorts/BubbleSort.js)
 
 #### Explicação em vídeo
 

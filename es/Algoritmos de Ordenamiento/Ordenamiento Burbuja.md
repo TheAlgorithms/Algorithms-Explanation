@@ -89,7 +89,7 @@ Como no hay intercambios en los pasos de arriba, el arreglo ya se ha ordenado y 
 - [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/Sorting/bubble_sort.rb)
 - [C](https://github.com/TheAlgorithms/C/blob/master/sorting/BubbleSort.c)
 - [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/BubbleSort.scala)
-- [Javascript](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/bubblesort.js)
+- [Javascript](https://github.com/TheAlgorithms/JavaScript/blob/master/Sorts/BubbleSort.js)
 
 #### Explicación en video
 
