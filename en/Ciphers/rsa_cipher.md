@@ -6,25 +6,15 @@ RSA (Rivest–Shamir–Adleman) is one of the first public-key cryptosystems and
 ## Algorithm
 
 1. Select 2 Prime Numbers - **p & q**
-2. Calculate `n` as 
-$$n = p * q$$
-3. Calculate Euler's Totient Function of n,  
-$$ 
-φ(n) = (p-1) * (q-1) 
-$$
-4. Select PUBLIC KEY - $e$ , such that $e$ and $φ(n)$ are Co-primes, i.e, 
-$$ 
-gcd(e , φ(n))=1
-$$
-5. Calculate PRIVATE KEY, $d$ such that 
-$$
-(d * e) \mod φ(n) = 1
-$$
+2. Calculate `n` as $$n = p * q$$
+3. Calculate Euler's Totient Function of n, $$φ(n) = (p-1) * (q-1)$$
+4. Select PUBLIC KEY - $e$ , such that $e$ and $φ(n)$ are Co-primes, i.e, $$gcd(e , φ(n))=1$$
+5. Calculate PRIVATE KEY, $d$ such that $$(d * e) \mod φ(n) = 1$$
 
 ## Public and Private Keys
 
-1. The **Public  key is { e , n }**, which is known to all in the network.
-2. The **Private key is { d , n }**, which is known ONLY to the User to whom message is to be sent.
+1. The **Public  key** is ${ e , n }$, which is known to all in the network.
+2. The **Private key** is ${ d , n }$, which is known ONLY to the User to whom message is to be sent.
 
 ## Encryption & Decryption
 
@@ -32,7 +22,7 @@ $$
 
 The Cipher Text, C is generated from the plaintext, M using the public key, e as:
 
-**C = M<sup>e</sup> mod n**
+$$C = M^e mod n$$
 
 #### Decryption Algorithm
 
