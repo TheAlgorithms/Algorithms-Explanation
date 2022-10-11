@@ -57,4 +57,5 @@ Let's take a look at this comparison with a less theoretical example. Imagine we
 #### Code Implementation Links
 
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/search/exponential_search.cpp)
+- [C](https://github.com/TheAlgorithms/C/blob/master/searching/exponential_search.c)
 - [JavaScript](https://github.com/TheAlgorithms/Javascript/blob/master/Search/ExponentialSearch.js)
