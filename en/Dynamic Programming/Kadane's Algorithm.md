@@ -32,7 +32,7 @@ As the optimal Solution is Linear Time Solution the time complexity will be `O(N
 
 As the optimal Solution is Constant Space the space complexity will be `O(1)`
 
-#### Algorithm
+## Algorithm
 The idea is to keep track of the maximum sum of the subarray ending at the current index. 
 The maximum sum of the subarray ending at the current index can be calculated by adding the current element to the maximum sum of the subarray ending at the previous index. 
 If the maximum sum of the subarray ending at the previous index is negative, then the maximum sum of the subarray ending at the current index is the current element. 
