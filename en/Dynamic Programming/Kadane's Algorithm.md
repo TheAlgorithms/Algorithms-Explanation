@@ -56,7 +56,8 @@ largest Sum = float("-inf")  Calculated by max(currentSum, largestSum)
 ```
 
 
-###### Traversing through array will look like - 
+### Traversing through an array will look like
+
 ```
 Consider -2
 current_sum = max(-2, current_sum + -2) = max(-2, 0 + -2) = -2
