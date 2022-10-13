@@ -29,6 +29,6 @@ Working with Stacks
 -[DS-Stack JavaPoint](https://www.javatpoint.com/data-structure-stack)
 [Stack Data Structure](https://www.programiz.com/dsa/stack)
 
-# Video
+# Video Playlist
 
--[Array Implementation of Stack Data Structure](https://youtu.be/sFVxsglODoo)
+-[Stack Data Structure](https://youtu.be/F1F2imiOJfk)
