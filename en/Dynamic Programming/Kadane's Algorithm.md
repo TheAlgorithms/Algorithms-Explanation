@@ -42,12 +42,14 @@ If the maximum sum of the subarray ending at the current index is greater than t
 The maximum sum of the subarray ending at the current index is returned as the output.
 
 
-#### Walkthrough
-array = [-2,1,-3,4,-1,2,1,-5,4]
+## Walkthrough
 
-We consider each element of array and decide whether to include it in the current subarray or start a new subarray from it.
+`array = [-2,1,-3,4,-1,2,1,-5,4]`
 
-###### Calculation Formula for two variables 
+We consider each element of the array and decide whether to include it in the current subarray or start a new subarray from it.
+
+### Calculation Formula for two variables
+
 ```
 current Sum = 0  Calculated by max(number, currentSum + number)
 largest Sum = float("-inf")  Calculated by max(currentSum, largestSum)
