@@ -6,11 +6,11 @@ Stacks are used to implement parsers and evaluation expressions and backtracking
 We can make use of linked lists or arrays of lists. The stack contains only one pointer
 "top pointer" which points to the topmost elements of the stack. Insertion and deletion  only occurs at one end of the stack.
 Some Standard Stack Operations are:
-push(): inserts the element at the top of the stack.
-pop(): When we delete the element at the top of the stack
-isEmpty(): It determines whether the stack is empty.
-isFull(): determines whether the stack is full or not
-peek(): Gets the value of the top element without removing it
+1) push(): inserts the element at the top of the stack.
+2) pop(): When we delete the element at the top of the stack
+3) isEmpty(): It determines whether the stack is empty.
+4) isFull(): determines whether the stack is full or not
+5) peek(): Gets the value of the top element without removing it
 
 
 Working with Stacks
