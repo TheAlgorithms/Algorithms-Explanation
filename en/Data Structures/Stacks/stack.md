@@ -25,9 +25,9 @@ Working with Stacks
 
 # Source
 
--[Stack Data Structure - GeeksForGeeks](https://www.geeksforgeeks.org/stack-data-structure/) 
--[DS-Stack JavaPoint](https://www.javatpoint.com/data-structure-stack)
-[Stack Data Structure](https://www.programiz.com/dsa/stack)
+1) [Stack Data Structure - GeeksForGeeks](https://www.geeksforgeeks.org/stack-data-structure/) 
+2) [DS-Stack JavaPoint](https://www.javatpoint.com/data-structure-stack)
+3) [Stack Data Structure](https://www.programiz.com/dsa/stack)
 
 # Video Playlist
 
