@@ -5,7 +5,9 @@ A perfect example of stacks would be plates in a canteen, a pile of books, or a 
 Stacks are used to implement parsers and evaluation expressions and backtracking algorithms. basic operations are pushing an element into the stack and popping the element out of the stack.
 We can make use of linked lists or arrays of lists. The stack contains only one pointer
 "top pointer" which points to the topmost elements of the stack. Insertion and deletion  only occurs at one end of the stack.
-# Standard Stack Operations are:
+
+# Standard Stack Operations 
+
 1) push(): inserts the element at the top of the stack.
 2) pop(): When we delete the element at the top of the stack
 3) isEmpty(): It determines whether the stack is empty.
