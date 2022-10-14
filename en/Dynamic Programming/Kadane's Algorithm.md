@@ -24,13 +24,13 @@ Explanation: [5,4,-1,7,8] has the largest sum = 23.
 ```
 
 
-## Time Complexity 
+## Time Complexity
 
-As the optimal Solution is Linear Time Solution the time complexity will be `O(N)`
+O(N)
 
 ## Space Complexity
 
-As the optimal Solution is Constant Space the space complexity will be `O(1)`
+O(1)
 
 ## Algorithm
 The idea is to keep track of the maximum sum of the subarray ending at the current index. 
