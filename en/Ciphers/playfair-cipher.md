@@ -58,7 +58,7 @@ The rules above are used for Encryption. Can be applied vice-versa for Decryptio
     [u v w x z]
 ```
 
-2. Split the plaintext in digraphs(pair of two). If there is an odd number of letters, an X is added to the last letter.  Pair cannot be made with same letter. Break the letter in single and add a bogus letter to the previous letter.
+2. Split the plaintext in digraphs(pair of two). If there is an odd number of letters, an X is added to the last letter. Pairs cannot be made with same letter. If this occurs, split the pair by adding an X between the duplicate letters.
 
 ``` 
    'in' 'st' 'ru' 'me' 'nt' 'sx'
