@@ -57,7 +57,8 @@ The array is now sorted.
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/selection_sort.py)
 - [Go](https://github.com/TheAlgorithms/Go/blob/master/sorts/selection_sort.go)
 - [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/Sorting/selection_sort.rb)
-- [C](https://github.com/TheAlgorithms/C/blob/master/sorting/SelectionSort.c)
+- [C iterative](https://github.com/TheAlgorithms/C/blob/master/sorting/selection_sort.c)
+- [C recursive](https://github.com/TheAlgorithms/C/blob/master/sorting/selection_sort_recursive.c)
 - [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/SelectionSort.scala)
 - [Javascript](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/selectionSort.js)
 
