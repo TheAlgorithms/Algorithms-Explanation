@@ -58,16 +58,16 @@ The rules above are used for Encryption. Can be applied vice-versa for Decryptio
     [u v w x z]
 ```
 
-2. Split the plaintext in digraphs(pair of two). If there is an odd number of letters, a Z is added to the last letter.  Pair cannot be made with same letter. Break the letter in single and add a bogus letter to the previous letter.
+2. Split the plaintext in digraphs(pair of two). If there is an odd number of letters, an X is added to the last letter.  Pair cannot be made with same letter. Break the letter in single and add a bogus letter to the previous letter.
 
 ``` 
-   'in' 'st' 'ru' 'me' 'nt' 'sz'
+   'in' 'st' 'ru' 'me' 'nt' 'sx'
 ```
 
 3. Now, we need to follow the rules for encrypting and do as follows:
 
 ```
-    Plain Text: instrumentsz
+    Plain Text: instrumentsx
     key: monarchy
     Encryption: 
       i -> g
@@ -80,10 +80,10 @@ The rules above are used for Encryption. Can be applied vice-versa for Decryptio
       e -> l
       n -> r
       t -> q
-      s -> t
-      z -> x
+      s -> x
+      x -> a
 ```
-So we will get the encrypted text as **gatlmzclrqtx**.
+So we will get the encrypted text as **gatlmzclrqxa**.
 
 ### Decryption
 
@@ -99,10 +99,10 @@ So we will get the encrypted text as **gatlmzclrqtx**.
 
 2. We need to split the ciphertext as done for plaintext while encrypting
  ```
-    'ga' 'tl' 'mz' 'cl' 'rq' 'tx'
+    'ga' 'tl' 'mz' 'cl' 'rq' 'xa'
  ```
  
-3. For the previous Cipher Text **gatlmzclrqtx**, by following the rules we get:
+3. For the previous Cipher Text **gatlmzclrqxa**, by following the rules we get:
 
 ```
     Plain Text: gatlmzclrqtx
@@ -113,9 +113,9 @@ So we will get the encrypted text as **gatlmzclrqtx**.
       mz -> ru
       cl -> me
       rq -> nt
-      tx -> sz
+      xa -> sx
 ```
-So we will get the encrypted text as **instrumentsz**.
+So we will get the encrypted text as **instrumentsx**.
 
 ## Implementations
 
