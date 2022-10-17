@@ -53,7 +53,7 @@ The rules above are used for Encryption. Can be applied vice-versa for Decryptio
  ```
     [m o n a r]
     [c h y b d]
-    [e f g k i]
+    [e f g i k]
     [l p q s t]
     [u v w x z]
 ```
@@ -92,7 +92,7 @@ So we will get the encrypted text as **gatlmzclrqtx**.
  ```
     [m o n a r]
     [c h y b d]
-    [e f g k i]
+    [e f g i k]
     [l p q s t]
     [u v w x z]
 ```
