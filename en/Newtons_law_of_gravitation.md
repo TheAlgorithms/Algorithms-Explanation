@@ -45,7 +45,7 @@ Then the Graviational force between the 2 distinct objects is = `0.0003337 N`  o
 # Sources
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation)
-- [Youtube](https://www.youtube.com/watch?v=ruBfXIVSYZ8)
+- [YouTube video](https://www.youtube.com/watch?v=ruBfXIVSYZ8)
 
 # Implementation
 - [newtos_law_of_gravitations](https://github.com/TheAlgorithms/Algorithms-Explanation/blob/master/en/Basic%20Math/Arithmetic%20Progressions.md)
