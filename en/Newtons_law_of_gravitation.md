@@ -42,7 +42,8 @@ other body with one being at a complete stop .
 Let M_1 be a Iron ball of mass `5 * 10^6 Kg` and M_2 be a Copper ball of mass `10^4 Kg` and the seperation between the 2 objects **r**=100m
 Then the Graviational force between the 2 distinct objects is = `0.0003337 N`  or  `3.337 * 10^-4 N` 
 
-# Source
+# Sources
+
 - [Wikipedia](https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation)
 - [Youtube](https://www.youtube.com/watch?v=ruBfXIVSYZ8)
 
