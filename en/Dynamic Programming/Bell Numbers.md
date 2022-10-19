@@ -1,30 +1,30 @@
-<h2> <u><b>BELL NUMBERS</u>: Number of ways to Partition a Set</h2></b>
-<br>
+## **BELL NUMBERS: Number of ways to Partition a Set**
+
 Given a set of n elements, find number of ways of partitioning it. 
-<br>
-<b> Examples: </b>
+
+**Examples:**
  
-<b>Input:</b>  n = 2
-<br>
-<b>Output:</b> Number of ways = 2
-<br>
-<b>Explanation:</b> Let the set be {1, 2}
+**Input:**  n = 2
+
+**Output:** Number of ways = 2
+
+**Explanation:** Let the set be {1, 2}
             { {1}, {2} } 
             { {1, 2} }
 
-<b>Input: </b> n = 3
-<br>
-<b>Output:</b> Number of ways = 5
-<br>
-<b>Explanation:</b> Let the set be {1, 2, 3}
+**Input:** n = 3
+
+**Output:** Number of ways = 5
+
+**Explanation:** Let the set be {1, 2, 3}
              { {1}, {2}, {3} }
              { {1}, {2, 3} }
              { {2}, {1, 3} }
              { {3}, {1, 2} }
              { {1, 2, 3} }. 
-             <br>
-             <br>
-<b>Recommended practice</b>
+             
+             
+**Recommended practice**
 
 Solution to above questions is Bell Number. 
 What is a Bell Number? 
@@ -42,74 +42,72 @@ Below is Dynamic Programming based implementation of the above recursive code us
 
 
 
-// Java program to find number of ways of partitioning it.
-<br>
+
+
  
 import java.io.*;
-<br>
-// "static void main" must be defined in a public class.
-<br>
-public class GFG {\
-<br>
+
+
+public class GFG {
+
     public static void main(String[] args)
-    <br>
+    
     {
-        <br>
+        
         int n = 5;
-        <br>
+        
         int[][] s = new int[n + 1][n + 1];
-        <br>
+        
         for (int i = 0; i < n + 1; i++) {
-            <br>
+            
             for (int j = 0; j < n + 1; j++) {
-                <br>
+                
                 if (j > i)
-                <br>
+                
                     s[i][j] = 0;
-                    <br>
+                    
                 else if (i == j)
-                <br>
+                
                     s[i][j] = 1;
-                    <br>
+                    
                 else if (i == 0 || j == 0)
-                <br>
+                
                     s[i][j] = 0;
-                    <br>
+                    
                 else {
-                    <br>
+                    
                     s[i][j]
-                    <br>
+                    
                         = j * s[i - 1][j] + s[i - 1][j - 1];
-                        <br>
+                        
                 }
-                <br>
+                
             }
-            <br>
+            
         }
-        <br>
+        
         int ans = 0;
-        <br>
+        
         for (int i = 0; i < n + 1; i++) {
-            <br>
+            
             ans += s[n][i];
-            <br>
+            
         }
-        <br>
+        
         System.out.println(ans);
-        <br>
+        
     }
-    <br>
+   
 }
-<br>
+
  
-<b>Output</b><br>
-52<br>
+**Output**
+52
 Time complexity: O(N2) 
-<br>
+
 Auxiliary Space: O(N2) 
 
-
-<b>Reference:</b> <br>
+**Reference:**
 https://en.wikipedia.org/wiki/Bell_number 
-<br>
+
 https://en.wikipedia.org/wiki/Bell_triangle
