@@ -1,31 +1,23 @@
-## **BELL NUMBERS: Number of ways to Partition a Set**
-
+## BELL NUMBERS: Number of ways to Partition a Set
 Given a set of n elements, find number of ways of partitioning it. 
-
-**Examples:**
+### Examples:
  
-**Input:**  n = 2
+Input:  n = 2
 
-**Output:** Number of ways = 2
+Output: Number of ways = 2
+Explanation: Let the set be 
+```
+{1, 2} { {1}, {2} } { {1, 2} } 
+```
 
-**Explanation:** Let the set be {1, 2}
-            { {1}, {2} } 
-            { {1, 2} }
+Input: n = 3
 
-**Input:** n = 3
-
-**Output:** Number of ways = 5
-
-**Explanation:** Let the set be {1, 2, 3}
-             { {1}, {2}, {3} }
-             { {1}, {2, 3} }
-             { {2}, {1, 3} }
-             { {3}, {1, 2} }
-             { {1, 2, 3} }. 
-             
-             
-**Recommended practice**
-
+Output: Number of ways = 5
+Explanation: Let the set be 
+```
+{1, 2, 3} { {1}, {2}, {3} } { {1}, {2, 3} } { {2}, {1, 3} } { {3}, {1, 2} } { {1, 2, 3} } 
+```
+### Recommended practice
 Solution to above questions is Bell Number. 
 What is a Bell Number? 
 Let S(n, k) be total number of partitions of n elements into k sets. The value of n’th Bell Number is sum of S(n, k) for k = 1 to n. 
@@ -43,7 +35,7 @@ Below is Dynamic Programming based implementation of the above recursive code us
 
 
 
-
+```
  
 import java.io.*;
 
@@ -99,15 +91,15 @@ public class GFG {
     }
    
 }
-
+```
+Output
+ 52
  
-**Output**
-52
-Time complexity: O(N2) 
+Time complexity: O(N^2) 
 
-Auxiliary Space: O(N2) 
+Auxiliary Space: O(N^2) 
 
-**Reference:**
+### Reference:
 https://en.wikipedia.org/wiki/Bell_number 
 
 https://en.wikipedia.org/wiki/Bell_triangle
