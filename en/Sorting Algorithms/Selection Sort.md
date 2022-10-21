@@ -55,7 +55,7 @@ The array is now sorted.
 - [C++ Iterative](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/selection_sort_iterative.cpp)
 - [C++ Recursive](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/selection_sort_recursive.cpp)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/selection_sort.py)
-- [Go](https://github.com/TheAlgorithms/Go/blob/master/sorts/selection_sort.go)
+- [Go](https://github.com/TheAlgorithms/Go/blob/master/sort/selectionsort.go)
 - [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/Sorting/selection_sort.rb)
 - [C iterative](https://github.com/TheAlgorithms/C/blob/master/sorting/selection_sort.c)
 - [C recursive](https://github.com/TheAlgorithms/C/blob/master/sorting/selection_sort_recursive.c)
