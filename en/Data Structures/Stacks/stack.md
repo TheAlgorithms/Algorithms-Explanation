@@ -26,4 +26,4 @@ A pointer called TOP is used to keep track of the top element in the stack. When
 
 # Video Playlist
 
--[Stack Data Structure](https://youtu.be/F1F2imiOJfk)
+- [Stack Data Structure](https://youtu.be/F1F2imiOJfk)
