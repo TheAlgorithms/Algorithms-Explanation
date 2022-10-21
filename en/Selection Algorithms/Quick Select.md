@@ -46,7 +46,7 @@ Let's say k = 4. ie. We have to find 4th smallest element.
 - [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/searches/QuickSelect.java)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/searches/quick_select.py)
 - [Go](https://github.com/TheAlgorithms/Go/blob/master/search/selectk.go)
-- [Javascript](https://github.com/TheAlgorithms/JavaScript/blob/master/Data-Structures/Array/QuickSelect.js)
+- [JavaScript](https://github.com/TheAlgorithms/JavaScript/blob/master/Data-Structures/Array/QuickSelect.js)
 
 ### Helpful Video Links
 
