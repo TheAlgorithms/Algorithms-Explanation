@@ -99,7 +99,7 @@ Time complexity: O(N^2)
 
 Auxiliary Space: O(N^2) 
 
-### Reference:
-https://en.wikipedia.org/wiki/Bell_number 
+### References
 
-https://en.wikipedia.org/wiki/Bell_triangle
+- <https://en.wikipedia.org/wiki/Bell_number>
+- <https://en.wikipedia.org/wiki/Bell_triangle>
