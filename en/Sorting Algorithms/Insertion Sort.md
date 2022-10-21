@@ -57,6 +57,7 @@ and elements from 11 to 13 will move one position ahead of their current positio
 - [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/InsertionSort.scala)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/insertion_sort.py)
 - [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/insertion_sort.rb)
+- [Go](https://github.com/TheAlgorithms/Go/blob/master/sort/insertionsort.go)
 
 #### Video Explanation
 

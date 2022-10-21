@@ -73,6 +73,7 @@ it.
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/quick_sort.py)
 - [C](https://github.com/TheAlgorithms/C/blob/master/sorting/quick_sort.c)
 - [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/quicksort.rb)
+- [Go](https://github.com/TheAlgorithms/Go/blob/master/sort/quicksort.go)
 
 #### Video Explanation
 

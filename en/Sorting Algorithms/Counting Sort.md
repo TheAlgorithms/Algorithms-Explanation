@@ -49,6 +49,7 @@ countingSort(array, size)
 - [Matlab](https://github.com/TheAlgorithms/MATLAB-Octave/blob/master/algorithms/sorting/counting_sort.m)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/counting_sort.py)
 - [Rust](https://github.com/TheAlgorithms/Rust/blob/master/src/sorting/counting_sort.rs)
+- [Go](https://github.com/TheAlgorithms/Go/blob/master/sort/countingsort.go)
 
 #### Video Explanation
 
