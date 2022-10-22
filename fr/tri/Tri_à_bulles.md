@@ -8,12 +8,14 @@ Le principe du tri à bulles est de comparer répétitivement les éléments con
 ### Complexités
 
 #### Complexités temporelle
+
 - Dans le pire des cas, lorsque le plus petit élément est à la fin du tableau, la complexité est de `O(n^2)`
 - Dans le meilleur cas, lorsque le tableau est déjà trié, la complexité est de `O(n)` (on n'effectue qu’une seule itération de l'algorithme)
 - En moyenne, la complexité est de `O(n^2)`
 
 
 ## Étapes
+
 - Sélectionner le premier élément du tableau
 - Le comparer avec l'élément suivant
   - Si la valeur du premier élément est plus grande que celle du deuxième, permuter ces derniers.
@@ -22,7 +24,8 @@ Le principe du tri à bulles est de comparer répétitivement les éléments con
 - Répétez les étapes précédentes n fois.
 
 ## Exemple
-```
+
+```txt
 tab[] = {10, 80, 40, 30}
 Indexes: 0   1   2   3
 
@@ -71,6 +74,7 @@ Puisqu'il n'y a pas de permutations dans les étapes précédentes, cela signifi
 ```
 
 ## Implémentations
+
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/bubble_sort.py)
 - [C](https://github.com/TheAlgorithms/C/blob/master/sorting/bubble_sort.c)
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/bubble_sort.cpp)
@@ -79,4 +83,4 @@ Puisqu'il n'y a pas de permutations dans les étapes précédentes, cela signifi
 - [Go](https://github.com/TheAlgorithms/Go/blob/master/sorts/bubblesort.go)
 - [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/bubble_sort.rb)
 - [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/BubbleSort.scala)
-- [Javascript](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/BubbleSort.js)
+- [JavaScript](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/BubbleSort.js)

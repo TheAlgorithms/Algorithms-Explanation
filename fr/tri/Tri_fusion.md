@@ -8,9 +8,11 @@ Le tri fusion, aussi appelé "tri dichotomique" est un Algorithme de tri Stable,
 ### Complexités
 
 #### Complexités spatiale
+
 La complexité spatiale de l'algorithme est de `O(n)`
 
 #### Complexités temporelle
+
 - meilleur cas : `O(n log n)`
 - cas moyens : `O(n log n)`
 - pire cas : `O(n log n)`
@@ -22,7 +24,7 @@ La complexité spatiale de l'algorithme est de `O(n)`
 
 ## Exemple
 
-```
+```txt
 tab = [1, 9, 2, 5, 7, 3, 6, 4]
 
 Divisez le tableau en deux moitiés [1, 9, 2, 5] et [7, 3, 6, 4]
@@ -45,6 +47,7 @@ Au niveau suivant de la pile, [1, 2, 5, 9] et [3, 4, 6, 7] seront fusionnés et 
 ```
 
 ## Implémentation
+
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/merge_sort.py)
 - [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/MergeSort.java)
 - [C](https://github.com/TheAlgorithms/C/blob/master/sorting/merge_sort.c)
@@ -52,4 +55,4 @@ Au niveau suivant de la pile, [1, 2, 5, 9] et [3, 4, 6, 7] seront fusionnés et 
 - [C-Sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/MergeSorter.cs)
 - [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/merge_sort.rb)
 - [Go](https://github.com/TheAlgorithms/Go/blob/master/sort/mergesort.go)
-- [Javascript](https://github.com/TheAlgorithms/JavaScript/blob/master/Sorts/MergeSort.js)
+- [JavaScript](https://github.com/TheAlgorithms/JavaScript/blob/master/Sorts/MergeSort.js)

@@ -8,9 +8,11 @@ Le tri par sélection est un algorithme de tri par comparaison, qui malgres sa s
 ### Complexités
 
 #### Complexités spatiale
+
 - `O(1)`
 
 #### Complexité temporelle
+
 - Pire, moyens et meilleur cas :  `O(n^2)`
 
 ## Étapes
@@ -21,7 +23,9 @@ Le tri par sélection est un algorithme de tri par comparaison, qui malgres sa s
 - Continuez à faire cela pour chaque élément du tableau
 
 ## Exemple
-```
+
+```txt
+
 tab[] = {80, 10, 40, 30}
 Indexes : 0   1   2   3
 
@@ -44,6 +48,7 @@ Le Tableau est maintenant trié.
 ```
 
 ## Implémentation
+
 - [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/SelectionSort.java)
 - [C++ Iterative](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/selection_sort_iterative.cpp)
 - [C++ Recursive](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/selection_sort_recursive.cpp)
@@ -53,4 +58,4 @@ Le Tableau est maintenant trié.
 - [C iterative](https://github.com/TheAlgorithms/C/blob/master/sorting/selection_sort.c)
 - [C recursive](https://github.com/TheAlgorithms/C/blob/master/sorting/selection_sort_recursive.c)
 - [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/SelectionSort.scala)
-- [Javascript](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/selectionSort.js)
+- [TypeScript](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/selectionSort.js)
