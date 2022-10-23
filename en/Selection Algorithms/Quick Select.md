@@ -41,6 +41,13 @@ Let's say k = 4. ie. We have to find 4th smallest element.
 4. As position of '7' is 4th (ie. k). Thus we will simply return 7
 ```
 
+### Code Implementation Links
+
+- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/searches/QuickSelect.java)
+- [Python](https://github.com/TheAlgorithms/Python/blob/master/searches/quick_select.py)
+- [Go](https://github.com/TheAlgorithms/Go/blob/master/search/selectk.go)
+- [JavaScript](https://github.com/TheAlgorithms/JavaScript/blob/master/Data-Structures/Array/QuickSelect.js)
+
 ### Helpful Video Links
 
 [Video explaining how to find the Kth smallest/largest element in varying complexities](https://youtu.be/hGK_5n81drs)
