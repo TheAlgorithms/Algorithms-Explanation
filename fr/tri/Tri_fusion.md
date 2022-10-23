@@ -18,6 +18,7 @@ La complexité spatiale de l'algorithme est de `O(n)`
 - pire cas : `O(n log n)`
 
 ## Étapes
+
 - Trouvez le milieu du tableau et divisez le en deux moitiés en fonction du milieu.
 - Appeler récursivement la fonction de tri fusion pour les deux moitiés
 - Fusionnez les deux moitiés triées pour obtenir le tableau trié.

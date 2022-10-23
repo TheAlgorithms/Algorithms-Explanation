@@ -3,6 +3,7 @@
 ## Description
 
 ### Principe
+
 Le principe du tri à bulles est de comparer répétitivement les éléments consécutifs d'un tableau deux à deux, et de les permuter lorsque ces derniers sont mal trié.
 
 ### Complexités

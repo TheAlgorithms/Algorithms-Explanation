@@ -3,6 +3,7 @@
 ## Description
 
 ### Principe
+
 Le tri par sélection est un algorithme de tri par comparaison, qui malgres sa simplicité est en generale considerer comme ineficasse de fait de sa complexité.
 
 ### Complexités
@@ -16,6 +17,7 @@ Le tri par sélection est un algorithme de tri par comparaison, qui malgres sa s
 - Pire, moyens et meilleur cas :  `O(n^2)`
 
 ## Étapes
+
 - Sélectionner le plus petit élément du tableau
 - Le permuter avec le premier élément du tableau
 - Puis sélectionner le plus petit élément du tableau dans la liste non triée restante
