@@ -24,7 +24,7 @@ Worst case: `O(1)`
 
 #### Example
 
-```
+```txt
 arr =    [2, 5,  3,  9,  12, 34, 25]
 Indexes:  0   1   2   3   4   5   6
 a = max(arr) 
