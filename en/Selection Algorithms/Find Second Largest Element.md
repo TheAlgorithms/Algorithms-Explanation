@@ -14,9 +14,9 @@ Given an unsorted array, write a function to find the second largest element in 
 
 #### Time Complexity
 
--  Best case: `O(n)`
--  Average case: `O(n)`
--  Worst case: `O(n)`
+- Best case: `O(n)`
+- Average case: `O(n)`
+- Worst case: `O(n)`
 
 #### Space Complexity
 
