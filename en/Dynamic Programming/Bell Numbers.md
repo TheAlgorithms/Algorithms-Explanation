@@ -1,6 +1,10 @@
-## BELL NUMBERS: Number of ways to Partition a Set
-Given a set of n elements, find number of ways of partitioning it. 
-### Examples:
+# BELL NUMBERS
+
+## Number of ways to Partition a Set
+
+Given a set of n elements, find number of ways of partitioning it.
+## Examples
+
  
 Input:  n = 2
 
