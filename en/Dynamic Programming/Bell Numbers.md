@@ -101,5 +101,5 @@ Auxiliary Space: O(N^2)
 
 ### References
 
-- <https://en.wikipedia.org/wiki/Bell_number>
-- <https://en.wikipedia.org/wiki/Bell_triangle>
+- [Bell Number - Wikipedia](https://en.wikipedia.org/wiki/Bell_number)
+- [Bell Triangle - Wikipedia](https://en.wikipedia.org/wiki/Bell_triangle)
