@@ -20,8 +20,6 @@ Output: Number of ways = 5
 Explanation: Let the set be 
 ```
 {1, 2, 3} { {1}, {2}, {3} } { {1}, {2, 3} } { {2}, {1, 3} } { {3}, {1, 2} } { {1, 2, 3} } 
-```
-### Recommended practice
 Solution to above questions is Bell Number. 
 What is a Bell Number? 
 Let S(n, k) be total number of partitions of n elements into k sets. The value of n’th Bell Number is sum of S(n, k) for k = 1 to n. 
