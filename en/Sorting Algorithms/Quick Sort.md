@@ -71,6 +71,7 @@ it.
 - [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/QuickSort.java)
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/quick_sort.cpp)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/quick_sort.py)
+- [C](https://github.com/TheAlgorithms/C/blob/master/sorting/quick_sort.c)
 - [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/quicksort.rb)
 
 #### Video Explanation

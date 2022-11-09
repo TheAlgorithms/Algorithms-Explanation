@@ -62,7 +62,7 @@ Initial Gap: 4
 - [C-Sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/ShellSorter.cs)
 - [Go](https://github.com/TheAlgorithms/Go/blob/master/sort/shellsort.go)
 - [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/Sorting/shell_sort.rb)
-- [C](https://github.com/TheAlgorithms/C/blob/master/sorting/shellSort.c)
+- [C](https://github.com/TheAlgorithms/C/blob/master/sorting/shell_sort.c)
 - [Javascript](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/shellSort.js)
 
 #### Video Explanation
