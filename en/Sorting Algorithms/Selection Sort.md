@@ -60,7 +60,7 @@ The array is now sorted.
 - [C iterative](https://github.com/TheAlgorithms/C/blob/master/sorting/selection_sort.c)
 - [C recursive](https://github.com/TheAlgorithms/C/blob/master/sorting/selection_sort_recursive.c)
 - [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/SelectionSort.scala)
-- [Javascript](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/selectionSort.js)
+- [Javascript](https://github.com/TheAlgorithms/JavaScript/blob/master/Sorts/SelectionSort.js)
 
 #### Video Explanation
 

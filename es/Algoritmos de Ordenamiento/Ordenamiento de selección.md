@@ -58,7 +58,7 @@ La matriz ahora está ordenada.
 - [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/Sorting/selection_sort.rb)
 - [C](https://github.com/TheAlgorithms/C/blob/master/sorting/SelectionSort.c)
 - [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/SelectionSort.scala)
-- [Javascript](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/selectionSort.js)
+- [Javascript](https://github.com/TheAlgorithms/JavaScript/blob/master/Sorts/SelectionSort.js)
 
 #### Explicación de vídeo
 
