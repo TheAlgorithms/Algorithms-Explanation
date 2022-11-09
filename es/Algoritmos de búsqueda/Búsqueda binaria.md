@@ -48,7 +48,7 @@ Búsqueda binaria debe devolver -1 dado que 9 no está presente en la matriz
 - [JavaScript](https://github.com/TheAlgorithms/Javascript/blob/master/Search/BinarySearch.js)
 - [Haskell](https://github.com/TheAlgorithms/Haskell/blob/master/src/Misc/BinarySearch.hs)
 - [F-Sharp](https://github.com/TheAlgorithms/F-Sharp/blob/main/Algorithms/Search/BinarySearch.fs)
-- [Go](https://github.com/TheAlgorithms/Go/blob/master/searches/binarysearch.go)
+- [Go](https://github.com/TheAlgorithms/Go/blob/master/search/binary.go)
 - [Rust](https://github.com/TheAlgorithms/Rust/blob/master/src/searching/binary_search.rs)
 - [Dart](https://github.com/TheAlgorithms/Dart/blob/master/search/binary_Search.dart)
 - [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/Searches/binary_search.rb)

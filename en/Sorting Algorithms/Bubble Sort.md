@@ -85,7 +85,7 @@ Since there are no swaps in above steps, it means the array is sorted and we can
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/bubble_sort.cpp)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/bubble_sort.py)
 - [C-Sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/BubbleSorter.cs)
-- [Go](https://github.com/TheAlgorithms/Go/blob/master/sorts/bubblesort.go)
+- [Go](https://github.com/TheAlgorithms/Go/blob/master/sort/bubblesort.go)
 - [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/bubble_sort.rb)
 - [C](https://github.com/TheAlgorithms/C/blob/master/sorting/bubble_sort.c)
 - [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/BubbleSort.scala)
