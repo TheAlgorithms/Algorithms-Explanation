@@ -34,27 +34,27 @@ Subsequent sub-headings may be:
 
 ### Capitalization
 
-* Use *Title Case* for headings.
-* Start new sentences with a capital letter.
+- Use *Title Case* for headings.
+- Start new sentences with a capital letter.
 
 ### Typographical Conventions
 
-* Leave a space after punctuation such as `.`, `!`, `?`, `,`, `;` or `:`.
-* Add a space before and after `-`. **Do not add a space before punctuation.**
-* Add a space before an opening parenthesis `(`. Do not add a space before the closing parenthesis `)`.
-* Add spaces around (but not inside) quotes. Use single quotes for quotes within quotes.
+- Leave a space after punctuation such as `.`, `!`, `?`, `,`, `;` or `:`.
+- Add a space before and after `-`. **Do not add a space before punctuation.**
+- Add a space before an opening parenthesis `(`. Do not add a space before the closing parenthesis `)`.
+- Add spaces around (but not inside) quotes. Use single quotes for quotes within quotes.
 
 ### Markdown Conventions
 
 [GitHub-flavored Markdown is used](https://github.github.com/gfm/). Explanations should render well when viewed from GitHub.
 
-* **Do not add redundant formatting.** Formatting should always be meaningful.
+- **Do not add redundant formatting.** Formatting should always be meaningful.
   If you apply a certain formatting to all elements of a certain kind (e.g. adding emphasis around all headings), you're doing something wrong.
-* Use ATX-style "hashtag" headings: `#`, `##`, `###`, `####`, `#####`, `######` rather than Setext-style "underline" headings.
+- Use ATX-style "hashtag" headings: `#`, `##`, `###`, `####`, `#####`, `######` rather than Setext-style "underline" headings.
   Leave blank lines around headings.
-* Indent lists by two blanks. Prefer `*` over `-` for bulleted lists. Enumerate numbered lists correctly, starting at `1`.
-* Use fenced code blocks (and specify the correct language) rather than using indented code blocks.
+- Indent lists by two blanks. Prefer `-` over `*` for bulleted lists. Enumerate numbered lists correctly, starting at `1`.
+- Use fenced code blocks (and specify the correct language) rather than using indented code blocks.
   Format code inside fenced code blocks properly (prefer pseudocode over code though). Leave blank lines around fenced code blocks.
-* Use named links `[name](link)` rather than relying on automatic link detection or using `<>`-links.
+- Use named links `[name](link)` rather than relying on automatic link detection or using `<>`-links.
   There are rarely good reasons to not give a link a descriptive name.
-* Use HTML only if necessary (rarely - if ever - the case). Do not use HTML for unnecessary formatting.
+- Use HTML only if necessary (rarely - if ever - the case). Do not use HTML for unnecessary formatting.
