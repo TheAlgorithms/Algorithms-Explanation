@@ -51,7 +51,7 @@ Subsequent sub-headings may be:
 - **Do not add redundant formatting.** Formatting should always be meaningful.
   If you apply a certain formatting to all elements of a certain kind (e.g. adding emphasis around all headings), you're doing something wrong.
 - Use ATX-style "hashtag" headings: `#`, `##`, `###`, `####`, `#####`, `######` rather than Setext-style "underline" headings.
-  Leave blank lines around headings.
+  Leave blank lines around headings. The first heading should always be `# Title`. Subheadings must be exactly one level deeper than their parents.
 - Indent lists by two blanks. Prefer `-` over `*` for bulleted lists. Enumerate numbered lists correctly, starting at `1`.
 - Use fenced code blocks (and specify the correct language) rather than using indented code blocks.
   Format code inside fenced code blocks properly (prefer pseudocode over code though). Leave blank lines around fenced code blocks.
