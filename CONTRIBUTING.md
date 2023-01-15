@@ -23,14 +23,15 @@ as long as it doesn't create ambiguities
 You should structure your explanations using headings.
 The top-level heading should be the name of the algorithm or data structure to be explained
 
-Subsequent sub-headings may be:
+Subsequent sub-headings *may* be:
 
 1. Problem solved by the algorithm
 2. Design/approach of the algorithm
-3. Detailed (yet not too technical) description of the algorithm
-4. Analysis (best/worst/average cases, time & space complexity)
-5. Walkthrough of how the algorithm processes example inputs
-6. Further resources such as reference implementations, videos or other explanations
+3. Detailed (yet not too technical) description of the algorithm, usually including (pseudo)-code
+4. Analysis (proof of correctness, best/worst/average cases, time & space complexity)
+5. Walkthrough(s) of how the algorithm processes example input(s)
+6. Application(s) of the algorithm
+7. Further resources such as reference implementations, videos or other explanations
 
 ### Capitalization
 
