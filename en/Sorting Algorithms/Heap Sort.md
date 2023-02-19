@@ -64,7 +64,7 @@ in top down manner.
 - [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/heap_sort.rb)
 - [C-sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/HeapSorter.cs)
 - [C](https://github.com/TheAlgorithms/C/blob/master/sorting/heap_sort.c)
-- [Javascript](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/HeapSort.js)
+- [Rust](https://github.com/TheAlgorithms/Rust/blob/master/src/sorting/heap_sort.rs)
 
 #### Video Explanation
 
