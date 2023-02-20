@@ -90,6 +90,7 @@ Since there are no swaps in above steps, it means the array is sorted and we can
 - [C](https://github.com/TheAlgorithms/C/blob/master/sorting/bubble_sort.c)
 - [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/BubbleSort.scala)
 - [Javascript](https://github.com/TheAlgorithms/JavaScript/blob/master/Sorts/BubbleSort.js)
+- [Rust](https://github.com/TheAlgorithms/Rust/blob/master/src/sorting/bubble_sort.rs)
 
 #### Video Explanation
 

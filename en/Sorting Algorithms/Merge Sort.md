@@ -67,6 +67,7 @@ At the next stack level [1, 2, 5, 9] and [3, 4, 6, 7] will be merged and we will
 - [C-Sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/MergeSorter.cs)
 - [C](https://github.com/TheAlgorithms/C/blob/master/sorting/merge_sort.c)
 - [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/merge_sort.rb)
+- [Rust](https://github.com/TheAlgorithms/Rust/blob/master/src/sorting/merge_sort.rs)
 
 #### Video Explanation
 

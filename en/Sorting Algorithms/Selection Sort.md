@@ -61,6 +61,7 @@ The array is now sorted.
 - [C recursive](https://github.com/TheAlgorithms/C/blob/master/sorting/selection_sort_recursive.c)
 - [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/SelectionSort.scala)
 - [Javascript](https://github.com/TheAlgorithms/JavaScript/blob/master/Sorts/SelectionSort.js)
+- [Rust](https://github.com/TheAlgorithms/Rust/blob/master/src/sorting/selection_sort.rs)
 
 #### Video Explanation
 
