@@ -57,15 +57,25 @@ in top down manner.
 
 #### Code Implementation Links
 
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/HeapSort.java)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/heap_sort.cpp)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/heap_sort.py)
-- [Go](https://github.com/TheAlgorithms/Go/blob/master/sort/heapsort.go)
-- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/heap_sort.rb)
-- [C-sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/HeapSorter.cs)
+- [Assembly](https://github.com/TheAlgorithms/AArch64_Assembly/blob/main/sorters/heap_sort.s)
 - [C](https://github.com/TheAlgorithms/C/blob/master/sorting/heap_sort.c)
+- [C#](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/HeapSorter.cs)
+- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/heap_sort.cpp)
+- [Dart](https://github.com/TheAlgorithms/Dart/blob/master/sort/heap_Sort.dart)
+- [F#](https://github.com/TheAlgorithms/F-Sharp/blob/main/Algorithms/Sort/Heap_Sort.fs)
+- [Go](https://github.com/TheAlgorithms/Go/blob/master/sort/heapsort.go)
+- [Haskell](https://github.com/TheAlgorithms/Haskell/blob/master/src/Sorts/InsertionSort.hs)
+- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/HeapSort.java)
 - [Javascript](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/HeapSort.js)
+- [Julia](https://github.com/TheAlgorithms/Julia/blob/main/src/sorts/heap_sort.jl)
+- [Kotlin](https://github.com/TheAlgorithms/Kotlin/blob/master/src/main/kotlin/sort/HeapSort.kt)
+- [Lua](https://github.com/TheAlgorithms/Lua/blob/main/src/sorting/heapsort.lua)
+- [Matlab](https://github.com/TheAlgorithms/MATLAB-Octave/blob/master/algorithms/sorting/heap_sort.m)
+- [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/heap_sort.py)
+- [R](https://github.com/TheAlgorithms/R/blob/master/sorting_algorithms/heap_sort.r)
+- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/heap_sort.rb)
 - [Rust](https://github.com/TheAlgorithms/Rust/blob/master/src/sorting/heap_sort.rs)
+- [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/HeapSort.scala)
 
 #### Video Explanation
 
