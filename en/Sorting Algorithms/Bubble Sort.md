@@ -81,16 +81,31 @@ Since there are no swaps in above steps, it means the array is sorted and we can
 
 #### Code Implementation Links
 
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/BubbleSort.java)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/bubble_sort.cpp)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/bubble_sort.py)
-- [C-Sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/BubbleSorter.cs)
-- [Go](https://github.com/TheAlgorithms/Go/blob/master/sort/bubblesort.go)
-- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/bubble_sort.rb)
+- [Assembly](https://github.com/TheAlgorithms/AArch64_Assembly/blob/main/sorters/bubble_sort.s)
 - [C](https://github.com/TheAlgorithms/C/blob/master/sorting/bubble_sort.c)
-- [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/BubbleSort.scala)
+- [C#](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/BubbleSorter.cs)
+- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/bubble_sort.cpp)
+- [Dart](https://github.com/TheAlgorithms/Dart/blob/master/sort/bubble_Sort.dart)
+- [Elixir](https://github.com/TheAlgorithms/Elixir/blob/master/lib/sorting/bubble_sort.ex)
+- [Elm](https://github.com/TheAlgorithms/Elm/blob/master/src/Sorting/BubbleSort.elm)
+- [F#](https://github.com/TheAlgorithms/F-Sharp/blob/main/Algorithms/Sort/Bubble_Sort.fs)
+- [Go](https://github.com/TheAlgorithms/Go/blob/master/sort/bubblesort.go)
+- [Haskell](https://github.com/TheAlgorithms/Haskell/blob/master/src/Sorts/BubbleSort.hs)
+- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/BubbleSort.java)
 - [Javascript](https://github.com/TheAlgorithms/JavaScript/blob/master/Sorts/BubbleSort.js)
+- [Julia](https://github.com/TheAlgorithms/Julia/blob/main/src/sorts/bubble_sort.jl)
+- [Kotlin](https://github.com/TheAlgorithms/Kotlin/blob/master/src/main/kotlin/sort/BubbleSort.kt)
+- [Lua](https://github.com/TheAlgorithms/Lua/blob/main/src/sorting/bubblesort.lua)
+- [Matlab](https://github.com/TheAlgorithms/MATLAB-Octave/blob/master/algorithms/sorting/bubble_sort.m)
+- [PHP](https://github.com/TheAlgorithms/PHP/blob/master/Sorting/BubbleSort.php)
+- [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/bubble_sort.py)
+- [R](https://github.com/TheAlgorithms/R/blob/master/sorting_algorithms/bubble_sort.r)
+- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/bubble_sort.rb)
 - [Rust](https://github.com/TheAlgorithms/Rust/blob/master/src/sorting/bubble_sort.rs)
+- [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/BubbleSort.scala)
+- [Solidity](https://github.com/TheAlgorithms/Solidity/blob/main/src/Sorts/BubbleSort.sol)
+- [Swift](https://github.com/TheAlgorithms/Swift/blob/master/sorts/BubbleSort.swift)
+- [TypeScript](https://github.com/TheAlgorithms/TypeScript/blob/master/sorts/bubble_sort.ts)
 
 #### Video Explanation
 

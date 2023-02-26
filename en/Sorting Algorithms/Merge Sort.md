@@ -61,13 +61,31 @@ At the next stack level [1, 2, 5, 9] and [3, 4, 6, 7] will be merged and we will
 
 #### Code Implementation Links
 
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/MergeSort.java)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/merge_sort.cpp)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/merge_sort.py)
-- [C-Sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/MergeSorter.cs)
+- [Assembly](https://github.com/TheAlgorithms/AArch64_Assembly/blob/main/sorters/merge_sort.s)
 - [C](https://github.com/TheAlgorithms/C/blob/master/sorting/merge_sort.c)
+- [C#](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/MergeSorter.cs)
+- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/merge_sort.cpp)
+- [Dart](https://github.com/TheAlgorithms/Dart/blob/master/sort/merge_sort.dart)
+- [Elixir](https://github.com/TheAlgorithms/Elixir/blob/master/lib/sorting/merge_sort.ex)
+- [Elm](https://github.com/TheAlgorithms/Elm/blob/master/src/Sorting/MergeSort.elm)
+- [F#](https://github.com/TheAlgorithms/F-Sharp/blob/main/Algorithms/Sort/Merge_Sort.fs)
+- [Go](https://github.com/TheAlgorithms/Go/blob/master/sort/mergesort.go)
+- [Haskell](https://github.com/TheAlgorithms/Haskell/blob/master/src/Sorts/MergeSort.hs)
+- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/MergeSort.java)
+- [JavaScript](https://github.com/TheAlgorithms/JavaScript/blob/master/Sorts/MergeSort.js)
+- [Julia](https://github.com/TheAlgorithms/Julia/blob/main/src/sorts/merge_sort.jl)
+- [Kotlin](https://github.com/TheAlgorithms/Kotlin/blob/master/src/main/kotlin/sort/MergeSort.kt)
+- [Lua](https://github.com/TheAlgorithms/Lua/blob/main/src/sorting/mergesort.lua)
+- [Matlab](https://github.com/TheAlgorithms/MATLAB-Octave/blob/master/algorithms/sorting/merge_sort.m)
+- [PHP](https://github.com/TheAlgorithms/PHP/blob/master/Sorting/MergeSort.php)
+- [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/merge_sort.py)
+- [R](https://github.com/TheAlgorithms/R/blob/master/sorting_algorithms/merge_sort.r)
 - [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/merge_sort.rb)
 - [Rust](https://github.com/TheAlgorithms/Rust/blob/master/src/sorting/merge_sort.rs)
+- [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/MergeSort.scala)
+- [Solidity](https://github.com/TheAlgorithms/Solidity/blob/main/src/Sorts/MergeSort.sol)
+- [Swift](https://github.com/TheAlgorithms/Swift/blob/master/sorts/MergeSort.swift)
+- [TypeScript](https://github.com/TheAlgorithms/TypeScript/blob/master/sorts/merge_sort.ts)
 
 #### Video Explanation
 

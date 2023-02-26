@@ -68,12 +68,33 @@ it.
 
 #### Code Implementation Links
 
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/QuickSort.java)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/quick_sort.cpp)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/quick_sort.py)
+
+- [Assembly](https://github.com/TheAlgorithms/AArch64_Assembly/blob/main/sorters/quick_sort.s)
 - [C](https://github.com/TheAlgorithms/C/blob/master/sorting/quick_sort.c)
+- [C#](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/QuickSorter.cs)
+- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/quick_sort.cpp)
+- [Dart](https://github.com/TheAlgorithms/Dart/blob/master/sort/quick_Sort.dart)
+- [Elixir](https://github.com/TheAlgorithms/Elixir/blob/master/lib/sorting/quick_sort.ex)
+- [F#](https://github.com/TheAlgorithms/F-Sharp/blob/main/Algorithms/Sort/Quick_Sort.fs)
+- [Go](https://github.com/TheAlgorithms/Go/blob/master/sort/quicksort.go)
+- [Haskell](https://github.com/TheAlgorithms/Haskell/blob/master/src/Sorts/QuickSort.hs)
+- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/QuickSort.java)
+- [JavaScript Iterative](https://github.com/TheAlgorithms/JavaScript/blob/master/Sorts/QuickSort.js)
+- [JavaScript Recursive](https://github.com/TheAlgorithms/JavaScript/blob/master/Sorts/QuickSortRecursive.js)
+- [Julia](https://github.com/TheAlgorithms/Julia/blob/main/src/sorts/quick_sort.jl)
+- [Kotlin](https://github.com/TheAlgorithms/Kotlin/blob/master/src/main/kotlin/sort/QuickSort.kt)
+- [Lua](https://github.com/TheAlgorithms/Lua/blob/main/src/sorting/quicksort.lua)
+- [Matlab](https://github.com/TheAlgorithms/MATLAB-Octave/blob/master/algorithms/sorting/quick_sort.m)
+- [OCaml](https://github.com/TheAlgorithms/OCaml/blob/master/Sorts/quicksort.ml)
+- [PHP](https://github.com/TheAlgorithms/PHP/blob/master/Sorting/QuickSort.php)
+- [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/quick_sort.py)
+- [R](https://github.com/TheAlgorithms/R/blob/master/sorting_algorithms/quick_sort.r)
 - [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/quicksort.rb)
 - [Rust](https://github.com/TheAlgorithms/Rust/blob/master/src/sorting/quick_sort.rs)
+- [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/QuickSort.scala)
+- [Solidity](https://github.com/TheAlgorithms/Solidity/blob/main/src/Sorts/QuickSort.sol)
+- [Swift](https://github.com/TheAlgorithms/Swift/blob/master/sorts/QuickSort.swift)
+- [TypeScript](https://github.com/TheAlgorithms/TypeScript/blob/master/sorts/quick_sort.ts)
 
 #### Video Explanation
 
