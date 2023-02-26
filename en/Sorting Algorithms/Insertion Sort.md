@@ -50,31 +50,14 @@ and elements from 11 to 13 will move one position ahead of their current positio
 
 #### Code Implementation Links
 
-- [Assembly](https://github.com/TheAlgorithms/AArch64_Assembly/blob/main/sorters/insertion_sort.s)
-- [C](https://github.com/TheAlgorithms/C/blob/master/sorting/insertion_sort.c)
-- [C#](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/InsertionSorter.cs)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/insertion_sort.cpp)
-- [Dart](https://github.com/TheAlgorithms/Dart/blob/master/sort/insert_Sort.dart)
-- [Elixir](https://github.com/TheAlgorithms/Elixir/blob/master/lib/sorting/insertion_sort.ex)
-- [Elm](https://github.com/TheAlgorithms/Elm/blob/master/src/Sorting/InsertionSort.elm)
-- [F#](https://github.com/TheAlgorithms/F-Sharp/blob/main/Algorithms/Sort/Insertion_Sort.fs)
-- [Go](https://github.com/TheAlgorithms/Go/blob/master/sort/insertionsort.go)
-- [Haskell](https://github.com/TheAlgorithms/Haskell/blob/master/src/Sorts/InsertionSort.hs)
 - [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/InsertionSort.java)
-- [JavaScript](https://github.com/TheAlgorithms/JavaScript/blob/master/Sorts/InsertionSort.js)
-- [Julia](https://github.com/TheAlgorithms/Julia/blob/main/src/sorts/insertion_sort.jl)
-- [Kotlin](https://github.com/TheAlgorithms/Kotlin/blob/master/src/main/kotlin/sort/InsertionSort.kt)
-- [Lua](https://github.com/TheAlgorithms/Lua/blob/main/src/sorting/insertionsort.lua)
-- [Matlab](https://github.com/TheAlgorithms/MATLAB-Octave/blob/master/algorithms/sorting/insertion_sort.m)
-- [PHP](https://github.com/TheAlgorithms/PHP/blob/master/Sorting/InsertionSort.php)
+- [C](https://github.com/TheAlgorithms/C/blob/master/sorting/insertion_sort.c)
+- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/insertion_sort.cpp)
+- [C#](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/InsertionSorter.cs)
+- [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/InsertionSort.scala)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/insertion_sort.py)
-- [R](https://github.com/TheAlgorithms/R/blob/master/sorting_algorithms/insertion_sort.r)
 - [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/insertion_sort.rb)
 - [Rust](https://github.com/TheAlgorithms/Rust/blob/master/src/sorting/insertion_sort.rs)
-- [Scala Iterative](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/InsertionSort.scala)
-- [Scala Recursive](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/RecursiveInsertionSort.scala)
-- [Swift](https://github.com/TheAlgorithms/Swift/blob/master/sorts/InsertionSort.swift)
-- [TypeScript](https://github.com/TheAlgorithms/TypeScript/blob/master/sorts/insertion_sort.ts)
 
 #### Video Explanation
 
