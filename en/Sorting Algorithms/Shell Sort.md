@@ -70,6 +70,7 @@ Initial Gap: 4
 - [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/Sorting/shell_sort.rb)
 - [Rust](https://github.com/TheAlgorithms/Rust/blob/master/src/sorting/shell_sort.rs)
 
+
 #### Video Explanation
 
 [A video explaining the Shell Sort Algorithm](https://www.youtube.com/watch?v=H8NiFkGu2PY)
