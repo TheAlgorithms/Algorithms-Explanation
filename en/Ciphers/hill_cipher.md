@@ -17,7 +17,7 @@ key:`GYBNQKURP`
 1. We have to write key as an `n × n` matrix as
 
  ```
-    [6 24 1]
+    [6 24   1]
     [13 16 10]
     [20 17 15]
 ```
@@ -31,7 +31,7 @@ key:`GYBNQKURP`
 3. Now, we need to encipher the vector by just multiplying these two matrices
 
 ```
-    [6 24 1]        [0]         [67]        [15]
+    [6 24   1]      [0]         [67]        [15]
     [13 16 10]  *   [2]     =   [222]   ≈   [4]   (mod 26)
     [20 17 15]      [19]        [319]       [7]
 ```
@@ -42,14 +42,14 @@ So we will get the encrypted text as **POH**.
 1. We need to first inverse our key matrix 
  ```
             -1 
-    [6 24 1]        [8 5 10]
+    [6 24   1]      [8 5  10]
     [13 16 10]   ≈  [21 8 21]  (mod 26) 
     [20 17 15]      [21 12 8]
  ```
 2. For the previous Cipher Text **POH**
 
 ```
-    [8 5 10]      [15]      [260]     [0]
+    [8 5  10]     [15]      [260]     [0]
     [21 8 21]  *  [14]  ≈   [574]  ≈  [2]    (mod 26)  ≈ ACT
     [21 12 8]     [7]       [539]     [19]
 ```
