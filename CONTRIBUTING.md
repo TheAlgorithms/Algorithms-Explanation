@@ -18,6 +18,9 @@ as long as it doesn't create ambiguities
 
 ## Writing Explanations
 
+See the [explanation of the Euclidean Algorithm](en/Basic%20Math/Euclidean%20algorithm.md)
+for an example of how a good explanation may look like.
+
 ### Structure
 
 You should structure your explanations using headings.
