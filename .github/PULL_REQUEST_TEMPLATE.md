@@ -1,10 +1,3 @@
-<!--
-  Thank you for contributing to our project!
-  Your PR will be reviewed shortly after submitted.
-
-  Make sure you've read the contributing guidelines and our code of conduct.
--->
-
 ### Description
 
 <!-- Provide a description of the introduced changes in this pull request. -->
@@ -15,7 +8,7 @@ Closes #{ISSUE_ID} <!-- Remove if not applicable -->
 ### Checklist
 
 - [ ] A description of the changes in this PR is mentioned above.
-- [ ] All the new and existing test pass.
+- [ ] All the new and existing checks pass.
 - [ ] No plagiarized, duplicated, or repetitive documentation that has been directly copied from another source.
 - [ ] If it's a new explanation, it contains solid, understandable, and accessible information.
 - [ ] I have read the whole [contributing guidelines](https://github.com/TheAlgorithms/Algorithms-Explanation/blob/master/CONTRIBUTING.md) and agree to the [Code of Conduct](https://github.com/TheAlgorithms/.github/blob/master/CODE_OF_CONDUCT.md).
