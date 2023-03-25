@@ -30,7 +30,7 @@ So the encrypted message is `fpjqzwjpzzcp`.
 
 ## Decryption
 
-Decryption is the inverse of encryption. It is is done by subtracting the shift value from the cipher value. The formula is $M_i = L(C_i - V(K_i))$ where everything is defined as above and $L$ is additionally defined as a function which converts a numerical value back to a letter.
+Decryption is the inverse of encryption. It is is done by subtracting the shift value from the cipher value. The formula is $M_i = L((C_i - V(K_i)) \mod n)$ where everything is defined as above and $L$ is additionally defined as a function which converts a numerical value back to a letter.
 
 | Cipher  | f | p | j | q | z | w | p | j | z | z | c | p |
 |---------|---|---|---|---|---|---|---|---|---|---|---|---|
