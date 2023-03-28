@@ -2,7 +2,7 @@
 
 The Vigenere cipher is a famous toy cipher. It was invented in 1553 by the Italian cryptographer Giovan Battista Bellaso but for centuries was attributed to the 16th-century French cryptographer Blaise de Vigenère, who devised a similar cipher in 1586.
 
-It is easy to encrypt and decrypt but at the same time, it is easy to intercept and crack this cipher. It is a polyalphabetic substitution cipher, meaning that the same letter of the alphabet can be replaced by  different letters depending on the key. The key is a word or a phrase that is repeated to match the length of the message. Then the letters of the key are used to shift the letters of the message.
+It is easy to encrypt and decrypt but at the same time, it is easy to intercept and crack this cipher. It is a polyalphabetic substitution cipher, meaning that the same letter of the alphabet can be replaced by different letters depending on the key. The key is a word or phrase that is repeated to match the length of the message. Then the letters of the key are used to shift the letters of the message.
 
 ## Improvement over Caesar cipher
 
