@@ -34,7 +34,7 @@ Subsequent sub-headings *may* be:
 4. Analysis (proof of correctness, best/worst/average cases, time & space complexity)
 5. Walkthrough(s) of how the algorithm processes example input(s)
 6. Application(s) of the algorithm
-7. Further resources such as reference implementations, videos or other explanations. **If possible, link to The Algorithms' website as well (example: <https://the-algorithms.com/algorithm/quick-sort>)**
+7. Further resources such as reference implementations, videos or other explanations. *If possible, link to The Algorithms' website as well (example: <https://the-algorithms.com/algorithm/quick-sort>).*
 
 ### Capitalization
 
