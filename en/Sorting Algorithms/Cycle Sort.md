@@ -60,19 +60,6 @@ a - current element
 5. New cycle should be started for next element.
 ```
 
-#### Code Implementation Links
-
-- [C](https://github.com/TheAlgorithms/C/blob/master/sorting/cycle_sort.c)
-- [C#](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/CycleSorter.cs)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/cycle_sort.cpp)
-- [F#](https://github.com/TheAlgorithms/F-Sharp/blob/main/Algorithms/Sort/Cycle_Sort.fs)
-- [Go](https://github.com/TheAlgorithms/Go/blob/master/sort/cyclesort.go)
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/CycleSort.java)
-- [Javascript](https://github.com/TheAlgorithms/JavaScript/blob/master/Sorts/CycleSort.js)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/cycle_sort.py)
-- [Rust](https://github.com/TheAlgorithms/Rust/blob/master/src/sorting/cycle_sort.rs)
-- [TypeScript](https://github.com/TheAlgorithms/TypeScript/blob/master/sorts/cycle_sort.ts)
-
 #### Video Explanation
 
 [A video explaining the Cycle Sort Algorithm](https://www.youtube.com/watch?v=gZNOM_yMdSQ)
