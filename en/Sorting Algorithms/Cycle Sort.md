@@ -67,4 +67,3 @@ a - current element
 #### The Algorithms Page
 
 [Cycle Sort](https://the-algorithms.com/algorithm/cycle-sort)
-
