@@ -15,7 +15,7 @@ A magic square puzzle of the `n` order is an organization of `n²` numbers, usua
 As mentioned above, the formula of the magic square sum is n(n² + 1)/2.\
 For a magic square of order 3, we need to substitute n = 3 to know the magic sum so that we can easily form the magic square 3×3.
 
-When `n = 3`, the sum = 3(3*3 + 1) = 3(9 + 1)/2 = (3 × 10)/2 = 15\
+When `n = 3`, the sum = 3(3\*3 + 1)/2 = 3(9 + 1)/2 = (3 × 10)/2 = 15\
 Now, we have to place the numbers in the respective places so that the sum of numbers in each row, column and diagonal is equal to 15.
 
 ## Magic Square Trick for order 3
@@ -35,7 +35,6 @@ The cell above x is taken as y – 1 as given below:
 ![magic-square-1](https://user-images.githubusercontent.com/106215707/192823521-c992c61b-055a-4af8-b697-71fb0ed22566.png)
 ![magic-square-2](https://user-images.githubusercontent.com/106215707/192823583-8a375043-21d7-4a74-b2d8-119a6ca727eb.png)
 
-
 Let us make the complementary magic square of the above square.
 
 `(n² + 1) = 32 + 1 = 9 + 1 = 10`
@@ -43,28 +42,31 @@ Let us make the complementary magic square of the above square.
 Now, subtract each number from (n² + 1), i.e. from 10.
 
 - First row numbers:
-  - 10 – 4 = 6 
-  - 10 – 3 = 7 
+
+  - 10 – 4 = 6
+  - 10 – 3 = 7
   - 10 – 8 = 2
 
 - Second row numbers:
-  - 10 – 9 = 1 , 
-  - 10 – 5 = 5 , 
+
+  - 10 – 9 = 1 ,
+  - 10 – 5 = 5 ,
   - 10 – 1 = 9
 
 - Third row numbers:
-  - 10 – 2 = 8 , 
-  - 10 – 7 = 3 , 
+  - 10 – 2 = 8 ,
+  - 10 – 7 = 3 ,
   - 10 – 6 = 4
-
 
 ![magic-square-3](https://user-images.githubusercontent.com/106215707/192823650-21655cfe-0b8f-4bcb-b7d0-76280770c615.png)
 
+# REFERENCE
 
-
-# REFERENCE 
 ## website:-
+
 - [Byjus](https://byjus.com/maths/magic-square/)
 - [geeksforgeeks](https://www.geeksforgeeks.org/magic-square/)
+
 ## Youtube:-
+
 - [video](https://www.bing.com/videos/search?q=magic+square&&view=detail&mid=26BE595B719B8B532E5126BE595B719B8B532E51&&FORM=VRDGAR&ru=%2Fvideos%2Fsearch%3Fq%3Dmagic%2Bsquare%26FORM%3DHDRSC3)
