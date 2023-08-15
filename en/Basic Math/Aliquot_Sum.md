@@ -35,10 +35,15 @@ The sum which we obtain is the aliquot sum of the number
 
 ## Implementations
 - [C#](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Numeric/AliquotSumCalculator.cs)
+- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/math/aliquot_sum.cpp)
+- [Go](https://github.com/TheAlgorithms/Go/blob/master/math/aliquotsum.go)
 - [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/AliquotSum.java)
 - [JavaScript](https://github.com/TheAlgorithms/JavaScript/blob/master/Maths/AliquotSum.js)
+- [Nim](https://github.com/TheAlgorithms/Nim/blob/main/maths/aliquot_sum.nim)
 - [Python](https://github.com/TheAlgorithms/Python/blob/master/maths/aliquot_sum.py)
 - [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/maths/aliquot_sum.rb)
+- [Rust](https://github.com/TheAlgorithms/Rust/blob/master/src/math/aliquot_sum.rs)
+- [TypeScript](https://github.com/TheAlgorithms/TypeScript/blob/master/maths/aliquot_sum.ts)
 
 ## Sources
 - [Wikipedia](https://en.wikipedia.org/wiki/Aliquot_sum)
