@@ -34,7 +34,7 @@ The reason we take the upper bound as $[\frac{n} 2]$ is that, the largest possib
 The sum which we obtain is the aliquot sum of the number
 
 ## Implementations
-- [TheAlgorithms-Aliquot-Sum](https://the-algorithms.com/algorithm/aliquot-sum)
+- [TheAlgorithms](https://the-algorithms.com/algorithm/aliquot-sum)
 
 ## Sources
 - [Wikipedia](https://en.wikipedia.org/wiki/Aliquot_sum)
