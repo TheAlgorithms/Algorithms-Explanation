@@ -101,6 +101,7 @@ Return the value 70.
 ## Implementation
 
 - [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/maths/find_max.rb)
+- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/FindMax.java)
 
 # Source
 
