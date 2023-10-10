@@ -7,7 +7,7 @@ Given an array of integers containing `n + 1` integers, where each integer is in
 ## Approach
 - We can imagine the array `arr` as a directed graph where each element is a node. `arr[i]` is the index of the node to which the i-th node points.
 - For example, given the `arr = [1, 3, 4, 2, 3]`, we can represent `arr` as the following <br></br>
-![image](https://github.com/hollowcrust/Algorithms-Explanation/assets/72879387/a4afacb6-399b-44b6-96e9-b2fdfd75ae9d)
+![image](images/graph_1.png)
 
 - Since there are duplicates in `arr`, a cycle exists in the directed graph as there is a path from node 3 to itself, `3 -> 2 -> 4 -> 3`.
 - The problem now becomes finding the entrance node to the cycle (3 in this case). 
@@ -17,7 +17,7 @@ Given an array of integers containing `n + 1` integers, where each integer is in
 ### The procedure
 - Using two pointers `hare` and `tortoise`.
 - Initiate `hare = tortoise = arr[0]`.
-- For every next step until `hare == tortoise` again, assign `hare = arr[arr[hare]]` and `tortoise = arr[tortoise]` (`hare` "jumps" 2 steps while `tortoise` "jumps" one step.
+- For every next step until `hare == tortoise` again, assign `hare = arr[arr[hare]]` and `tortoise = arr[tortoise]` (`hare` "jumps" 2 steps while `tortoise` "jumps" one step).
 - At this point, `hare == tortoise`, reset `tortoise = arr[0]` while keeping the value of `hare` in the above procedure.
 - For every next step until `hare == tortoise` again, assign `hare = arr[hare]` and `tortoise = arr[tortoise]` (this time `hare` only "jumps" one step).
 - When `tortoise == hare`, the entrance of the cycle is found, hence `hare` and `tortoise` represent the value of the duplicated element.
@@ -32,7 +32,7 @@ Given an array of integers containing `n + 1` integers, where each integer is in
 `O(1)`, since we only use two extra variables as pointers.
 
 ## Example with step-by-step explanation
-![image](https://github.com/hollowcrust/Algorithms-Explanation/assets/72879387/b8c741f5-4a8a-4f3c-8211-fe8a5379b571)
+![image](images/graph_2.png)
 
 ```
 arr = [3, 4, 8, 5, 9, 1, 2, 6, 7, 4]
