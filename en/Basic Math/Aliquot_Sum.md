@@ -34,11 +34,7 @@ The reason we take the upper bound as $[\frac{n} 2]$ is that, the largest possib
 The sum which we obtain is the aliquot sum of the number
 
 ## Implementations
-- [C#](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Numeric/AliquotSumCalculator.cs)
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/AliquotSum.java)
-- [JavaScript](https://github.com/TheAlgorithms/JavaScript/blob/master/Maths/AliquotSum.js)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/maths/aliquot_sum.py)
-- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/maths/aliquot_sum.rb)
+- [TheAlgorithms](https://the-algorithms.com/algorithm/aliquot-sum)
 
 ## Sources
 - [Wikipedia](https://en.wikipedia.org/wiki/Aliquot_sum)
