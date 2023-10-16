@@ -18,9 +18,6 @@ O(n), where n is the number of elements in the queue.
 4) Simulating real-world scenarios
 5) Handling requests in a web server
 
-## Founder's Name:
-The concept of a queue in computer science is not attributed to a specific individual. It's a fundamental data structure used in various computer science applications.
-
 ## Queue Operations:
 
 1) Initialize a Queue:
