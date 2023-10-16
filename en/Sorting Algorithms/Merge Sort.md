@@ -18,9 +18,19 @@ Average - O(n log n)
 Worst case - O(n log n)
 ```
 
+The time complexity can be obtained by solving the below recurrance relation
+\begin{equation*}
+\begin{aligned}
+T(n) = 2T\left(\frac{n}{2}\right) + An
+\end{aligned}
+\end{equation*}
+
+
 #### Space Complexity
 
-`O(n)`
+```
+O(n)
+```
 
 #### Example 1
 
