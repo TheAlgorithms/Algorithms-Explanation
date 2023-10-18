@@ -1,49 +1,35 @@
 # Queue
 
-## Description:
+## Description
+
 A queue is a linear data structure that follows the First-In-First-Out (FIFO) principle. It is often compared to a real-world queue of people waiting in line. The element that is added first is the one that gets removed first. Queues are commonly used for various applications, such as task scheduling, managing requests, and more.
 
-### Time Complexity:
-Enqueue (Insertion): O(1)
-Dequeue (Removal): O(1)
-Peek (Accessing the front element): O(1)
+## Queue Operations
 
-### Space Complexity:
-O(n), where n is the number of elements in the queue.
+1) Enqueue (Push): This operation is used to add an item to the back or end of the queue. It's equivalent to "pushing" an item onto the queue. When you enqueue an item, it becomes the last item in the queue.
 
-## Applications:
-1) Task scheduling
-2) Print job management
-3) Breadth-first search (BFS) in graph algorithms
-4) Simulating real-world scenarios
-5) Handling requests in a web server
+2) Dequeue (Pop): Dequeue is the operation used to remove and return the front item from the queue. The item that has been in the queue the longest (the front item) is the one removed. After dequeuing an item, the next item in the queue becomes the new front.
 
-## Queue Operations:
+3) Peek (Front): This operation is used to view the front item in the queue without removing it. It provides a way to examine the item at the front of the queue without actually dequeuing it.
 
-1) Initialize a Queue: 
-- Create an empty queue data structure. You can implement a queue using an array, linked list, or other data structures, depending on your specific requirements.
-2) Enqueue (Insertion): 
-- To add an element to the queue, insert it at the rear (end) of the queue.
--Increment the rear pointer to point to the newly added element.
--Ensure the queue remains in the correct order, following the FIFO principle.
-3) Dequeue (Removal): 
-- To remove an element from the queue, take it from the front.
-- Increment the front pointer to point to the next element in the queue.
-- Make sure to handle the case when the queue becomes empty.
-4) Peek (Accessing the Front Element): 
-- To access the element at the front of the queue without removing it, simply refer to the front element.
-- This is useful for checking what's at the front of the queue without altering its contents.
-5) Check if Queue is Empty: 
-- You can determine if the queue is empty by comparing the front and rear pointers. If they are equal, the queue is empty.
-6) Check if Queue is Full (if using a fixed-size array): 
-- In cases where a fixed-size array is used to implement a queue, check if the rear pointer has reached the maximum size of the array to determine if the queue is full.
+4) isEmpty: This operation checks whether the queue is empty. If the queue contains no items, it returns true; otherwise, it returns false.
 
-## Sourse:
+## Sourse
+
 - [Queue Data Structure](https://www.geeksforgeeks.org/queue-data-structure/)
-## Video URL:
+
+## Video URL
+
 - [Queue in Data Structure](https://www.youtube.com/watch?v=zp6pBNbUB2U)
 - [Implementation of Queue using Arrays](https://www.youtube.com/watch?v=YqrFeU90Coo)
 - [Queue Implementation using Linked List in C](https://www.youtube.com/watch?v=RN1wzY_tnYU)
 
-## Others:
-Queues can be implemented using arrays, linked lists, or specialized queue data structures depending on the specific requirements. They are crucial in scenarios where tasks or data need to be processed in a specific order, ensuring fairness and proper management.
+## Implementation
+
+1) Queue Implementation Using Lists (Arrays)
+
+In this approach, you can use a list (or array) to represent a queue. You will maintain two pointers, one pointing to the front of the queue and another pointing to the back. The front pointer keeps track of the element to be dequeued, and the back pointer keeps track of where new elements should be enqueued.
+
+2) Queue Implementation Using a Linked List
+
+In this approach, you can use a linked list to implement a queue. You maintain two pointers, one pointing to the front (head) of the queue and another pointing to the back (tail). Enqueueing involves adding a new node at the tail, and dequeueing involves removing the node at the head.
