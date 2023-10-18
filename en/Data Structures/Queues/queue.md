@@ -14,7 +14,7 @@ A queue is a linear data structure that follows the First-In-First-Out (FIFO) pr
 
 4) isEmpty: This operation checks whether the queue is empty. If the queue contains no items, it returns true; otherwise, it returns false.
 
-## Sourse
+## Source
 
 - [Queue Data Structure](https://www.geeksforgeeks.org/queue-data-structure/)
 
