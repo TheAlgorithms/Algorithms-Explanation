@@ -114,4 +114,4 @@ largest_sum = max(5, 6) = 6
 
 ### Video Explanation Link
 
-- https://www.youtube.com/watch?v=86CQq3pKSUw
+- [Kadane's Algorithm to Maximum Sum Subarray Problem](https://www.youtube.com/watch?v=86CQq3pKSUw)
