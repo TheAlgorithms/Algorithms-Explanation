@@ -38,4 +38,8 @@ Let us say we are sending a secret message to a friend.
 
 ## Implementation
 
+* [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/ciphers/caesar_cipher.cpp)
+* [JavaScript](https://github.com/TheAlgorithms/JavaScript/blob/master/Ciphers/CaesarCipher.js)
+* [PHP](https://github.com/TheAlgorithms/PHP/blob/master/Ciphers/CaesarCipher.php)
 * [Python](https://github.com/TheAlgorithms/Python/blob/master/ciphers/caesar_cipher.py)
+
