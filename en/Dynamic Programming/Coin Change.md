@@ -49,7 +49,17 @@ Let's say we have 3 coin types `[1,2,3]` and we want to change for `7` cents. So
 So the final answer is **8**. 8 ways to make change of 7 cents using all coin types. `{{1,1,1,1,1,1,1}, {1,1,1,1,1,2}, {1,1,1,2,2}, {1,2,2,2}, {1,1,1,1,3}, {1,3,3}, {2,2,3}, {1,1,2,3}}`
 
 #### Code Implementation Link
-[Python](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/coin_change.py)
+- [JavaScript](https://github.com/TheAlgorithms/JavaScript/blob/master/Dynamic-Programming/CoinChange.js)
+- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/dynamic_programming/coin_change.cpp)
+- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/greedyalgorithms/CoinChange.java)
+- [Go](https://github.com/TheAlgorithms/Go/blob/master/dynamic/coinchange.go)
+- [Rust](https://github.com/TheAlgorithms/Rust/blob/master/src/dynamic_programming/coin_change.rs)
+- [Dart](https://github.com/TheAlgorithms/Dart/blob/master/dynamic_programming/coin_change.dart)
+- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/dynamic_programming/coin_change.rb)
+- [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/DynamicProgramming/CoinChange.scala)
+- [Julia](https://github.com/TheAlgorithms/Julia/blob/main/src/dynamic_programming/coin_change.jl)
+- [Lua](https://github.com/TheAlgorithms/Lua/blob/main/src/misc/coin_change.lua)
+- [C#](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Problems/DynamicProgramming/CoinChange/DynamicCoinChangeSolver.cs)
 
 #### Video Explanation
 [Total Unique Ways To Make Change by Back To Back SWE](https://www.youtube.com/watch?v=DJ4a7cmjZY0)
