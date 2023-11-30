@@ -51,6 +51,7 @@ takes extra space to sort numbers.
 - [Assembly](https://github.com/TheAlgorithms/AArch64_Assembly/blob/main/sorters/radix_sort.s)
 - [C](https://github.com/TheAlgorithms/C/blob/master/sorting/radix_sort.c)
 - [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/radix_sort.cpp)
+- [C#](https://github.com/TheAlgorithms/C-Sharp/tree/master/Algorithms/Sorters/Integer/RadixSorter.cs)
 - [Dart](https://github.com/TheAlgorithms/Dart/blob/master/sort/radix_sort.dart)
 - [Go](https://github.com/TheAlgorithms/Go/blob/master/sort/radixsort.go)
 - [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/RadixSort.java)
@@ -61,6 +62,7 @@ takes extra space to sort numbers.
 - [R](https://github.com/TheAlgorithms/R/blob/master/sorting_algorithms/radix_sort.r)
 - [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/radix_sort.rb)
 - [Rust](https://github.com/TheAlgorithms/Rust/blob/master/src/sorting/radix_sort.rs)
+- [Zig](https://github.com/TheAlgorithms/Zig/blob/main/sort/radixSort.zig)
 
 #### Video Explanation
 
