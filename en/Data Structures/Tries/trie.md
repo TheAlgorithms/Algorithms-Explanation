@@ -1,5 +1,4 @@
-# Trie - dont forget to update name to tries.md.
-# Using readme.md because that is only what grip accepts
+# Trie
 
 A trie (also called a prefix tree) is a tree data structure that shows order, linking parents to children. It is an efficient way of storing objects that have commonalities. A good example would be in storing phone numbers, or strings in general
 
@@ -28,7 +27,7 @@ to_find = "ear"
 
 for word in data_store:
     index = 0
-    while index < len("egg"):
+    while index < len(word):
         if to_find[index] != word[index]:
             break
         index += 1
@@ -55,17 +54,19 @@ The above representation is called a trie.
 # Standard Trie Operations 
 
 1) insert(): inserts the string into the trie.
-2) search(): searches for the string within the stack.
+2) search(): searches for the string within the trie.
 
 # Building a Trie
 
-To start building a trie, you first need to define a node with the revelant properties needed for any trie.
+## Building a node for the elements of the trie
+
+To start building a trie, you first need to define a node with the revelant attributes needed for any trie.
 
 ```
 class Node:
-    def __init__(self, val:string=None, isword:bool=False):
+    def __init__(self, val:string=None, is_word:bool=False):
         self.val = val
-        self.isword = isword
+        self.is_word = is_word
         self.children = {}
 ```
 
@@ -76,6 +77,8 @@ Here, you can see that the class `Node` has three instance attributes:
 
 Then the trie gets built by creating a node for each letter and adding it as a child to the node before it
 
+## Building the trie itself
+
 Start by initializing an empty node
 
 ```
@@ -84,6 +87,8 @@ class Trie:
         self.node = Node(None)
 ```
 
+For the insert operation, fetch the starting node, then for every letter in the word, add it to the children of the letter before it. The final node has its `is_word` attribute marked as **True** because we want to be aware of where the word ends
+
 ```   
 def insert(self, word: str) -> None:
     node = self.node
@@ -91,11 +96,14 @@ def insert(self, word: str) -> None:
         if ltr not in node.children:
             node.children[ltr] = Node(ltr)
         node = node.children[ltr]
-    node.isword=True
+    node.is_word=True
 ```
 
+*In the code above, the `node` variable starts by holding a reference to the null node, while the `ltr` iterating variable starts by holding the first letter in `word`. This would ensure that `node` is one level ahead of `ltr`. As they are both moved forward in the iterations, `node` will always remain one level ahead of `ltr`*
 
+For the search operation, fetch the starting node, then for every letter in the word, check if it is present in the `children` attribute of the current node. As long as it is present, repeat for the next letter and next node. If during the search process, we find a letter that is not present, then the word does not exist in the trie. If we successfully get to the end of the iteration, then we have found what we are looking for. It is time to return a value
 
+First take a look at the code (ignore the return value)
 
 ```
 def search(self, word: str) -> bool:
@@ -106,3 +114,48 @@ def search(self, word: str) -> bool:
         node = node.children[ltr]
     return node.isword
 ```
+
+For the return value, there are two cases:
+1. we are searching for a word -> return `node.is_word` because we want to be sure it is actually a word, and not a prefix
+2. we are searching for a prefix -> return **True** because whether it is a word or not, it is prefix that exists in the trie
+
+Now here is the full code
+
+```
+class Node:
+    def __init__(self, val=None, isword=False, children={}):
+        self.val = val
+        self.isword = isword
+        self.children = children
+
+class Trie:
+
+    def __init__(self):
+        self.node = Node(None)
+        
+
+    def insert(self, word: str) -> None:
+        node = self.node
+        for ltr in word:
+            if ltr not in node.children:
+                node.children[ltr] = Node(ltr)
+            node = node.children[ltr]
+        node.isword=True
+        
+
+    def search(self, word: str) -> bool:
+        node = self.node
+        for ltr in word:
+            if ltr not in node.children:
+                return False
+            node = node.children[ltr]
+        return node.isword
+```
+
+# Helpful links
+
+1) [Trie Data Structure - GeeksForGeeks](https://www.geeksforgeeks.org/trie-insert-and-search/)
+
+# Video Playlist
+
+- [Trie Data Structure](https://www.youtube.com/watch?v=zIjfhVPRZCg)
