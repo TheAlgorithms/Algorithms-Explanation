@@ -9,7 +9,7 @@ For the strings example, supposing we have a list of strings to store in our dat
 3. ear
 4. end
 
-And one of the methods we are to support is a search operation for any of the words, we can approach it the basic way - select each word, and do a string comparison, matching letter to letter. The algorithm would be as follows
+And one of the methods we are to support is a search operation for any of the words, we can approach it the basic way - select each word, and do a string comparison, matching letter to letter. The algorithm would be as follows:
 
 
 ```
