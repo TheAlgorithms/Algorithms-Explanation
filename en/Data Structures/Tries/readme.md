@@ -33,11 +33,11 @@ for word in data_store:
             break
         index += 1
     if index == len(to_find):
-        print(True)
+        print("a match has been found")
 
 ```
 
-Without a doubt, this strategy will work, however, the time complexity of doing this is *O(num of words x len of longest word)*.
+Without a doubt, this strategy will work, but the time complexity of doing this is *O(num of words x len of longest word)* which is quite expensive.
 However, if we represent the storage of numbers in a tree such that each letter appears only once in a particular level in the tree, we can achieve a much better search time
 
 ```
@@ -49,26 +49,60 @@ However, if we represent the storage of numbers in a tree such that each letter 
 
 ```
 
+You can see from the above tree representation, that all the words are in the tree, starting from the letter e, which starts all the words, then a, n, and g coming next and so on...
+The above representation is called a trie.
+
+# Standard Trie Operations 
+
+1) insert(): inserts the string into the trie.
+2) search(): searches for the string within the stack.
+
+# Building a Trie
+
+To start building a trie, you first need to define a node with the revelant properties needed for any trie.
+
+```
+class Node:
+    def __init__(self, val:string=None, isword:bool=False):
+        self.val = val
+        self.isword = isword
+        self.children = {}
+```
+
+Here, you can see that the class `Node` has three instance attributes:
+1. val:*string* = to hold the value / text of the node
+2. isword:*bool* = to mark whether that node in the trie marks the completion of a word
+3. children:*Dict* = to hold pointers to other children nodes
+
+Then the trie gets built by creating a node for each letter and adding it as a child to the node before it
+
+Start by initializing an empty node
+
+```
+class Trie:
+    def __init__(self):
+        self.node = Node(None)
+```
+
+```   
+def insert(self, word: str) -> None:
+    node = self.node
+    for ltr in word:
+        if ltr not in node.children:
+            node.children[ltr] = Node(ltr)
+        node = node.children[ltr]
+    node.isword=True
+```
 
 
-# Standard Stack Operations 
 
-1) push(): inserts the element at the top of the stack.
-2) pop(): When we delete the element at the top of the stack
-3) isEmpty(): It determines whether the stack is empty.
-4) isFull(): determines whether the stack is full or not
-5) peek(): Gets the value of the top element without removing it
 
-# Working with Stacks
-
-A pointer called TOP is used to keep track of the top element in the stack. When initializing the stack, we set its value to -1 so that we can check if the stack is empty by comparing TOP == -1. On pushing an element, we increase the value of TOP and place the new element in the position pointed to by TOP. On popping an element, we return the element pointed to by TOP and reduce its value. Before pushing, we check if the stack is already full before popping, we check if the stack is already empty.
-
-# Source
-
-1) [Stack Data Structure - GeeksForGeeks](https://www.geeksforgeeks.org/stack-data-structure/) 
-2) [DS-Stack JavaPoint](https://www.javatpoint.com/data-structure-stack)
-3) [Stack Data Structure](https://www.programiz.com/dsa/stack)
-
-# Video Playlist
-
-- [Stack Data Structure](https://youtu.be/F1F2imiOJfk)
+```
+def search(self, word: str) -> bool:
+    node = self.node
+    for ltr in word:
+        if ltr not in node.children:
+            return False
+        node = node.children[ltr]
+    return node.isword
+```
