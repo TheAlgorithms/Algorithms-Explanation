@@ -64,16 +64,16 @@ To start building a trie, you first need to define a node with the revelant attr
 
 ```
 class Node:
-    def __init__(self, val:string=None, is_word:bool=False):
+    def __init__(self, val: string=None, is_word: bool=False):
         self.val = val
         self.is_word = is_word
         self.children = {}
 ```
 
 Here, you can see that the class `Node` has three instance attributes:
-1. val:*string* = to hold the value / text of the node
-2. isword:*bool* = to mark whether that node in the trie marks the completion of a word
-3. children:*Dict* = to hold pointers to other children nodes
+1. val: *string* = to hold the value / text of the node
+2. isword: *bool* = to mark whether that node in the trie marks the completion of a word
+3. children: *Dict* = to hold pointers to other children nodes
 
 Then the trie gets built by creating a node for each letter and adding it as a child to the node before it
 
@@ -123,10 +123,10 @@ Now here is the full code
 
 ```
 class Node:
-    def __init__(self, val=None, isword=False, children={}):
+    def __init__(self, val: string=None, is_word: bool=False):
         self.val = val
-        self.isword = isword
-        self.children = children
+        self.is_word = is_word
+        self.children = {}
 
 class Trie:
 
@@ -149,7 +149,7 @@ class Trie:
             if ltr not in node.children:
                 return False
             node = node.children[ltr]
-        return node.isword
+        return node.is_word
 ```
 
 # Helpful links
