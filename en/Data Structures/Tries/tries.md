@@ -64,16 +64,14 @@ To start building a trie, you first need to define a node with the revelant attr
 
 ```
 class Node:
-    def __init__(self, val: string=None, is_word: bool=False):
-        self.val = val
+    def __init__(self, is_word: bool=False):
         self.is_word = is_word
         self.children = {}
 ```
 
 Here, you can see that the class `Node` has three instance attributes:
-1. val: *string* = to hold the value / text of the node
-2. is_word: *bool* = to mark whether that node in the trie marks the completion of a word
-3. children: *Dict* = to hold pointers to other children nodes
+1. is_word: *bool* = to mark whether that node in the trie marks the completion of a word
+2. children: *Dict* = to hold pointers to other children nodes
 
 Then the trie gets built by creating a node for each letter and adding it as a child to the node before it
 
@@ -84,7 +82,7 @@ Start by initializing an empty node
 ```
 class Trie:
     def __init__(self):
-        self.node = Node(None)
+        self.node = Node()
 ```
 
 For the insert operation, fetch the starting node, then for every letter in the word, add it to the children of the letter before it. The final node has its `is_word` attribute marked as **True** because we want to be aware of where the word ends
@@ -94,7 +92,7 @@ def insert(self, word: str) -> None:
     node = self.node
     for ltr in word:
         if ltr not in node.children:
-            node.children[ltr] = Node(ltr)
+            node.children[ltr] = Node()
         node = node.children[ltr]
     node.is_word=True
 ```
@@ -123,22 +121,21 @@ Now here is the full code
 
 ```
 class Node:
-    def __init__(self, val: string=None, is_word: bool=False):
-        self.val = val
+    def __init__(self, is_word: bool=False):
         self.is_word = is_word
         self.children = {}
 
 class Trie:
 
     def __init__(self):
-        self.node = Node(None)
+        self.node = Node()
         
 
     def insert(self, word: str) -> None:
         node = self.node
         for ltr in word:
             if ltr not in node.children:
-                node.children[ltr] = Node(ltr)
+                node.children[ltr] = Node()
             node = node.children[ltr]
         node.is_word=True
         
