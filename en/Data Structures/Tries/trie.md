@@ -37,7 +37,7 @@ for word in data_store:
 ```
 
 Without a doubt, this strategy will work, but the time complexity of doing this is *O(num of words x len of longest word)* which is quite expensive.
-However, if we represent the storage of numbers in a tree such that each letter appears only once in a particular level in the tree, we can achieve a much better search time
+However, if we represent the storage of numbers in a tree such that each letter appears only once in a particular level in the tree, we can achieve a much better search time. Take, for example, the tree below
 
 ```
         e
@@ -48,7 +48,7 @@ However, if we represent the storage of numbers in a tree such that each letter 
 
 ```
 
-You can see from the above tree representation, that all the words are in the tree, starting from the letter e, which starts all the words, then a, n, and g coming next and so on...
+You can see from the above representation, that all the words are in the tree, starting from the letter e, which is found at the beginning of all the words, then a, n, and g coming in the next level and so on...
 The above representation is called a trie.
 
 # Standard Trie Operations 
@@ -58,22 +58,20 @@ The above representation is called a trie.
 
 # Building a Trie
 
-## Building a node for the elements of the trie
+## Defining a node class for the elements of the trie
 
 To start building a trie, you first need to define a node with the revelant attributes needed for any trie.
 
 ```
 class Node:
-    def __init__(self, val: string=None, is_word: bool=False):
-        self.val = val
+    def __init__(self, is_word: bool=False):
         self.is_word = is_word
         self.children = {}
 ```
 
 Here, you can see that the class `Node` has three instance attributes:
-1. val: *string* = to hold the value / text of the node
-2. isword: *bool* = to mark whether that node in the trie marks the completion of a word
-3. children: *Dict* = to hold pointers to other children nodes
+1. is_word: *bool* = to mark whether that node in the trie marks the completion of a word
+2. children: *Dict* = to hold pointers to other children nodes
 
 Then the trie gets built by creating a node for each letter and adding it as a child to the node before it
 
@@ -84,7 +82,7 @@ Start by initializing an empty node
 ```
 class Trie:
     def __init__(self):
-        self.node = Node(None)
+        self.node = Node()
 ```
 
 For the insert operation, fetch the starting node, then for every letter in the word, add it to the children of the letter before it. The final node has its `is_word` attribute marked as **True** because we want to be aware of where the word ends
@@ -94,7 +92,7 @@ def insert(self, word: str) -> None:
     node = self.node
     for ltr in word:
         if ltr not in node.children:
-            node.children[ltr] = Node(ltr)
+            node.children[ltr] = Node()
         node = node.children[ltr]
     node.is_word=True
 ```
@@ -103,7 +101,7 @@ def insert(self, word: str) -> None:
 
 For the search operation, fetch the starting node, then for every letter in the word, check if it is present in the `children` attribute of the current node. As long as it is present, repeat for the next letter and next node. If during the search process, we find a letter that is not present, then the word does not exist in the trie. If we successfully get to the end of the iteration, then we have found what we are looking for. It is time to return a value
 
-First take a look at the code (ignore the return value)
+Take a look at the code
 
 ```
 def search(self, word: str) -> bool:
@@ -112,7 +110,7 @@ def search(self, word: str) -> bool:
         if ltr not in node.children:
             return False
         node = node.children[ltr]
-    return node.isword
+    return node.is_word
 ```
 
 For the return value, there are two cases:
@@ -123,24 +121,23 @@ Now here is the full code
 
 ```
 class Node:
-    def __init__(self, val: string=None, is_word: bool=False):
-        self.val = val
+    def __init__(self, is_word: bool=False):
         self.is_word = is_word
         self.children = {}
 
 class Trie:
 
     def __init__(self):
-        self.node = Node(None)
+        self.node = Node()
         
 
     def insert(self, word: str) -> None:
         node = self.node
         for ltr in word:
             if ltr not in node.children:
-                node.children[ltr] = Node(ltr)
+                node.children[ltr] = Node()
             node = node.children[ltr]
-        node.isword=True
+        node.is_word=True
         
 
     def search(self, word: str) -> bool:
