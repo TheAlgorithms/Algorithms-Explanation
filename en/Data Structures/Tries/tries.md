@@ -58,7 +58,7 @@ The above representation is called a trie.
 
 # Building a Trie
 
-## Building a node for the elements of the trie
+## Defining a node class for the elements of the trie
 
 To start building a trie, you first need to define a node with the revelant attributes needed for any trie.
 
