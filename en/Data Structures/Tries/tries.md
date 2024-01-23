@@ -37,7 +37,7 @@ for word in data_store:
 ```
 
 Without a doubt, this strategy will work, but the time complexity of doing this is *O(num of words x len of longest word)* which is quite expensive.
-However, if we represent the storage of numbers in a tree such that each letter appears only once in a particular level in the tree, we can achieve a much better search time
+However, if we represent the storage of numbers in a tree such that each letter appears only once in a particular level in the tree, we can achieve a much better search time. Take, for example, the tree below
 
 ```
         e
@@ -48,7 +48,7 @@ However, if we represent the storage of numbers in a tree such that each letter 
 
 ```
 
-You can see from the above tree representation, that all the words are in the tree, starting from the letter e, which starts all the words, then a, n, and g coming next and so on...
+You can see from the above representation, that all the words are in the tree, starting from the letter e, which is found at the beginning of all the words, then a, n, and g coming in the next level and so on...
 The above representation is called a trie.
 
 # Standard Trie Operations 
