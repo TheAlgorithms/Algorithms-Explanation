@@ -72,7 +72,7 @@ class Node:
 
 Here, you can see that the class `Node` has three instance attributes:
 1. val: *string* = to hold the value / text of the node
-2. isword: *bool* = to mark whether that node in the trie marks the completion of a word
+2. is_word: *bool* = to mark whether that node in the trie marks the completion of a word
 3. children: *Dict* = to hold pointers to other children nodes
 
 Then the trie gets built by creating a node for each letter and adding it as a child to the node before it
@@ -103,7 +103,7 @@ def insert(self, word: str) -> None:
 
 For the search operation, fetch the starting node, then for every letter in the word, check if it is present in the `children` attribute of the current node. As long as it is present, repeat for the next letter and next node. If during the search process, we find a letter that is not present, then the word does not exist in the trie. If we successfully get to the end of the iteration, then we have found what we are looking for. It is time to return a value
 
-First take a look at the code (ignore the return value)
+Take a look at the code
 
 ```
 def search(self, word: str) -> bool:
@@ -112,7 +112,7 @@ def search(self, word: str) -> bool:
         if ltr not in node.children:
             return False
         node = node.children[ltr]
-    return node.isword
+    return node.is_word
 ```
 
 For the return value, there are two cases:
