@@ -51,4 +51,3 @@ nth term of a GP = `a*rn-1`.
 # YouTube
 
 - [Video URL for concept](https://youtu.be/gua96ju_FBk)
-- [Video for understanding GP Dynamic Programming in C++](https://youtu.be/92ZldzuGUHs)
