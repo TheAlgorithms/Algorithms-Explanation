@@ -61,4 +61,10 @@ Subsequent sub-headings *may* be:
   Format code inside fenced code blocks properly (prefer pseudocode over code though). Leave blank lines around fenced code blocks.
 - Use named links `[name](link)` rather than relying on automatic link detection or using `<>`-links.
   There are rarely good reasons to not give a link a descriptive name.
+- Make sure links are still valid. **Do not use links that are likely to break.**
+  Archive websites via for example [archive.org](https://archive.org/) if necessary.
 - Use HTML only if necessary (rarely - if ever - the case). Do not use HTML for unnecessary formatting.
+- Use LaTeX for typesetting math: `$O(n)$` rather than just plain text "O(n)" or even worse, an image.
+- Include images, if they are your own work or licensed permissively, in the PR.
+  Give proper attribution and refer to the images using relative paths.
+  The images should be in a folder corresponding to the explanation you're adding.
