@@ -35,11 +35,3 @@ Let us say we are sending a secret message to a friend.
 * The second letter is `h`. The letter 6 letters away is `n`. Our message is now `Zn`
 * We continue like that until the end. Our final message is: `Znk Igkygx iovnkx oy g lat yahyzozazout iovnkx.`
 * Decryption is the same way, except instead of going to the right in the alphabet, we go backwards.
-
-## Implementation
-
-* [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/ciphers/caesar_cipher.cpp)
-* [JavaScript](https://github.com/TheAlgorithms/JavaScript/blob/master/Ciphers/CaesarCipher.js)
-* [PHP](https://github.com/TheAlgorithms/PHP/blob/master/Ciphers/CaesarCipher.php)
-* [Python](https://github.com/TheAlgorithms/Python/blob/master/ciphers/caesar_cipher.py)
-

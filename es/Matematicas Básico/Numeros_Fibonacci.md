@@ -65,13 +65,6 @@ Calcular matriz^8
 
 F(8)=21
 
-## Implementación
-
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/math/fibonacci.cpp)
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/FibonacciNumber.java)
-- [Javascript](https://github.com/TheAlgorithms/Javascript/blob/80c2dc85d714f73783f133964d6acd9b5625ddd9/Maths/Fibonacci.js)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/maths/fibonacci.py)
-
 ## Video en YouTube
 
 - [YouTube](https://www.youtube.com/watch?v=EEb6JP3NXBI)

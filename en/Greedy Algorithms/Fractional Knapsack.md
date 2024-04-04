@@ -35,12 +35,6 @@ We won't be able to make more money by combining diverse things.
 
 ```
 
-#### Code Implementation Links
-
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/greedy_algorithms/knapsack.cpp)
-- [Python](https://github.com/TheAlgorithms/Python/tree/master/knapsack)
-- [C-Sharp](https://github.com/TheAlgorithms/C-Sharp/tree/master/Algorithms/Knapsack)
-
 #### Video Explanation
 
 [A CS50 video explaining the Greedy Algorithm](https://www.youtube.com/watch?v=Ou9OA0yQCYA)

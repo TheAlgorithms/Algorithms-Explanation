@@ -47,16 +47,6 @@ y los elementos del 11 al 13 se moverán una posición por delante de su posici�
 5, 6, 11, 12, 13 -- matriz ordenada
 ```
 
-#### Enlaces de implementación del código
-
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/InsertionSort.java)
-- [C](https://github.com/TheAlgorithms/C/blob/master/sorting/insertion_sort.c)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/insertion_sort.cpp)
-- [C#](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/InsertionSorter.cs)
-- [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/InsertionSort.scala)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/insertion_sort.py)
-- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/insertion_sort.rb)
-
 #### Explicación de vídeo
 
 [Un vídeo CS50 que explica el algoritmo de Ordenamiento de inserción](https://www.youtube.com/watch?v=DFG-XuyPYUQ)

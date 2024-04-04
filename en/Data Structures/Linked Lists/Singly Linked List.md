@@ -37,12 +37,6 @@ class LinkedList {
 }
  ```
 
-## Code Implementation Links
-
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/lists/SinglyLinkedList.java)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structures/linked_list.cpp)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/data_structures/linked_list/singly_linked_list.py)
-
 ## Video Explanation
 
 [A CS50 video explaining the Linked List Data Structure](https://www.youtube.com/watch?v=5nsKtQuT6E8)

@@ -38,24 +38,6 @@ target = 9
 Búsqueda binaria debe devolver -1 dado que 9 no está presente en la matriz
 ```
 
-#### Enlaces de implementación de código
-
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/searches/BinarySearch.java)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Search/Binary%20Search.cpp)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/searches/binary_search.py)
-- [C-Sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Search/BinarySearcher.cs)
-- [C](https://github.com/TheAlgorithms/C/blob/master/searching/Binary_Search.c)
-- [JavaScript](https://github.com/TheAlgorithms/Javascript/blob/master/Search/BinarySearch.js)
-- [Haskell](https://github.com/TheAlgorithms/Haskell/blob/master/src/Misc/BinarySearch.hs)
-- [F-Sharp](https://github.com/TheAlgorithms/F-Sharp/blob/main/Algorithms/Search/BinarySearch.fs)
-- [Go](https://github.com/TheAlgorithms/Go/blob/master/search/binary.go)
-- [Rust](https://github.com/TheAlgorithms/Rust/blob/master/src/searching/binary_search.rs)
-- [Dart](https://github.com/TheAlgorithms/Dart/blob/master/search/binary_Search.dart)
-- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/Searches/binary_search.rb)
-- [PHP](https://github.com/TheAlgorithms/PHP/blob/master/searches/binary_search.php)
-- [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Search/BinarySearch.scala)
-- [MATLAB-Octave](https://github.com/TheAlgorithms/MATLAB-Octave/blob/master/algorithms/Searching/binary_search.m)
-
 #### Explicación en vídeo de YouTube
 
 [Un vídeo CS50 explicando el algoritmo de búsqueda binaria](https://www.youtube.com/watch?v=5xlIPT1FRcA)

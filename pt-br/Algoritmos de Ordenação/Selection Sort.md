@@ -47,17 +47,6 @@ Selecione o número mínimo da matriz (entre o índice 2-3), ou seja, 40
 A matriz agora está classificada.
 ```
 
-#### Links de implementação de código
-
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/SelectionSort.java)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Sorting/Selection%20Sort.cpp)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/selection_sort.py)
-- [Go](https://github.com/TheAlgorithms/Go/blob/master/sort/selectionsort.go)
-- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/Sorting/selection_sort.rb)
-- [C](https://github.com/TheAlgorithms/C/blob/master/sorting/SelectionSort.c)
-- [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/SelectionSort.scala)
-- [Javascript](https://github.com/TheAlgorithms/JavaScript/blob/master/Sorts/SelectionSort.js)
-
 #### Explicação em vídeo
 
 [Um vídeo explicando o algoritmo de classificação por seleção](https://www.youtube.com/watch?v=f8hXR_Hvybo)

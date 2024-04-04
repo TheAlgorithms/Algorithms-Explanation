@@ -38,9 +38,3 @@ Digamos que estamos enviando un mensaje secreto a un amigo.
 * La segunda letra es `h`. La letra a 6 letras de distancia es `n`. Nuestro mensaje ahora es `Zn`
 * Seguimos así hasta el final. Nuestro mensaje final es: `Znk Igkygx iovnkx oy g lat yahyzozazout iovnkx.`
 * El descifrado es de la misma manera, excepto que en lugar de ir a la derecha en el alfabeto, vamos hacia atrás.
-
-## Implementación
-
-* [Python](https://github.com/TheAlgorithms/Python/blob/master/ciphers/caesar_cipher.py)
-* [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/ciphers/caesar_cipher.cpp)
-* [Rust](https://github.com/TheAlgorithms/Rust/blob/master/src/ciphers/caesar.rs)

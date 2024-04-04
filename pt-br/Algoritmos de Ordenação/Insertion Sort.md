@@ -46,16 +46,6 @@ e os elementos de 11 a 13 se moverão uma posição à frente de sua posição a
 5, 6, 11, 12, 13 - matriz classificada
 ```
 
-#### Links de implementação de código
-
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/InsertionSort.java)
-- [C](https://github.com/TheAlgorithms/C/blob/master/sorting/insertion_sort.c)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/insertion_sort.cpp)
-- [C#](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/InsertionSorter.cs)
-- [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/InsertionSort.scala)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/insertion_sort.py)
-- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/insertion_sort.rb)
-
 #### Explicação em vídeo
 
 [Um vídeo CS50 explicando o algoritmo de pesquisa de inserção](https://www.youtube.com/watch?v=DFG-XuyPYUQ)

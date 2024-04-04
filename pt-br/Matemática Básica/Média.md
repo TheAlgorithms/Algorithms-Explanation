@@ -58,10 +58,6 @@ Se considerarmos corretamente os dígitos significativos: `soma / contagem = 23`
 
 Retorne o valor de 22 ou `23`.
 
-## Implementação
-
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/maths/average_mean.py)
-
 ## URL do vídeo
 
 - [Média na Khan Academy](https://www.khanacademy.org/math/ap-statistics/summarizing-quantitative-data-ap/measuring-center-quantitative/v/mean-median-and-mode)

@@ -67,13 +67,6 @@ Ahora 70 está en su lugar correcto. Todos los elementos más pequeños que
 eso.
 ```
 
-#### Enlaces de implementación de código
-
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/QuickSort.java)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Sorting/Quick%20Sort.cpp)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/quick_sort.py)
-- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/quicksort.rb)
-
 #### Explicación de vídeo
 
 [Un vídeo explicando el algoritmo de ordenamiento rápido](https://www.youtube.com/watch?v=COk73cpQbFQ)
