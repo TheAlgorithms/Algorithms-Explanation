@@ -49,17 +49,6 @@ arr[] = {80, 10, 40, 30}
 La matriz ahora está ordenada.
 ```
 
-#### Enlaces de implementación de código
-
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/SelectionSort.java)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Sorting/Selection%20Sort.cpp)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/selection_sort.py)
-- [Ir](https://github.com/TheAlgorithms/Go/blob/master/sort/selectionsort.go)
-- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/Sorting/selection_sort.rb)
-- [C](https://github.com/TheAlgorithms/C/blob/master/sorting/SelectionSort.c)
-- [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/SelectionSort.scala)
-- [Javascript](https://github.com/TheAlgorithms/JavaScript/blob/master/Sorts/SelectionSort.js)
-
 #### Explicación de vídeo
 
 [Un vídeo explicando el algoritmo de Ordenamiento de selección](https://www.youtube.com/watch?v=f8hXR_Hvybo)

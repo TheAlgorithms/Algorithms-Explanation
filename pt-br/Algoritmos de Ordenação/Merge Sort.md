@@ -31,12 +31,6 @@ Chame recursivamente a função merge sort para ambas as metades, o que fornecer
 Agora mescle as duas metades para obter a matriz classificada [0, 1, 2, 3, 5, 9]
 ```
 
-#### Links de implementação de código
-
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/MergeSort.java)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/merge_sort.cpp)
-- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/merge_sort.rb)
-
 #### Explicação em vídeo
 
 [Um vídeo CS50 explicando o algoritmo de classificação de mesclagem](https://www.youtube.com/watch?v=EeQ8pwjQxTM)

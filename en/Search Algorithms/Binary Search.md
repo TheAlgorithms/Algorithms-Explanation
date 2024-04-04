@@ -38,14 +38,6 @@ target = 9
 A simple Binary Search implementation may return -1 as 9 is not present in the array. A more complex one would return the index at which 9 would have to be inserted, which would be `-8` (last position in the array (7) plus one (7+1), negated)`.
 ```
 
-#### Code Implementation Links
-
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/searches/BinarySearch.java)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/search/binary_search.cpp)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/searches/binary_search.py)
-- [C-Sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Search/BinarySearcher.cs)
-- [C](https://github.com/TheAlgorithms/C/blob/master/searching/binary_search.c)
-
 #### Video Explanation
 
 [A CS50 video explaining the Binary Search Algorithm](https://www.youtube.com/watch?v=5xlIPT1FRcA)

@@ -53,9 +53,3 @@ Let's take a look at this comparison with a less theoretical example. Imagine we
 
 - The Binary Search start from the middle of the array and arrive to the 4th position after many iterations
 - The Exponential Search arrive at the 4th index after only 2 iterations
-
-#### Code Implementation Links
-
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/search/exponential_search.cpp)
-- [C](https://github.com/TheAlgorithms/C/blob/master/searching/exponential_search.c)
-- [JavaScript](https://github.com/TheAlgorithms/Javascript/blob/master/Search/ExponentialSearch.js)

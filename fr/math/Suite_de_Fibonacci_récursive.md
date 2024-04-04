@@ -41,7 +41,3 @@ Dans notre exemple nous cherchons à calculer $F(4)$, le 5ème terme de la suite
 ### Conclusion
 
 On a donc $F(4) = 3$
-
-## Implémentation
-
-* [Python](https://github.com/TheAlgorithms/Python/blob/master/maths/fibonacci_sequence_recursion.py)

@@ -73,15 +73,3 @@ Indexes: 0   1   2   3
 
 Puisqu'il n'y a pas de permutations dans les étapes précédentes, cela signifie que le tableau est trié et que nous pouvons nous arrêter ici.
 ```
-
-## Implémentations
-
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/bubble_sort.py)
-- [C](https://github.com/TheAlgorithms/C/blob/master/sorting/bubble_sort.c)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/bubble_sort.cpp)
-- [C-Sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/BubbleSorter.cs)
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/BubbleSort.java)
-- [Go](https://github.com/TheAlgorithms/Go/blob/master/sorts/bubblesort.go)
-- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/bubble_sort.rb)
-- [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/Sort/BubbleSort.scala)
-- [JavaScript](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/BubbleSort.js)

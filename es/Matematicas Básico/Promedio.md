@@ -58,10 +58,6 @@ Si consideramos correctamente dígitos significativos: `suma / recuento = 23`
 
 Devuelva el valor de 22. <u>857142</u> o `23`.
 
-## Implementación
-
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/maths/average_mean.py)
-
 ## Video en YouTube
 
 - [Media en Khan Academy](https://www.khanacademy.org/math/ap-statistics/summarizing-quantitative-data-ap/measuring-center-quantitative/v/mean-media-and-mode)

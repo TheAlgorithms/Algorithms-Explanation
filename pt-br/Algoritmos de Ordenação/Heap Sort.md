@@ -55,17 +55,6 @@ O procedimento heapify chama a si mesmo recursivamente para construir heap de ci
 
 ![heap-image](https://upload.wikimedia.org/wikipedia/commons/1/1b/Sorting_heapsort_anim.gif "Heap Sort")
 
-#### Links de implementação de código
-
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/HeapSort.java)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/heap_sort.cpp)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/heap_sort.py)
-- [Go](https://github.com/TheAlgorithms/Go/blob/master/sort/heapsort.go)
-- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/heap_sort.rb)
-- [C-sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/HeapSorter.cs)
-- [C](https://github.com/TheAlgorithms/C/blob/master/sorting/heap_sort.c)
-- [Javascript](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/HeapSort.js)
-
 #### Explicação em vídeo
 
 [Um vídeo explicando o algoritmo de classificação por seleção](https://www.youtube.com/watch?v=MtQL_ll5KhQ)

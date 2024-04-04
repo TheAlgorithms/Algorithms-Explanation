@@ -53,8 +53,3 @@ Echemos un vistazo a esta comparación con un ejemplo menos teórico. Imagine qu
 
 - La búsqueda binaria comienza desde el centro de la matriz y llega a la 4ª posición después de muchas iteraciones
 - La búsqueda exponencial llega al 4º índice después de sólo 2 iteraciones
-
-#### Enlaces de implementación de código
-
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/search/exponential_search.cpp)
-- [JavaScript](https://github.com/TheAlgorithms/Javascript/blob/master/Search/ExponentialSearch.js)
