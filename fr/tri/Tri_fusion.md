@@ -46,14 +46,3 @@ De même, [3, 7] et [4, 6] seront fusionnés et donneront [3, 4, 6, 7].
 
 Au niveau suivant de la pile, [1, 2, 5, 9] et [3, 4, 6, 7] seront fusionnés et nous obtiendrons le tableau trié final comme [1, 2, 3, 4, 5, 6, 7, 9].
 ```
-
-## Implémentation
-
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/merge_sort.py)
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/MergeSort.java)
-- [C](https://github.com/TheAlgorithms/C/blob/master/sorting/merge_sort.c)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/merge_sort.cpp)
-- [C-Sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/MergeSorter.cs)
-- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/sorting/merge_sort.rb)
-- [Go](https://github.com/TheAlgorithms/Go/blob/master/sort/mergesort.go)
-- [JavaScript](https://github.com/TheAlgorithms/JavaScript/blob/master/Sorts/MergeSort.js)

@@ -54,10 +54,6 @@ So we will get the encrypted text as **POH**.
     [21 12 8]     [7]       [539]     [19]
 ```
 
-## Implementations
-
-[**Python**](https://github.com/TheAlgorithms/Python/blob/master/ciphers/hill_cipher.py)
-
 ## Video Explanation
 
 [Video explanation of the Hill Cipher](https://www.youtube.com/watch?v=6T46sgty4Mk)

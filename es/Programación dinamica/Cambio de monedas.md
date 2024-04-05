@@ -58,15 +58,6 @@ Digamos que tenemos 3 tipos de monedas `[1,2,3]`, y queremos cambiarlas por 7 ce
 
 Así que la respuesta final es **8**. 8 maneras de hacer un cambio de 7 centavos usando todos los tipos de monedas. `{{1,1,1,1,1,1,1}, {1,1,1,1,1,2}, {1,1,1,2,2}, {1,2,2,2}, {1,1,1,1,3}, {1,3,3}, {2,2,3}, {1,1,2,3}}`
 
-#### Enlace de implementación de código
-
-* [Python](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/coin_change.py)
-* [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/dynamic_programming/coin_change.cpp)
-* [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/dynamicprogramming/CoinChange.java)
-* [Dart](https://github.com/TheAlgorithms/Dart/blob/master/dynamic_programming/coin_change.dart)
-* [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/dynamic_programming/coin_change.rb)
-* [Scala](https://github.com/TheAlgorithms/Scala/blob/master/src/main/scala/DynamicProgramming/CoinChange.scala)
-
 #### Vídeo de explicación
 
 [Formas únicas totales de hacer el cambio de espaldas a espaldas SWE](https://www.youtube.com/watch?v=DJ4a7cmjZY0)

@@ -117,12 +117,6 @@ Notice that this does not match either the result of `foo` or `bar`, however bec
 
 The probability of false positives increases with the probability of hash collisions within the filter. However, you can optimize the number of collisions if you have some sense of the cardinality of your set ahead of time. You can do this by optimizing `k` and `M`, `M` should be ~ 8-10 bits per expected item, and `k` should be `(M/n) * ln2`.
 
-## Examples
-
-Implementations of the Bloom Filter are available for:
-
-* [C#](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures/Probabilistic/BloomFilter.cs)
-
 ## Video Explainer
 
 [Video Explainer by Narendra L](https://www.youtube.com/watch?v=Bay3X9PAX5k)

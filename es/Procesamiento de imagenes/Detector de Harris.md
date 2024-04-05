@@ -13,10 +13,6 @@ Dada la imagen `$I$`, $ntimes n$ tamaño Gaussian Kernel `$G_{ntimes n}$`,
 3. Calcule la función de respuesta `$R$`, donde `$R=AB-C^2-k(A+B)$`
 4. Clasifique todos los puntos en `$R$`.
 
-## Enlaces de implementación de código
-
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/digital_image_processing/feature_detectors/harris.py)
-
 ## Referencia
 
 C. Harris y M. Stephens, "A Combined Corner and Edge Detector", en *Procedings of the Alvey Vision Conference 1988*, Manchester, 1988, págs. 23.1-23.6.

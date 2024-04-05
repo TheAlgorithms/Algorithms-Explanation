@@ -37,13 +37,6 @@ class LinkedList {
 }
 ```
 
-## Links de implementação de código
-
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/lists/SinglyLinkedList.java)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Data%20Structure/Linked%20List.cpp)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/data_structures/linked_list/singly_linked_list.py)
-- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/data_structures/linked_lists/single_list.rb)
-
 ## Explicação em vídeo
 
 [Um vídeo CS50 explicando a estrutura de dados da lista vinculada](https://www.youtube.com/watch?v=5nsKtQuT6E8)

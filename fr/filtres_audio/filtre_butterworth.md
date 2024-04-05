@@ -27,7 +27,3 @@ $$\tag{avec $p_k=\omega_ce^{\frac{j(2k+n-1)\pi}{2n}}$}H(p) = \frac{G_0}{\prod^n_
 
 * On commence par calculer les différents coefficients pour le filtre.
 * On applique ces coefficients à un filtre IIR.
-
-## Implementation
-
-* [Python](https://github.com/TheAlgorithms/Python/audio_filters/butterworth_filter.py)

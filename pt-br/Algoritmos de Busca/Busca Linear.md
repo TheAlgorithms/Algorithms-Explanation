@@ -33,12 +33,6 @@ alvo = 6
 # A pesquisa linear deve retornar -1, pois 6 não está presente na matriz
 ```
 
-#### Links de implementação de código
-
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/searches/LinearSearch.java)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Search/Linear%20Search.cpp)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/searches/linear_search.py)
-
 #### Explicação em vídeo
 
 [Um vídeo CS50 explicando o algoritmo de pesquisa linear](https://www.youtube.com/watch?v=CX2CYIJLwfg)

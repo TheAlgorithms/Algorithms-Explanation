@@ -86,13 +86,6 @@ D -2 A-> B-> E-> D = -1 + 2 + -3
 E 1 A-> B-> E = -1 + 2
 ```
 
-#### Links de implementação de código
-
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/graphs/BellmanFord.java)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/dynamic_programming/bellman_ford.cpp)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/graphs/bellman_ford.py)
-- [C](https://github.com/TheAlgorithms/C/blob/master/data_structures/graphs/bellman_ford.c)
-
 #### Explicação em vídeo
 
 [Um vídeo explicando o Algoritmo Bellman-Ford](https://www.youtube.com/watch?v=hxMWBBCpR6A)

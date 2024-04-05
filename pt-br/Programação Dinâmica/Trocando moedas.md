@@ -57,10 +57,6 @@ Digamos que temos 3 tipos de moeda `[1,2,3]` e queremos mudar para `7` centavos.
 
 Portanto, a resposta final é **8**. 8 maneiras de fazer troco de 7 centavos usando todos os tipos de moedas. `{{1,1,1,1,1,1,1}, {1,1,1,1,1,2}, {1,1,1,2,2}, {1,2,2,2}, {1,1,1,1,3}, {1,3,3}, {2,2,3}, {1,1,2,3}}`
 
-#### Link de implementação de código
-
-[Python](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/coin_change.py)
-
 #### Explicação em vídeo
 
 [Total de maneiras exclusivas de fazer a mudança em back to back SWE](https://www.youtube.com/watch?v=DJ4a7cmjZY0)

@@ -44,10 +44,6 @@ Tri par insertion dans le :
 * [meilleur cas](../Exemples/tri/TriInsertionMeilleur.mp4)
 * [pire cas](../Exemples/tri/TriInsertionPire.mp4)
 
-## Implémentation
-
-* [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/insertion_sort.py)
-
 ## Pour aller plus loin
 
 * Dans le meilleur cas, nous n'effectuons qu'une unique comparaison. En effet, le terme comparé et plus grand que le terme juste avant, donc aucune modification n'est à effectuer. (ce qui correspond bien à $n$ opérations)

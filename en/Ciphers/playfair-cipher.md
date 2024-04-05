@@ -117,10 +117,6 @@ So we will get the encrypted text as **gatlmzclrqxa**.
 ```
 So we will get the encrypted text as **instrumentsx**.
 
-## Implementations
-
-- [**Python**](https://github.com/TheAlgorithms/Python/blob/master/ciphers/playfair_cipher.py)
-
 ## Video Explanation
 
 - [**Video explanation of the Playfair Cipher algorithm**](https://www.youtube.com/watch?v=UURjVI5cw4g)

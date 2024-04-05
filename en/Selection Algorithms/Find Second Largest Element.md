@@ -65,10 +65,6 @@ True : b = arr[6] (b = 25)
 Now we get the value 25 in the variable "b", which is the second highest value in the array.
 ```
 
-#### Code Implementation Links
-
-[JavaScript](https://github.com/TheAlgorithms/JavaScript/blob/master/Sorts/FindSecondLargestElement.js)
-
 #### Video Explanation
 
 [Video explaining 2 approaches](https://www.youtube.com/watch?v=Mv8jhYQEbkA)

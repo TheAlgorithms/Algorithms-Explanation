@@ -79,12 +79,6 @@ B 0 0 1 2 3
 
 Sendo o comprimento da maior subsequência comum igual a: `dp[4][4] = 3`.
 
-#### Links de implementação de código
-
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/dynamicprogramming/LongestCommonSubsequence.java)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/longest_common_subsequence.py)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Dynamic%20Programming/Longest%20Common%20Subsequence.cpp)
-
 #### Explicação em vídeo
 
 - [Vídeo do canal OnlineBioinfo Bioinformática explicando sobre o algoritmo LCS](https://youtu.be/cX_hFqA8wDI)

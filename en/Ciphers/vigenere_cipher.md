@@ -61,13 +61,3 @@ Decryption is similar to encryption (except for the subtraction operation).
     - [Index of coincidence](https://en.wikipedia.org/wiki/Index_of_coincidence)
 3. Once the key length is found, [frequency analysis](https://en.wikipedia.org/wiki/Frequency_analysis) can be used to find the key and hence crack the cipher.
 4. Therefore, this cipher should not be used to encrypt any important data.
-
-## Implementations
-
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/ciphers/vigenere_cipher.cpp)
-- [C#](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Encoders/VigenereEncoder.cs)
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/ciphers/Vigenere.java)
-- [JavaScript](https://github.com/TheAlgorithms/JavaScript/blob/master/Ciphers/VigenereCipher.js)
-- [Julia](https://github.com/TheAlgorithms/Julia/blob/main/src/cipher/vigenere.jl)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/ciphers/vigenere_cipher.py)
-- [Rust](https://github.com/TheAlgorithms/Rust/blob/master/src/ciphers/vigenere.rs)

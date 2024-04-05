@@ -55,17 +55,6 @@ Brecha inicial: 4
 12. Divida la brecha por 2 y repita hasta la brecha = 1
 ```
 
-#### Enlaces de implementación de código
-
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/ShellSort.java)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Sorting/Shell%20Sort.cpp)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/sorts/shell_sort.py)
-- [C-Sharp](https://github.com/TheAlgorithms/C-Sharp/blob/master/Algorithms/Sorters/Comparison/ShellSorter.cs)
-- [Ir](https://github.com/TheAlgorithms/Go/blob/master/sort/shellsort.go)
-- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/Sorting/shell_sort.rb)
-- [C](https://github.com/TheAlgorithms/C/blob/master/sorting/shellSort.c)
-- [Javascript](https://github.com/TheAlgorithms/JavaScript/blob/master/Sorts/ShellSort.js)
-
 #### Explicación de vídeo
 
 [Un vídeo explicando el algoritmo del ordenamiento de Shell](https://www.youtube.com/watch?v=H8NiFkGu2PY)

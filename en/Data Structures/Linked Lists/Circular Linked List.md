@@ -64,12 +64,6 @@ public void insertHead(int data)
 }
  ```
 
-## Code Implementation Links
-
-- [JavaScript](https://github.com/TheAlgorithms/JavaScript/blob/master/Data-Structures/Linked-List/SinglyCircularLinkedList.js)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structures/cll/cll.cpp)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/data_structures/linked_list/circular_linked_list.py)
-
 ## Video Explanation
 
 [Video explanation on YouTube](https://youtu.be/HMkdlu5sP4A)

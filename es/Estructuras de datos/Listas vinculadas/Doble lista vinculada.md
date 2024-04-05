@@ -102,14 +102,6 @@ class LinkedList {
 
 ![Seguimiento del algoritmo](https://www.geeksforgeeks.org/wp-content/uploads/gq/2014/03/DLL_add_middle1.png)
 
-## Enlaces de implementación de código
-
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/lists/DoublyLinkedList.java)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Data%20Structure/Doubly%20Linked%20List.cpp)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/data_structures/linked_list/doubly_linked_list.py)
-- [Go](https://github.com/TheAlgorithms/Go/blob/master/data-structures/linked-list/double-linkedlist.go)
-- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/data_structures/linked_lists/double_list.rb)
-
 ## Explicación de vídeo
 
 [Un vídeo CS50 explicando la Estructura de Datos de la Lista Doblemente Vinculada](https://www.youtube.com/watch?v=FHMPswJDCvU)

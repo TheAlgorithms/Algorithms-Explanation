@@ -100,14 +100,6 @@ class LinkedList {
 
 ![Tracing of algorithm](https://www.geeksforgeeks.org/wp-content/uploads/gq/2014/03/DLL_add_middle1.png)
 
-## Code Implementation Links
-
-- [Java](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/lists/DoublyLinkedList.java)
-- [C++](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structures/doubly_linked_list.cpp)
-- [Python](https://github.com/TheAlgorithms/Python/blob/master/data_structures/linked_list/doubly_linked_list.py)
-- [Go](https://github.com/TheAlgorithms/Go/blob/master/data-structures/linked-list/double-linkedlist.go)
-- [Ruby](https://github.com/TheAlgorithms/Ruby/blob/master/data_structures/linked_lists/double_list.rb)
-
 ## Video Explanation
 
 [A CS50 video explaining the Doubly Linked List Data Structure](https://www.youtube.com/watch?v=FHMPswJDCvU)
