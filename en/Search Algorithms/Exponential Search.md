@@ -2,7 +2,7 @@
 
 #### Prerequisites
 
-- [Binary Search algorithm](https://github.com/faridevnz/Algorithms-Explanation/blob/master/en/Search%20Algorithms/Binary%20Search.md)
+- [Binary Search algorithm](Binary%20Search.md)
 
 #### Problem Statement
 
@@ -39,7 +39,7 @@ Now we can apply the binary search on the subarray from 512 and 1_000.
 #### Complexity Explanation
 
 - The complexity of the first part of the algorithm is **O( log *i* )** because if *i* is the position of the target in the array, after doubling the search *index* `⌈log(i)⌉` times, the algorithm will be at a search index that is greater than or equal to *i*. We can write `2^⌈log(i)⌉ >= i`
-- The complexity of the second part of the algorithm also is **O ( log *i* )** because that is a simple Binary Search. The Binary Search complexity ( as explained [here](https://github.com/faridevnz/Algorithms-Explanation/blob/master/en/Search%20Algorithms/Binary%20Search.md) ) is O( *n* ) where *n* is the length of the array. In the Exponential Search, the length of the array on which the algorithm is applied is `2^i - 2^(i-1)`, put into words it means '( the length of the array from start to *i* ) - ( the part of array skipped until the previous iteration )'. Is simple verify that `2^i - 2^(i-1) = 2^(i-1) ` 
+- The complexity of the second part of the algorithm also is **O ( log *i* )** because that is a simple Binary Search. The Binary Search complexity ( as explained [here](Binary%20Search.md) ) is O( *n* ) where *n* is the length of the array. In the Exponential Search, the length of the array on which the algorithm is applied is `2^i - 2^(i-1)`, put into words it means '( the length of the array from start to *i* ) - ( the part of array skipped until the previous iteration )'. Is simple verify that `2^i - 2^(i-1) = 2^(i-1) ` 
 
 After this detailed explanation we can say that the the complexity of the Exponential Search is:
 

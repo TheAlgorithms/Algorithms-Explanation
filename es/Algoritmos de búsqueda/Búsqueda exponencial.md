@@ -2,7 +2,7 @@
 
 #### Requisitos previos
 
-- [Algoritmo de búsqueda binaria](https://github.com/faridevnz/Algorithms-Explicación/blob/master/en/Search%20Algorithms/Binary%20Search.md)
+- [Algoritmo de búsqueda binaria](Búsqueda%20binaria.md)
 
 #### Declaración de problema
 
@@ -39,7 +39,7 @@ Ahora podemos aplicar la búsqueda binaria en el subarray de 512 y 1_000.
 #### Explicación de complejidad
 
 - La complejidad de la primera parte del algoritmo es **`O( log *i* )`** porque si *i* es la posición del destino en la matriz, después de duplicar la búsqueda *index* `⌈log(i)⌉` veces, el algoritmo estará en un índice de búsqueda que es mayor o igual que *i*. Podemos escribir `2^⌈log(i)⌉ >= i`
-- La complejidad de la segunda parte del algoritmo también es **`O ( log *i* )`** porque se trata de una simple búsqueda binaria. La complejidad de búsqueda binaria ( como se explica [aquí](https://github.com/faridevnz/Algorithms-Explicación/blob/master/en/Search%20Algorithms/Binary%20Search.md) ) es `O(*n*)` donde *n* es la longitud de la matriz. En la búsqueda exponencial, la longitud de la matriz en la que se aplica el algoritmo es `2^i - 2^(i-1)`, en palabras significa `(la longitud de la matriz de principio a *i* ) - (la parte de matriz omitida hasta la iteración anterior)`. Es simple verificar que `2^i - 2^(i-1) = 2^(i-1)`.
+- La complejidad de la segunda parte del algoritmo también es **`O ( log *i* )`** porque se trata de una simple búsqueda binaria. La complejidad de búsqueda binaria ( como se explica [aquí](Búsqueda%20binaria.md) ) es `O(*n*)` donde *n* es la longitud de la matriz. En la búsqueda exponencial, la longitud de la matriz en la que se aplica el algoritmo es `2^i - 2^(i-1)`, en palabras significa `(la longitud de la matriz de principio a *i* ) - (la parte de matriz omitida hasta la iteración anterior)`. Es simple verificar que `2^i - 2^(i-1) = 2^(i-1)`.
 
 Después de esta explicación detallada, podemos decir que la complejidad de la búsqueda exponencial es:
 
