@@ -4,7 +4,7 @@
 
 Contributions must be all your own work; plagiarism is not allowed.
 By submitting a pull request, you agree to license your contribution
-under the [license of this repository](https://github.com/TheAlgorithms/Algorithms-Explanation/blob/master/LICENSE.md).
+under the [license of this repository](./LICENSE.txt).
 
 ## Translations
 
