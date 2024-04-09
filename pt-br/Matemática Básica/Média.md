@@ -60,7 +60,7 @@ Retorne o valor de 22 ou `23`.
 
 ## URL do vídeo
 
-- [Média na Khan Academy](https://www.khanacademy.org/math/ap-statistics/summarizing-quantitative-data-ap/measuring-center-quantitative/v/mean-median-and-mode)
+- [Média na Khan Academy](https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/mean-and-median/v/mean-median-and-mode)
 
 ## Outros
 

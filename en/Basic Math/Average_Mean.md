@@ -59,7 +59,7 @@ Return the value of 22.<u>857142</u> or `23`.
 
 ## Video URL
 
--   [Mean on Khan Academy](https://www.khanacademy.org/math/ap-statistics/summarizing-quantitative-data-ap/measuring-center-quantitative/v/mean-median-and-mode)
+-   [Mean on Khan Academy](https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/mean-and-median/v/mean-median-and-mode)
 
 ## Others
 
