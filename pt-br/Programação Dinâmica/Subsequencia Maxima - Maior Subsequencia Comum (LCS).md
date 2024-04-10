@@ -82,4 +82,3 @@ Sendo o comprimento da maior subsequência comum igual a: `dp[4][4] = 3`.
 #### Explicação em vídeo
 
 - [Vídeo do canal OnlineBioinfo Bioinformática explicando sobre o algoritmo LCS](https://youtu.be/cX_hFqA8wDI)
-- [Video de analise do algoritmo pelo canal Delacyr Ferreira](https://youtu.be/wnq0SqzjbNU)
