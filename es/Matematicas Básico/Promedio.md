@@ -60,7 +60,7 @@ Devuelva el valor de 22. <u>857142</u> o `23`.
 
 ## Video en YouTube
 
-- [Media en Khan Academy](https://www.khanacademy.org/math/ap-statistics/summarizing-quantitative-data-ap/measuring-center-quantitative/v/mean-media-and-mode)
+- [Media en Khan Academy](https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/mean-and-median/v/mean-median-and-mode)
 
 ## Otros
 
