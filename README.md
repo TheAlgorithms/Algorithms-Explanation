@@ -9,6 +9,7 @@ Popular algorithms explained in simple language with examples and links to their
 
 ## Languages
 
+- [Arabic](./ar)
 - [Uzbek](./uz)
 - [Brazilian Portuguese](./pt-br)
 - [English](./en)
